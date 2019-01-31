@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "jsdom": "^13.2.0",
     "puppeteer": "^1.11.0",
     "tabletojson": "^1.0.1"
   },
