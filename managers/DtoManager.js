@@ -1,6 +1,5 @@
-const fs = require('fs');
-const path = require('path');
 const YAML = require('json-to-pretty-yaml');
+const {writeJSONFile} = '../utils';
 
 // 分析 getSwaggerType
 function getSwaggerType(data) {
@@ -32,14 +31,6 @@ function firstWordToLowerCase(str) {
         strTemp += str[i];
     }
     return strTemp;
-}
-
-// 工具方法
-// 将 JSON 字符串写入临时文件
-function writeJSONFile(data) {
-    fs.writeFile(path.join('./test', 'tmp.json'), JSON.stringify(data, null, 2), () => {
-        console.log('写入完成');
-    });
 }
 
 // 分辨表格数据是查询参数还是查询结果
