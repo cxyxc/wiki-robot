@@ -1,18 +1,5 @@
 const YAML = require('json-to-pretty-yaml');
-const {writeJSONFile, uuid, genarateSwaggerItem} = require('../utils');
-
-// 首字母转换成小写
-function firstWordToLowerCase(str) {
-    let strTemp = "";
-    for(let i = 0; i < str.length; i++) {
-        if(i == 0) {
-            strTemp += str[i].toLowerCase();
-            continue;
-        }
-        strTemp += str[i];
-    }
-    return strTemp;
-}
+const {writeJSONFile, uuid, genarateSwaggerItem, firstWordToLowerCase} = require('../utils');
 
 // 分辨表格数据是查询参数还是查询结果
 function checkIsParameters(data) {

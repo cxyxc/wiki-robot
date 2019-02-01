@@ -9,6 +9,14 @@ function writeJSONFile(data) {
     });
 }
 
+// 工具方法（测试用）
+// 将 JSON 字符串写入临时文件
+function writeYAMLFile(data) {
+    fs.writeFile(path.join('./test', 'tmp.yaml'), data.replace(/"/g, ''), () => {
+        console.log('写入完成');
+    });
+}
+
 const uuid = () => 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, c => {
     let r = Math.random() * 16 | 0,
         v = c === 'x' ? r : (r & 0x3 | 0x8);
@@ -48,8 +56,24 @@ function genarateSwaggerItem(data) {
     return format ? {type, format, description} : {type, description};
 }
 
+
+// 首字母转换成小写
+function firstWordToLowerCase(str) {
+    let strTemp = "";
+    for(let i = 0; i < str.length; i++) {
+        if(i == 0) {
+            strTemp += str[i].toLowerCase();
+            continue;
+        }
+        strTemp += str[i];
+    }
+    return strTemp;
+}
+
 module.exports = {
     writeJSONFile,
+    writeYAMLFile,
     genarateSwaggerItem,
+    firstWordToLowerCase,
     uuid
 }
