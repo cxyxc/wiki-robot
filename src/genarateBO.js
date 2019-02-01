@@ -10,7 +10,7 @@ puppeteer.launch().then(async browser => {
     await login(page);
     
     for(let i = 0;i < BO_LIST.length;i++)
-        await boManager.getBowerPage(page, BO_LIST[i]);
+        await boManager.getDataFromBowerPage(page, BO_LIST[i]);
     
     const data = {};    
     for(let key in boManager.data) {

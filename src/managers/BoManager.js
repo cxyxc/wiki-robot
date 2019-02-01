@@ -14,9 +14,9 @@ class BoManager {
     print() {
         writeJSONFile(this.data);
     }
-    async getBowerPage(page, key) {
+    async getDataFromBowerPage(page, key) {
         if(!this.data.key) {
-            // 说明当前表格数据需要查询实体，跳转至实体页面
+            // 跳转至实体页面
             const url = `https://wiki.sdtdev.net/EXEED:${key}`
             await page.goto(url);
             await page.waitFor(1000);

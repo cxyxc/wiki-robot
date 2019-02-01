@@ -30,7 +30,7 @@ puppeteer.launch().then(async browser => {
         const data = jsonDatas[i];
         const key = getBoKey(data); // 判断数据中是否包含 BO key
         if(key) {
-            await boManager.getBowerPage(page, key);
+            await boManager.getDataFromBowerPage(page, key);
             const bo = boManager.get(key);
 
             dtoManager.setOriginalData(`Untitled${i}`, data.map(item => {
@@ -41,8 +41,6 @@ puppeteer.launch().then(async browser => {
     }
 
     dtoManager.genarate();
-    boManager.print();
-    // await page.screenshot({path: 'screenshot.png'});
-
+    dtoManager.print();
     await browser.close();
 });
