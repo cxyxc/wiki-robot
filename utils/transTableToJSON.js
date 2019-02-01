@@ -29,6 +29,7 @@ function transTableToJSON(table) {
             if (rowspan) {
                 // 当前行往下 rowspan - 1 行对应位置填充空格
                 for(let k = 0; k < rowspan - 1; k++) {
+                    if(!tableArray[i + k + 1]) break;
                     tableArray[i + k + 1].splice(j, 0, document.createElement('td'))
                 }
             }

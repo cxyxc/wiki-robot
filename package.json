@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "jsdom": "^13.2.0",
+    "json-to-pretty-yaml": "^1.2.2",
     "puppeteer": "^1.11.0",
     "tabletojson": "^1.0.1"
   },
