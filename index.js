@@ -2,10 +2,7 @@ const puppeteer = require('puppeteer');
 const dtoManager = require('./managers/DtoManager');
 const boManager = require('./managers/BoManager');
 const transTableToJSON = require('./utils/transTableToJSON');
-
-const LOGIN_URL = 'https://wiki.sdtdev.net/特殊:用户登录';
-const USERNAME = '崔灿';
-const PASSWORD = '18764813705';
+const login = require('./utils/login');
 
 // 分析表头中是否包含实体标识并返回实体名
 function getBoKey(data) {
@@ -16,14 +13,8 @@ function getBoKey(data) {
 
 puppeteer.launch().then(async browser => {
     const page = await browser.newPage();
-    await page.goto(LOGIN_URL);
-    const usernameInput = await page.$('#wpName1');
-    const passwordInput = await page.$('#wpPassword1');
-    const submitButton = await page.$('#wpLoginAttempt');
-    await usernameInput.type(USERNAME);
-    await passwordInput.type(PASSWORD);
-    await submitButton.click();
-    await page.waitFor(1000);
+    await login(page);
+
     const url = 'https://wiki.sdtdev.net/EXEED:质量反馈管理';
     await page.goto(url);
     await page.waitFor(1000);

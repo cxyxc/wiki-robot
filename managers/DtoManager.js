@@ -1,24 +1,5 @@
 const YAML = require('json-to-pretty-yaml');
-const {writeJSONFile} = '../utils';
-
-// 分析 getSwaggerType
-function getSwaggerType(data) {
-    const dataType = data['数据类型'] || '';
-    let type = 'string';
-    let format = null;
-    if(dataType.includes('String')) type = 'string';
-    if(dataType.includes('DateTime')) {
-        type = 'string';
-        data = 'date-time';
-    }
-    if(dataType.includes('Integer')) type = 'integer';
-    if(dataType.includes('Boolean')) type = 'boolean';
-    if(dataType.includes('Money')) {
-        type = 'number';
-        format = 'float';
-    }
-    return format ? {type, format} : {type};
-}
+const {writeJSONFile, uuid, genarateSwaggerItem} = require('../utils');
 
 // 首字母转换成小写
 function firstWordToLowerCase(str) {
@@ -46,7 +27,7 @@ class DtoManager {
     }
     setOriginalData(key, data) {
         this.data[key] = {
-            origin: data
+            origin: data.map(item => ({...item, id: uuid()}))
         };
     }
     get(key) {
@@ -65,17 +46,17 @@ class DtoManager {
                 yaml: ''
             };
             data.origin.forEach(item => {
-                const key = firstWordToLowerCase(item.代码名称 || 'notFound');
+                const key = firstWordToLowerCase(item.代码名称 || item.id);
                 if(isParameters) {
                     swagger.json.push({
                         name: key,
                         in: "query",
                         description: `${item.属性名称}`,
-                        schema: getSwaggerType(item),
+                        schema: genarateSwaggerItem(item),
                     });
                 } else {
                     swagger.json[key] = {
-                        ...getSwaggerType(item),
+                        ...genarateSwaggerItem(item),
                         description: `${item.属性名称}`
                     };
                 }
