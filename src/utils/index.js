@@ -4,23 +4,23 @@ const path = require('path');
 // 工具方法（测试用）
 // 将 JSON 字符串写入临时文件
 function writeJSONFile(data) {
-    fs.writeFile(path.join(process.cwd(), 'tmp', 'tmp.json'), JSON.stringify(data, null, 2), () => {
-        console.log('写入完成');
-    });
+	fs.writeFile(path.join(process.cwd(), 'tmp', 'tmp.json'), JSON.stringify(data, null, 2), () => {
+		console.log('写入完成');
+	});
 }
 
 // 工具方法（测试用）
 // 将 JSON 字符串写入临时文件
 function writeYAMLFile(data) {
-    fs.writeFile(path.join(process.cwd(), 'tmp', 'tmp.json'), data.replace(/"/g, ''), () => {
-        console.log('写入完成');
-    });
+	fs.writeFile(path.join(process.cwd(), 'tmp', 'tmp.json'), data.replace(/"/g, ''), () => {
+		console.log('写入完成');
+	});
 }
 
 const uuid = () => 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, c => {
-    let r = Math.random() * 16 | 0,
-        v = c === 'x' ? r : (r & 0x3 | 0x8);
-    return v.toString(16);
+	let r = Math.random() * 16 | 0,
+		v = c === 'x' ? r : (r & 0x3 | 0x8);
+	return v.toString(16);
 });
 
 
@@ -38,42 +38,42 @@ const uuid = () => 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, c => 
  * }
  */
 function genarateSwaggerItem(data) {
-    const dataType = data['数据类型'] || '';
-    const description = `${data.属性名称}`;
-    let type = 'string';
-    let format = null;
-    if(dataType.includes('String')) type = 'string';
-    if(dataType.includes('DateTime')) {
-        type = 'string';
-        data = 'date-time';
-    }
-    if(dataType.includes('Integer')) type = 'integer';
-    if(dataType.includes('Boolean')) type = 'boolean';
-    if(dataType.includes('Money')) {
-        type = 'number';
-        format = 'float';
-    }
-    return format ? {type, format, description} : {type, description};
+	const dataType = data['数据类型'] || '';
+	const description = `${data.属性名称}`;
+	let type = 'string';
+	let format = null;
+	if(dataType.includes('String')) type = 'string';
+	if(dataType.includes('DateTime')) {
+		type = 'string';
+		data = 'date-time';
+	}
+	if(dataType.includes('Integer')) type = 'integer';
+	if(dataType.includes('Boolean')) type = 'boolean';
+	if(dataType.includes('Money')) {
+		type = 'number';
+		format = 'float';
+	}
+	return format ? {type, format, description} : {type, description};
 }
 
 
 // 首字母转换成小写
 function firstWordToLowerCase(str) {
-    let strTemp = "";
-    for(let i = 0; i < str.length; i++) {
-        if(i == 0) {
-            strTemp += str[i].toLowerCase();
-            continue;
-        }
-        strTemp += str[i];
-    }
-    return strTemp;
+	let strTemp = '';
+	for(let i = 0; i < str.length; i++) {
+		if(i == 0) {
+			strTemp += str[i].toLowerCase();
+			continue;
+		}
+		strTemp += str[i];
+	}
+	return strTemp;
 }
 
 module.exports = {
-    writeJSONFile,
-    writeYAMLFile,
-    genarateSwaggerItem,
-    firstWordToLowerCase,
-    uuid
-}
+	writeJSONFile,
+	writeYAMLFile,
+	genarateSwaggerItem,
+	firstWordToLowerCase,
+	uuid
+};

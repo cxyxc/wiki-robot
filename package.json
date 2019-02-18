@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node ./src/index",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
@@ -15,7 +16,6 @@
     "tabletojson": "^1.0.1"
   },
   "devDependencies": {
-    "babel-eslint": "^10.0.1",
     "eslint": "^5.12.1"
   }
 }
