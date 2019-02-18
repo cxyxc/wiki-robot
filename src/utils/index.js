@@ -12,7 +12,7 @@ function writeJSONFile(data) {
 // 工具方法（测试用）
 // 将 JSON 字符串写入临时文件
 function writeYAMLFile(data) {
-	fs.writeFile(path.join(process.cwd(), 'tmp', 'tmp.json'), data.replace(/"/g, ''), () => {
+	fs.writeFile(path.join(process.cwd(), 'tmp', 'tmp.yaml'), data.replace(/"/g, ''), () => {
 		console.log('写入完成');
 	});
 }
