@@ -1,5 +1,5 @@
 const YAML = require('json-to-pretty-yaml');
-const {writeJSONFile, uuid, genarateSwaggerItem, firstWordToLowerCase} = require('../utils');
+const {writeJSONFile, writeYAMLFile, uuid, genarateSwaggerItem, firstWordToLowerCase} = require('../utils');
 
 // 分辨表格数据是查询参数还是查询结果
 function checkIsParameters(data) {
@@ -54,6 +54,10 @@ class DtoManager {
 	}
 	print() {
 		writeJSONFile(this.data);
+		const keys = Object.keys(this.data);
+		keys.forEach(item => {
+			writeYAMLFile(this.data[item].swagger.yaml, `${item}.yaml`);
+		});
 	}
 }
 
