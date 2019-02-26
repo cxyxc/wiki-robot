@@ -16,12 +16,12 @@ class BoManager {
 		writeJSONFile(this.data);
 	}
 	async getDataFromBowerPage(page, key) {
-		if(!this.data.key) {
+		if(!this.data[key]) {
 			// 跳转至实体页面
 			const url = `${BASE_URL}${key}`;
 			await page.goto(url);
 			await page.waitFor(1000);
-    
+
 			// 获取实体数据
 			const boTableData = await page.$eval('.wikitable', node => node.outerHTML.replace(/[\r\n]/g, ''));
 			const boJsonData = tabletojson.convert(boTableData)[0];
