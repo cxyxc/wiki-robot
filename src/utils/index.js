@@ -40,7 +40,7 @@ const uuid = () => 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, c => 
 function genarateSwaggerItem(data) {
 	const dataType = data['数据类型'] || '';
 	const description = `${data.属性名称}`;
-	let type = 'string';
+	let type = 'integer';
 	let format = null;
 	if(dataType.includes('String')) type = 'string';
 	if(dataType.includes('DateTime')) {
