@@ -19,23 +19,26 @@ function transTableToJSON(table) {
 		}
 	}
 
-	for (let i = 0; i < tableArray.length; i++) {
-		const trArray = tableArray[i];
-		for (let j = 0; j < trArray.length; j++) {
-			const td = trArray[j];
+	const colLength = tableArray[0].length;
+	for (let i = 0; i < colLength; i++) {
+		let j = 0;
+		while(tableArray[j] && tableArray[j][i]) {
+			const td = tableArray[j][i];
 			const rowspan = parseInt(td.getAttribute('rowspan'), 10);
-			const colspan = parseInt(td.getAttribute('colspan'), 10);
-			if (isNaN(rowspan) && isNaN(colspan)) continue;
+			if (isNaN(rowspan)) {
+				j++;
+				continue;
+			}
 			if (rowspan) {
 				// 当前行往下 rowspan - 1 行对应位置填充空格
 				for(let k = 0; k < rowspan - 1; k++) {
-					if(!tableArray[i + k + 1]) break;
-					tableArray[i + k + 1].splice(j, 0, document.createElement('td'));
+					if(!tableArray[j + k + 1]) break;
+					const newTd = document.createElement('td');
+					newTd.innerHTML = td.innerHTML;
+					tableArray[j + k + 1].splice(i, 0, newTd);
 				}
 			}
-			if(colspan) {
-				trArray.splice(j, colspan - 1, document.createElement('td'));
-			}
+			j++;
 		}
 	}
 
