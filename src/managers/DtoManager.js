@@ -1,12 +1,12 @@
 const YAML = require('json-to-pretty-yaml');
 const {writeJSONFile, writeYAMLFile, uuid, genarateSwaggerItem, firstWordToLowerCase} = require('../utils');
 
-// 分辨表格数据是查询参数还是查询结果
-function checkIsParameters(data) {
-	const keyItems = Object.keys(data[0]);
-	const key = keyItems.find(item => item === '建议控件' || item === '默认值');
-	return Boolean(key);
-}
+// // 分辨表格数据是查询参数还是查询结果
+// function checkIsParameters(data) {
+// 	const keyItems = Object.keys(data[0]);
+// 	const key = keyItems.find(item => item === '建议控件' || item === '默认值');
+// 	return Boolean(key);
+// }
 
 class DtoManager {
 	constructor() {
@@ -23,32 +23,27 @@ class DtoManager {
 	genarate() {
 		for(const key in this.data) {
 			const data = this.data[key];
-            
-			// 分辨当前表格数据是否是 Parameters
-			const isParameters = checkIsParameters(data.origin); 
 
 			// 生成 swagger api 文档 yaml Schemas
 			const swagger = {
-				json: isParameters ? [] : {},
-				yaml: ''
+				yaml_schema: '',
+				yaml_params: '',
 			};
 			data.origin.forEach(item => {
 				const key = firstWordToLowerCase(item.代码名称 || item.id);
-				if(isParameters) {
-					swagger.json.push({
-						name: key,
-						in: 'query',
-						description: `${item.属性名称}`,
-						schema: genarateSwaggerItem(item),
-					});
-				} else {
-					swagger.json[key] = {
-						...genarateSwaggerItem(item),
-						description: `${item.属性名称}`
-					};
-				}
+				swagger.json_schema[key] = {
+					...genarateSwaggerItem(item),
+					description: `${item.属性名称}`
+				};
+				swagger.json_params.push({
+					name: key,
+					in: 'query',
+					description: `${item.属性名称}`,
+					schema: genarateSwaggerItem(item),
+				});
 			});
-			swagger.yaml = YAML.stringify(swagger.json);
+			swagger.yaml_schema = YAML.stringify(swagger.json_schema);
+			swagger.yaml_params = YAML.stringify(swagger.json_params);
 			data.swagger = swagger;
 		}
 	}
