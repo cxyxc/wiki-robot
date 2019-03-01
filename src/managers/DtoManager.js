@@ -70,7 +70,7 @@ class DtoManager {
 									onChange={this.handleFilterChange} />`;
 					const Wrapper = `
 						<Col {...FORM_OPTIONS.col}>
-							<FormItem label="${label}" {...FORM_ROW_OPTIONS.item} ${notEmpty ? `validateStatus={this.state.isValidate && !detailData.${key} ? 'error'} : null` : ''}>
+							<FormItem label="${label}" {...FORM_ROW_OPTIONS.item} ${notEmpty ? `validateStatus={this.state.isValidate && !detailData.${key} ? 'error' : null}` : ''}>
 								${Component}
 							</FormItem>
 						</Col>`;
