@@ -17,7 +17,15 @@ function writeYAMLFile(data, filename = 'tmp.yaml') {
 	});
 }
 
-const uuid = () => 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, c => {
+// 工具方法（测试用）
+// 将字符串写入临时文件
+function writeFile(data, filename = 'tmp') {
+	fs.writeFile(path.join(process.cwd(), 'tmp', filename), data, () => {
+		console.log('写入完成');
+	});
+}
+
+const uuid = () => 'xxxxxxxx'.replace(/[xy]/g, c => {
 	let r = Math.random() * 16 | 0,
 		v = c === 'x' ? r : (r & 0x3 | 0x8);
 	return v.toString(16);
@@ -73,6 +81,7 @@ function firstWordToLowerCase(str) {
 module.exports = {
 	writeJSONFile,
 	writeYAMLFile,
+	writeFile,
 	genarateSwaggerItem,
 	firstWordToLowerCase,
 	uuid
