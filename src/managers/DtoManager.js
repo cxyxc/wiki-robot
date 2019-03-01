@@ -32,6 +32,9 @@ class DtoManager {
 				yaml_params: '',
 			};
 			const formItems = [];
+			const descriptions = [];
+			const columns = [];
+
 			data.origin.forEach(item => {
 				const key = firstWordToLowerCase(item.代码名称 || item.id);
 				swagger.json_schema[key] = {
@@ -45,49 +48,65 @@ class DtoManager {
 					schema: genarateSwaggerItem(item),
 				});
 
-				if(item.可编辑 === '✔') {
-					const label = item.显示文字 || item.属性名称;
-					const notEmpty = item.不可为空 === '✔';
-					let componentTag = '使用控件';
-					if(!item[componentTag]) componentTag = '建议控件';
-					const componentName = item[componentTag];
-					let Component = '';
-					if(componentName === '文本框')
-						Component = `<TextInput
+				const label = item.显示文字 || item.属性名称;
+				const notEmpty = item.不可为空 === '✔';
+				const canEdit = item.可编辑 === '✔';
+				let componentTag = '使用控件';
+				if(!item[componentTag]) componentTag = '建议控件';
+				const componentName = item[componentTag];
+				let Component = '';
+				if(componentName === '文本框' && canEdit)
+					Component = `<TextInput
 									name="${key}"
 									value={detailData.${key}}
 									onBlur={this.handleFilterChange} />`;
-					if(componentName === '下拉框')
-						Component = `<WrappedSelect
+				if(componentName === '下拉框' && canEdit)
+					Component = `<WrappedSelect
 									name="${key}"
 									options={Enum.toList()}
 									value={detailData.${key}}
-									onBlur={this.handleFilterChange} />`;
-					if(componentName === '时间控件')
-						Component = `<WrappedDatePicker
+									onChange={this.handleFilterChange} />`;
+				if(componentName === '时间控件' && canEdit)
+					Component = `<WrappedDatePicker
 									name="${key}"
 									value={detailData.${key}}
 									onChange={this.handleFilterChange} />`;
-					const Wrapper = `
+				if(!canEdit)
+					Component = `<span>{detailData.${key}}</span>`;
+				const Wrapper = `
 						<Col {...FORM_OPTIONS.col}>
-							<FormItem label="${label}" {...FORM_ROW_OPTIONS.item} ${notEmpty ? `validateStatus={this.state.isValidate && !detailData.${key} ? 'error' : null}` : ''}>
+							<FormItem label="${label}" {...FORM_OPTIONS.item} ${notEmpty ? `validateStatus={this.state.isValidate && !detailData.${key} ? 'error' : null}` : ''}>
 								${Component}
 							</FormItem>
 						</Col>`;
-					formItems.push(Wrapper);
-				}
+				formItems.push(Wrapper);
+
+
+				descriptions.push(`
+				<Description
+					term="${label}">
+					{item.${key}}
+				</Description>`);
+
+				columns.push({
+					title: label,
+					dataIndex: key,
+				});
 			});
 			swagger.yaml_schema = YAML.stringify(swagger.json_schema);
 			swagger.yaml_params = YAML.stringify(swagger.json_params);
 			data.swagger = swagger;
 			data.formItems = formItems;
+			data.descriptions = descriptions;
+			data.columns = columns;
 		}
 	}
 	print() {
 		writeJSONFile(this.data);
 		const keys = Object.keys(this.data);
 		keys.forEach(item => {
-			writeFile(this.data[item].formItems.join(''), item);
+			// writeFile(this.data[item].descriptions.join(''), item);
+			writeJSONFile(this.data[item].columns, item);
 		});
 	}
 }

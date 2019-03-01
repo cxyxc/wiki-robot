@@ -3,8 +3,8 @@ const path = require('path');
 
 // 工具方法（测试用）
 // 将 JSON 字符串写入临时文件
-function writeJSONFile(data) {
-	fs.writeFile(path.join(process.cwd(), 'tmp', 'tmp.json'), JSON.stringify(data, null, 2), () => {
+function writeJSONFile(data, filename = 'tmp.json') {
+	fs.writeFile(path.join(process.cwd(), 'tmp', filename), JSON.stringify(data, null, 2), () => {
 		console.log('写入完成');
 	});
 }
@@ -25,7 +25,7 @@ function writeFile(data, filename = 'tmp') {
 	});
 }
 
-const uuid = () => 'xxxxxxxx'.replace(/[xy]/g, c => {
+const uuid = () => '1xxxxxxxx'.replace(/[xy]/g, c => {
 	let r = Math.random() * 16 | 0,
 		v = c === 'x' ? r : (r & 0x3 | 0x8);
 	return v.toString(16);
