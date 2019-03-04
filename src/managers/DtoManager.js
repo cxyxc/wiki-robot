@@ -34,9 +34,11 @@ class DtoManager {
 			const formItems = [];
 			const descriptions = [];
 			const columns = [];
+			const submitDatas = [];
+			const submitRequiedDatas = [];
 
 			data.origin.forEach(item => {
-				const key = firstWordToLowerCase(item.代码名称 || item.id);
+				const key = firstWordToLowerCase(item.代码名称 || item.属性名称);
 				swagger.json_schema[key] = {
 					...genarateSwaggerItem(item),
 					description: `${item.属性名称}`
@@ -92,21 +94,39 @@ class DtoManager {
 					title: label,
 					dataIndex: key,
 				});
+
+				// 应该提交的字段
+				if(canEdit) {
+					submitDatas.push(firstWordToLowerCase(key));
+				}
+
+				// 提交且不可为空的字段
+				if(canEdit && notEmpty) {
+					submitRequiedDatas.push(`
+					if(!data.${firstWordToLowerCase(key)})
+						return '${label}不能为空';`);
+				}
 			});
+			
 			swagger.yaml_schema = YAML.stringify(swagger.json_schema);
 			swagger.yaml_params = YAML.stringify(swagger.json_params);
 			data.swagger = swagger;
 			data.formItems = formItems;
 			data.descriptions = descriptions;
 			data.columns = columns;
+			data.submitDatas = submitDatas;
+			data.submitRequiedDatas = submitRequiedDatas;
 		}
 	}
 	print() {
 		writeJSONFile(this.data);
 		const keys = Object.keys(this.data);
 		keys.forEach(item => {
+			// writeFile(this.data[item].formItems.join(''), item);
 			// writeFile(this.data[item].descriptions.join(''), item);
-			writeJSONFile(this.data[item].columns, item);
+			// writeJSONFile(this.data[item].columns, item);
+			// writeJSONFile(this.data[item].submitDatas, item);
+			writeFile(this.data[item].submitRequiedDatas.join(''), item);
 		});
 	}
 }

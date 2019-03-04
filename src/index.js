@@ -4,6 +4,7 @@ const boManager = require('./managers/BoManager');
 const transTableToJSON = require('./utils/transTableToJSON');
 const login = require('./utils/login');
 const {BASE_URL} = require('./config');
+const {writeJSONFile} = require('./utils');
 
 function getBoString(keyItems) {
 	return keyItems.find(item => item === '所属实体' || item === '实体名称');
@@ -31,7 +32,7 @@ puppeteer.launch().then(async browser => {
 	const page = await browser.newPage();
 	await login(page);
 
-	const url = `${BASE_URL}客户档案管理`;
+	const url = `${BASE_URL}客户档案管理/实销退货编辑`;
 	await page.goto(url);
 	await page.waitFor(1000);
 
@@ -40,7 +41,6 @@ puppeteer.launch().then(async browser => {
 	// 格式化所有表格数据
 	const tableDatas = await page.$$eval('.wikitable', nodes => nodes.map(node => node.outerHTML));
 	const jsonDatas = tableDatas.map(data => transTableToJSON(data));
-	
 	// 实体数据填充
 	for(let i = 0;i < jsonDatas.length;i++) {
 		const tmpData = jsonDatas[i];
