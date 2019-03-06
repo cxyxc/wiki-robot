@@ -51,7 +51,7 @@ module.exports = function({systemName, moduleName, printType, outputPath}) {
 		for(let i = 0; i < reviewedPageUrls.length;i++) {
 			// 外层循环，节点首页
 			const url = reviewedPageUrls[i];
-			log('正在读取：', decodeURI(url));
+			log('正在读取节点首页：', decodeURI(url));
 			await page.goto(url);
 			await page.waitFor(1000);
 			try {
@@ -78,10 +78,10 @@ module.exports = function({systemName, moduleName, printType, outputPath}) {
 				});
 				boList = boList.concat(hrefs.bo);
 
-				for(let j = 0;j < hrefs.page;j++) {
+				for(let j = 0;j < hrefs.page.length;j++) {
 					// 内层循环，假设业务节点只有两级，暂不考虑递归实现
 					const url = hrefs.page[j];
-					log('正在读取：', decodeURI(url));
+					log('正在读取子页面：', decodeURI(url));
 					await page.goto(url);
 					await page.waitFor(1000);
 					try {
@@ -99,12 +99,12 @@ module.exports = function({systemName, moduleName, printType, outputPath}) {
 						});
 						boList = boList.concat(bos);
 					} catch (error) {
-						log(error);
+						log(`子页面： ${decodeURI(url)} 读取失败。请确认其是否存在。`);
 						continue;
 					}
 				}
 			} catch (error) {
-				log(error);
+				log(`节点首页： ${decodeURI(url)} 读取失败。请确认其是否存在。`);
 				continue;
 			}
 		}
@@ -114,7 +114,7 @@ module.exports = function({systemName, moduleName, printType, outputPath}) {
 		let enumList = [];
 		for(let i = 0; i < boList.length;i++) {
 			const url = boList[i];
-			log('正在读取：', decodeURI(url));
+			log('正在读取BO：', decodeURI(url));
 			await page.goto(url);
 			await page.waitFor(1000);
 
@@ -128,7 +128,7 @@ module.exports = function({systemName, moduleName, printType, outputPath}) {
 				});
 				enumList = enumList.concat(hrefs);
 			} catch (error) {
-				log(error);
+				log(`BO ${decodeURI(url)} 读取失败。请确认其是否存在。`);
 				continue;
 			}
 		}
@@ -136,7 +136,7 @@ module.exports = function({systemName, moduleName, printType, outputPath}) {
 		
 		for(let i = 0;i < enumList.length;i++) {
 			const url = enumList[i];
-			log('正在读取：', decodeURI(url));
+			log('正在读取BO关联字段：', decodeURI(url));
 			await page.goto(url);
 			await page.waitFor(1000);
 			// 过滤关联到的 BO
@@ -149,10 +149,12 @@ module.exports = function({systemName, moduleName, printType, outputPath}) {
 					});
 					return isEnum;
 				});
-				if(isEnum)
+				if(isEnum) {
+					log('发现枚举：', decodeURI(url));
 					await enumManager.getDataFromBowerPage(page, enumList[i]);
+				}
 			} catch (error) {
-				log(error);
+				log(`BO关联字段： ${decodeURI(url)} 读取失败。请确认其是否存在。`);
 				continue;
 			}
 		}
