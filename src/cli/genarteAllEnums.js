@@ -15,7 +15,7 @@ module.exports = function({systemName, moduleName, printType, outputPath}) {
 		
 		log('正在读取：', URL);
 		await page.goto(URL);
-		await page.waitFor(1000);
+		await page.waitForSelector('.wikitable', {timeout: 1000});
 
 		const tableDatas = await page.$$eval('.wikitable', nodes => {
 			return nodes.map(node => {
@@ -51,10 +51,10 @@ module.exports = function({systemName, moduleName, printType, outputPath}) {
 		for(let i = 0; i < reviewedPageUrls.length;i++) {
 			// 外层循环，节点首页
 			const url = reviewedPageUrls[i];
-			log('正在读取节点首页：', decodeURI(url));
-			await page.goto(url);
-			await page.waitFor(1000);
 			try {
+				log('正在读取节点首页：', decodeURI(url));
+				await page.goto(url);
+				await page.waitForSelector('.modelbox tr', {timeout: 1000});
 				const hrefs = await page.$$eval('.modelbox tr', nodes => {
 					const result = {
 						bo: [],
@@ -79,12 +79,13 @@ module.exports = function({systemName, moduleName, printType, outputPath}) {
 				boList = boList.concat(hrefs.bo);
 
 				for(let j = 0;j < hrefs.page.length;j++) {
-					// 内层循环，假设业务节点只有两级，暂不考虑递归实现
 					const url = hrefs.page[j];
-					log('正在读取子页面：', decodeURI(url));
-					await page.goto(url);
-					await page.waitFor(1000);
 					try {
+						// 内层循环，假设业务节点只有两级，暂不考虑递归实现
+						log('正在读取子页面：', decodeURI(url));
+						await page.goto(url);
+						await page.waitForSelector('.modelbox tr', {timeout: 1000});
+
 						const bos = await page.$$eval('.modelbox tr', nodes => {
 							const bo = [];
 							nodes.forEach(tr => {
@@ -114,11 +115,11 @@ module.exports = function({systemName, moduleName, printType, outputPath}) {
 		let enumList = [];
 		for(let i = 0; i < boList.length;i++) {
 			const url = boList[i];
-			log('正在读取BO：', decodeURI(url));
-			await page.goto(url);
-			await page.waitFor(1000);
-
 			try {
+				log('正在读取BO：', decodeURI(url));
+				await page.goto(url);
+				await page.waitForSelector('.wikitable', {timeout: 1000});
+
 				const hrefs = await page.$$eval('.wikitable', nodes => {
 					const urls = [];
 					nodes[0].querySelectorAll('a').forEach(a => 
@@ -136,11 +137,11 @@ module.exports = function({systemName, moduleName, printType, outputPath}) {
 		
 		for(let i = 0;i < enumList.length;i++) {
 			const url = enumList[i];
-			log('正在读取BO关联字段：', decodeURI(url));
-			await page.goto(url);
-			await page.waitFor(1000);
-			// 过滤关联到的 BO
 			try {
+				// 过滤关联到的 BO
+				log('正在读取BO关联字段：', decodeURI(url));
+				await page.goto(url);
+				await page.waitForSelector('#mw-normal-catlinks', {timeout: 1000});
 				const isEnum =  await page.$$eval('#mw-normal-catlinks', nodes => {
 					let isEnum = false;
 					nodes[0].querySelectorAll('a').forEach(a => {
