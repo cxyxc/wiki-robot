@@ -1,6 +1,38 @@
-const {writeJSONFile} = require('../util/writeFile');
+const {writeFile, writeJSONFile} = require('../util/writeFile');
 const tabletojson = require('tabletojson');
+const firstWordToLowerCase = require('../util/firstWordToLowerCase');
 const log = global.console.log;
+
+const defaultType = {
+	C: item => `
+// ${item.desc} ${item.url}
+export const ${firstWordToLowerCase(item.name)} = Object.freeze({
+	__proto__: Enum,
+	${item.content.map(c => `${c.名称}: ${c.数值}`).join(',\n\t')},
+	properties: Object.freeze({
+		${item.content.map(c => `
+		'${c.数值}': Object.freeze({
+			__proto__: EnumItem,
+			[CN]: '${c.名称}'
+		})`.trim()).join(',\n\t\t')}
+	})
+});
+`.trim(),
+	S: item => `
+// ${item.desc} ${item.url}
+public enum ${item.name} = {
+	${item.content.map(c => {
+		let rename = null;
+		if(c.名称.includes('/'))
+			rename = c.名称.replace(/\//g, '_');
+		if(/[0-9]/.test(c.名称[0]))
+			rename = `_${c.名称}`;
+		if(rename) return `[Display(Name = "${c.名称}")]\n\t${rename}: ${c.数值}`;
+		return `${c.名称}: ${c.数值}`;
+	}).join(',\n\t')}
+};
+`.trim(),
+};
 
 class EnumManager {
 	constructor() {
@@ -13,8 +45,18 @@ class EnumManager {
 	get(url) {
 		return this.data[url];
 	}
-	print() {
+	log() {
 		writeJSONFile(this.data, 'EnumManager.json');
+	}
+	print(printType = 'C', outputPath) {
+		const list = [];
+		for(let url in this.data) {
+			list.push({
+				url,
+				...this.data[url]
+			});
+		}
+		writeFile(list.map(defaultType[printType]).join('\n'), outputPath);
 	}
 	has(url) {
 		return Boolean(this.data[url]);

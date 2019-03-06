@@ -21,9 +21,9 @@ function writeYAMLFile(data, filename = 'temp.yaml') {
 
 // 工具方法（测试用）
 // 将字符串写入临时文件
-function writeFile(data, filename = 'temp') {
-	fs.writeFile(path.join(process.cwd(), 'temp', filename), data, () => {
-		log('写入完成');
+function writeFile(data, filename = 'temp.log') {
+	fs.writeFile(path.join(process.cwd(), filename), data, () => {
+		log(filename, '写入完成');
 	});
 }
 

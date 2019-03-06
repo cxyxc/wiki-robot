@@ -8,7 +8,7 @@ const log = global.console.log;
 /** 定制化批量获取枚举值逻辑 */
 const URL = 'https://wiki.sdtdev.net/SDT:EXEED设计交付';
 
-module.exports = function({systemName, moduleName}) {
+module.exports = function({systemName, moduleName, printType, outputPath}) {
 	puppeteer.launch().then(async browser => {
 		const page = await browser.newPage();
 		await login(page);
@@ -156,7 +156,7 @@ module.exports = function({systemName, moduleName}) {
 				continue;
 			}
 		}
-		enumManager.print();
+		enumManager.print(printType, outputPath);
 		await browser.close();
 	});
 };
