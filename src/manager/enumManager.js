@@ -7,7 +7,8 @@ class EnumManager {
 		this.data = {};
 	}
 	set(url, data) {
-		this.data[url] = data;
+		const key = decodeURI(url);
+		this.data[key] = data;
 	}
 	get(url) {
 		return this.data[url];
@@ -22,6 +23,7 @@ class EnumManager {
 		if(this.has(url)) return this.get(url);
 		// 如 page 不在当前 url 跳转至枚举页面
 		if(page.url() !== url) {
+			log('正在读取：', decodeURI(url));
 			await page.goto(url);
 			await page.waitFor(1000);
 		}
