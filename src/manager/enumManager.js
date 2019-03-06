@@ -1,6 +1,6 @@
 const {writeJSONFile} = require('../util/writeFile');
 const tabletojson = require('tabletojson');
-const log = require('loglevel');
+const log = global.console.log;
 
 class EnumManager {
 	constructor() {
@@ -39,7 +39,7 @@ class EnumManager {
 			};
 			this.set(url, enumData);
 		} catch (error) {
-			log.error(error, `未找到 Enum:${decodeURI(url)}`);
+			log(error, `未找到 Enum:${decodeURI(url)}`);
 			this.set(url, {});
 		}
 		return this.get(url); 

@@ -3,7 +3,7 @@ const enumManager = require('../manager/enumManager');
 const login = require('../util/login');
 const uniq = require('../util/uniq');
 const tabletojson = require('tabletojson');
-const log = require('loglevel');
+const log = global.console.log;
 
 /** 定制化批量获取枚举值逻辑 */
 const URL = 'https://wiki.sdtdev.net/SDT:EXEED设计交付';
@@ -27,11 +27,11 @@ module.exports = function({systemName, moduleName}) {
 
 		const tableJsonDatas = tableDatas.map(data => tabletojson.convert(data)[0]);
 		const tableTitle = await page.$$eval('.mw-headline', nodes => nodes.map(node => node.innerHTML));
-		if(tableJsonDatas.length !== tableTitle.length) log.error(`检测到 ${URL} 功能模块标题与表格无法一一对应，可能导致解析出错。`);
+		if(tableJsonDatas.length !== tableTitle.length) log(`检测到 ${URL} 功能模块标题与表格无法一一对应，可能导致解析出错。`);
 
 		const tableIndex = tableTitle.findIndex(item => item === systemName);
 		if(tableIndex === -1) {
-			log.error('系统名未找到。');
+			log('系统名未找到。');
 			return;
 		}
 		const tableData = tableJsonDatas[tableIndex];
@@ -41,7 +41,7 @@ module.exports = function({systemName, moduleName}) {
 			.map(item => item.LV3);
 
 		if(reviewedPageUrls.length === 0) {
-			log.error('领域名未找到。');
+			log('领域名未找到。');
 			return;
 		}
 		// console.log(reviewedPageUrls.map(item => decodeURI(item)))
