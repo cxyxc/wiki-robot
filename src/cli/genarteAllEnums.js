@@ -37,7 +37,7 @@ module.exports = function({systemName, moduleName, printType, outputPath}) {
 		}
 		const tableData = tableJsonDatas[tableIndex];
 		
-		// 查找已经评审过的业务节点
+		// 查找已经交付的业务节点
 		const reviewedPageUrls = tableData.filter(item => item.交付日期 !== '' && item.LV1 === moduleName)
 			.map(item => item.LV3);
 
