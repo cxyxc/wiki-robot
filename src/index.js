@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 const init = require('./cli/init');
-const genarteAllEnums = require('./cli/genarteAllEnums');
+const generateAllEnums = require('./cli/generateAllEnums');
 
 require('yargs')
 	.scriptName('wiki-robot')
@@ -32,6 +32,6 @@ require('yargs')
 			type: 'string',
 			describe: '输出路径'
 		});
-	}, genarteAllEnums)
+	}, generateAllEnums)
 	.help()
 	.argv;
