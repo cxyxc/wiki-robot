@@ -33,7 +33,7 @@ public enum ${item.name} {
 			rename = c.名称.replace(reg, '_');
 		if(/[0-9]/.test(c.名称[0]))
 			rename = `_${c.名称}`;
-		if(rename) return `[Display(Name = "${c.名称}")]\n\t${rename}: ${c.数值}`;
+		if(rename) return `[Display(Name = "${c.名称}")]\n\t${rename} = ${c.数值}`;
 		return `${c.名称} = ${c.数值}`;
 	}).join(',\n\t')}
 };
