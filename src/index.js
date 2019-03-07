@@ -33,5 +33,19 @@ require('yargs')
 			describe: '输出路径'
 		});
 	}, generateAllEnums)
+	.command('enum [url] [printType] [outputPath]', 'genarte one enum', (yargs) => {
+		yargs.positional('url', {
+			type: 'string',
+			describe: '枚举值 url 地址'
+		});
+		yargs.positional('printType', {
+			type: 'string',
+			describe: '默认支持 C / S 两种输出形式'
+		});
+		yargs.positional('outputPath', {
+			type: 'string',
+			describe: '输出路径'
+		});
+	}, generateEnum)
 	.help()
 	.argv;
