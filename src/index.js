@@ -1,5 +1,6 @@
 #!/usr/bin/env node
 const init = require('./cli/init');
+const generateEnum = require('./cli/generateEnum');
 const generateAllEnums = require('./cli/generateAllEnums');
 
 require('yargs')

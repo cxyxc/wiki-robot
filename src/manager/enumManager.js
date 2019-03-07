@@ -11,8 +11,10 @@ const defaultType = {
 export const ${firstWordToLowerCase(item.name)} = Object.freeze({
 	__proto__: Enum,
 	${item.content.map(c => {
-		if(reg.test(c.名称))
+		if(reg.test(c.名称) || /[0-9]/.test(c.名称[0])) {
+			reg.lastIndex = 0;
 			return `'${c.名称}': ${c.数值}`;
+		}
 		return `${c.名称}: ${c.数值}`;
 	}).join(',\n\t')},
 	properties: Object.freeze({
@@ -28,12 +30,14 @@ export const ${firstWordToLowerCase(item.name)} = Object.freeze({
 // ${item.desc} ${item.url}
 public enum ${item.name} {
 	${item.content.map(c => {
-		let rename = null;
-		if(reg.test(c.名称))
+		let rename = c.名称;
+		if(reg.test(c.名称)) {
+			reg.lastIndex = 0;
 			rename = c.名称.replace(reg, '_');
+		}
 		if(/[0-9]/.test(c.名称[0]))
-			rename = `_${c.名称}`;
-		if(rename) return `[Display(Name = "${c.名称}")]\n\t${rename} = ${c.数值}`;
+			rename = `_${rename}`;
+		if(rename !== c.名称) return `[Display(Name = "${c.名称}")]\n\t${rename} = ${c.数值}`;
 		return `${c.名称} = ${c.数值}`;
 	}).join(',\n\t')}
 };
