@@ -16,7 +16,7 @@ require('yargs')
 			describe: 'wiki username'
 		});
 	}, init)
-	.command('allEnums [systemName] [moduleName] [printType] [outputPath]', 'genarte all enums', (yargs) => {
+	.command('allEnums [printType] [outputPath] [systemName] [moduleName]', 'genarte all enums', (yargs) => {
 		yargs.positional('systemName', {
 			type: 'string',
 			describe: 'DCS/DMS/...'
@@ -34,11 +34,7 @@ require('yargs')
 			describe: '输出路径'
 		});
 	}, generateAllEnums)
-	.command('enum [url] [printType] [outputPath]', 'genarte one enum', (yargs) => {
-		yargs.positional('url', {
-			type: 'string',
-			describe: '枚举值 url 地址'
-		});
+	.command('enum [printType] [outputPath] [url]', 'genarte one enum', (yargs) => {
 		yargs.positional('printType', {
 			type: 'string',
 			describe: '默认支持 C / S 两种输出形式'
@@ -46,6 +42,10 @@ require('yargs')
 		yargs.positional('outputPath', {
 			type: 'string',
 			describe: '输出路径'
+		});
+		yargs.positional('url', {
+			type: 'string',
+			describe: '枚举值 url 地址'
 		});
 	}, generateEnum)
 	.help()
