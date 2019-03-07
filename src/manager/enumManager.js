@@ -3,12 +3,18 @@ const tabletojson = require('tabletojson');
 const firstWordToLowerCase = require('../util/firstWordToLowerCase');
 const log = global.console.log;
 
+const reg = /[^\u4e00-\u9fa5a-zA-Z0-9]/g; // 匹配所有标点符号
+
 const defaultType = {
 	C: item => `
 // ${item.desc} ${item.url}
 export const ${firstWordToLowerCase(item.name)} = Object.freeze({
 	__proto__: Enum,
-	${item.content.map(c => `${c.名称}: ${c.数值}`).join(',\n\t')},
+	${item.content.map(c => {
+		if(reg.test(c.名称))
+			return `'${c.名称}': ${c.数值}`;
+		return `${c.名称}: ${c.数值}`;
+	}).join(',\n\t')},
 	properties: Object.freeze({
 		${item.content.map(c => `
 		'${c.数值}': Object.freeze({
@@ -20,15 +26,15 @@ export const ${firstWordToLowerCase(item.name)} = Object.freeze({
 `.trim(),
 	S: item => `
 // ${item.desc} ${item.url}
-public enum ${item.name} = {
+public enum ${item.name} {
 	${item.content.map(c => {
 		let rename = null;
-		if(c.名称.includes('/'))
-			rename = c.名称.replace(/\//g, '_');
+		if(reg.test(c.名称))
+			rename = c.名称.replace(reg, '_');
 		if(/[0-9]/.test(c.名称[0]))
 			rename = `_${c.名称}`;
 		if(rename) return `[Display(Name = "${c.名称}")]\n\t${rename}: ${c.数值}`;
-		return `${c.名称}: ${c.数值}`;
+		return `${c.名称} = ${c.数值}`;
 	}).join(',\n\t')}
 };
 `.trim(),
