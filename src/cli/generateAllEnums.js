@@ -15,7 +15,7 @@ module.exports = function({systemName, moduleName, printType, outputPath}) {
 		
 		log('正在读取：', URL);
 		await page.goto(URL);
-		await page.waitForSelector('.wikitable', {timeout: 1000});
+		await page.waitForSelector('.wikitable', {timeout: 3000});
 
 		const tableDatas = await page.$$eval('.wikitable', nodes => {
 			return nodes.map(node => {
@@ -54,7 +54,7 @@ module.exports = function({systemName, moduleName, printType, outputPath}) {
 			try {
 				log('正在读取节点首页：', decodeURI(url));
 				await page.goto(url);
-				await page.waitForSelector('.modelbox tr', {timeout: 1000});
+				await page.waitForSelector('.modelbox tr', {timeout: 3000});
 				const hrefs = await page.$$eval('.modelbox tr', nodes => {
 					const result = {
 						bo: [],
@@ -84,7 +84,7 @@ module.exports = function({systemName, moduleName, printType, outputPath}) {
 						// 内层循环，假设业务节点只有两级，暂不考虑递归实现
 						log('正在读取子页面：', decodeURI(url));
 						await page.goto(url);
-						await page.waitForSelector('.modelbox tr', {timeout: 1000});
+						await page.waitForSelector('.modelbox tr', {timeout: 3000});
 
 						const bos = await page.$$eval('.modelbox tr', nodes => {
 							const bo = [];
@@ -118,7 +118,7 @@ module.exports = function({systemName, moduleName, printType, outputPath}) {
 			try {
 				log('正在读取BO：', decodeURI(url));
 				await page.goto(url);
-				await page.waitForSelector('.wikitable', {timeout: 1000});
+				await page.waitForSelector('.wikitable', {timeout: 3000});
 
 				const hrefs = await page.$$eval('.wikitable', nodes => {
 					const urls = [];
@@ -141,7 +141,7 @@ module.exports = function({systemName, moduleName, printType, outputPath}) {
 				// 过滤关联到的 BO
 				log('正在读取BO关联字段：', decodeURI(url));
 				await page.goto(url);
-				await page.waitForSelector('#mw-normal-catlinks', {timeout: 1000});
+				await page.waitForSelector('#mw-normal-catlinks', {timeout: 3000});
 				const isEnum =  await page.$$eval('#mw-normal-catlinks', nodes => {
 					let isEnum = false;
 					nodes[0].querySelectorAll('a').forEach(a => {
