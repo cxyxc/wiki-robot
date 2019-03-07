@@ -3,7 +3,7 @@ const enumManager = require('../manager/enumManager');
 const login = require('../util/login');
 const uniq = require('../util/uniq');
 const tabletojson = require('tabletojson');
-const log = global.console.log;
+const log = require('../util/log');
 
 /** 定制化批量获取枚举值逻辑 */
 const URL = 'https://wiki.sdtdev.net/SDT:EXEED设计交付';
@@ -13,7 +13,7 @@ module.exports = function({systemName, moduleName, printType, outputPath}) {
 		const page = await browser.newPage();
 		await login(page);
 		
-		log('正在读取：', URL);
+		log.info('正在读取：', URL);
 		await page.goto(URL);
 		await page.waitForSelector('.wikitable', {timeout: 3000});
 
@@ -28,11 +28,11 @@ module.exports = function({systemName, moduleName, printType, outputPath}) {
 
 		const tableJsonDatas = tableDatas.map(data => tabletojson.convert(data)[0]);
 		const tableTitle = await page.$$eval('.mw-headline', nodes => nodes.map(node => node.innerHTML));
-		if(tableJsonDatas.length !== tableTitle.length) log(`检测到 ${URL} 功能模块标题与表格无法一一对应，可能导致解析出错。`);
+		if(tableJsonDatas.length !== tableTitle.length) log.info(`检测到 ${URL} 功能模块标题与表格无法一一对应，可能导致解析出错。`);
 
 		const tableIndex = tableTitle.findIndex(item => item === systemName);
 		if(tableIndex === -1) {
-			log(systemName, '未找到。');
+			log.info(systemName, '未找到。');
 			return;
 		}
 		const tableData = tableJsonDatas[tableIndex];
@@ -42,7 +42,7 @@ module.exports = function({systemName, moduleName, printType, outputPath}) {
 			.map(item => item.LV3);
 
 		if(reviewedPageUrls.length === 0) {
-			log(moduleName, '未找到。');
+			log.info(moduleName, '未找到。');
 			return;
 		}
 
@@ -52,7 +52,7 @@ module.exports = function({systemName, moduleName, printType, outputPath}) {
 			// 外层循环，节点首页
 			const url = reviewedPageUrls[i];
 			try {
-				log('正在读取节点首页：', decodeURI(url));
+				log.info('正在读取节点首页：', decodeURI(url));
 				await page.goto(url);
 				await page.waitForSelector('.modelbox tr', {timeout: 3000});
 				const hrefs = await page.$$eval('.modelbox tr', nodes => {
@@ -82,7 +82,7 @@ module.exports = function({systemName, moduleName, printType, outputPath}) {
 					const url = hrefs.page[j];
 					try {
 						// 内层循环，假设业务节点只有两级，暂不考虑递归实现
-						log('正在读取子页面：', decodeURI(url));
+						log.info('正在读取子页面：', decodeURI(url));
 						await page.goto(url);
 						await page.waitForSelector('.modelbox tr', {timeout: 3000});
 
@@ -100,12 +100,12 @@ module.exports = function({systemName, moduleName, printType, outputPath}) {
 						});
 						boList = boList.concat(bos);
 					} catch (error) {
-						log(`子页面： ${decodeURI(url)} 读取失败。请确认其是否存在。`);
+						log.error(`子页面： ${decodeURI(url)} 读取失败。请确认其是否存在。`);
 						continue;
 					}
 				}
 			} catch (error) {
-				log(`节点首页： ${decodeURI(url)} 读取失败。请确认其是否存在。`);
+				log.error(`节点首页： ${decodeURI(url)} 读取失败。请确认其是否存在。`);
 				continue;
 			}
 		}
@@ -116,7 +116,7 @@ module.exports = function({systemName, moduleName, printType, outputPath}) {
 		for(let i = 0; i < boList.length;i++) {
 			const url = boList[i];
 			try {
-				log('正在读取BO：', decodeURI(url));
+				log.info('正在读取BO：', decodeURI(url));
 				await page.goto(url);
 				await page.waitForSelector('.wikitable', {timeout: 3000});
 
@@ -129,7 +129,7 @@ module.exports = function({systemName, moduleName, printType, outputPath}) {
 				});
 				enumList = enumList.concat(hrefs);
 			} catch (error) {
-				log(`BO ${decodeURI(url)} 读取失败。请确认其是否存在。`);
+				log.error(`BO ${decodeURI(url)} 读取失败。请确认其是否存在。`);
 				continue;
 			}
 		}
@@ -139,7 +139,7 @@ module.exports = function({systemName, moduleName, printType, outputPath}) {
 			const url = enumList[i];
 			try {
 				// 过滤关联到的 BO
-				log('正在读取BO关联字段：', decodeURI(url));
+				log.info('正在读取BO关联字段：', decodeURI(url));
 				await page.goto(url);
 				await page.waitForSelector('#mw-normal-catlinks', {timeout: 3000});
 				const isEnum =  await page.$$eval('#mw-normal-catlinks', nodes => {
@@ -151,11 +151,11 @@ module.exports = function({systemName, moduleName, printType, outputPath}) {
 					return isEnum;
 				});
 				if(isEnum) {
-					log('发现枚举：', decodeURI(url));
+					log.info('发现枚举：', decodeURI(url));
 					await enumManager.getDataFromBowerPage(page, enumList[i]);
 				}
 			} catch (error) {
-				log(`BO关联字段： ${decodeURI(url)} 读取失败。请确认其是否存在。`);
+				log.error(`BO关联字段： ${decodeURI(url)} 读取失败。请确认其是否存在。`);
 				continue;
 			}
 		}

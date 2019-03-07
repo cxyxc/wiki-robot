@@ -1,6 +1,6 @@
 const {writeJSONFile} = require('../util/writeFile');
 const tabletojson = require('tabletojson');
-const log = global.console.log;
+const log = require('../util/log');
 
 class BoManager {
 	constructor() {
@@ -37,7 +37,7 @@ class BoManager {
 			};
 			this.set(url, boData);
 		} catch (error) {
-			log(error, `未找到 Bo:${url}`);
+			log.info(error, `未找到 Bo:${url}`);
 			this.set(url, {});
 		}
 		return this.get(url); 

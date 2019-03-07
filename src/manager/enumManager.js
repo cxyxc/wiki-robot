@@ -1,7 +1,7 @@
 const {writeFile, writeJSONFile} = require('../util/writeFile');
 const tabletojson = require('tabletojson');
 const firstWordToLowerCase = require('../util/firstWordToLowerCase');
-const log = global.console.log;
+const log = require('../util/log');
 
 const reg = /[^\u4e00-\u9fa5a-zA-Z0-9]/g; // 匹配所有标点符号
 
@@ -75,7 +75,7 @@ class EnumManager {
 		if(this.has(url)) return this.get(url);
 		// 如 page 不在当前 url 跳转至枚举页面
 		if(page.url() !== url) {
-			log('正在读取：', decodeURI(url));
+			log.info('正在读取：', decodeURI(url));
 			await page.goto(url);
 			await page.waitFor(1000);
 		}
@@ -93,7 +93,7 @@ class EnumManager {
 			};
 			this.set(url, enumData);
 		} catch (error) {
-			log(error, `未找到 Enum:${decodeURI(url)}`);
+			log.info(error, `未找到 Enum:${decodeURI(url)}`);
 			this.set(url, {});
 		}
 		return this.get(url); 
