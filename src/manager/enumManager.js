@@ -82,16 +82,16 @@ class EnumManager {
 				await page.waitForSelector('.firstHeading', {timeout: 3000});
 				await page.waitForSelector('.wikitable', {timeout: 3000});
 			}
-			const enumFirstHeading = await page.$eval('#firstHeading', node => node.innerHTML);
-			const [desc, name] = enumFirstHeading.split('-').map(item => item.trim());
-			const enumTableData = await page.$eval('.wikitable', node => node.outerHTML.replace(/[\r\n]/g, ''));
-			const enumJsonData = tabletojson.convert(enumTableData)[0];
-			const enumData = {
+			const firstHeading = await page.$eval('#firstHeading', node => node.innerHTML);
+			const [desc, name] = firstHeading.split('-').map(item => item.trim());
+			const tableData = await page.$eval('.wikitable', node => node.outerHTML.replace(/[\r\n]/g, ''));
+			const jsonData = tabletojson.convert(tableData)[0];
+			const data = {
 				name,
 				desc,
-				content: enumJsonData
+				content: jsonData
 			};
-			this.set(url, enumData);
+			this.set(url, data);
 		} catch (error) {
 			log.info(error, `未找到：${decodeURI(url)}。请确认其是否存在。`);
 			this.set(url, {});
