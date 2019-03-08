@@ -73,15 +73,15 @@ class EnumManager {
 	}
 	async getDataFromBowerPage(page, url) {
 		if(this.has(url)) return this.get(url);
-		// 如 page 不在当前 url 跳转至枚举页面
-		if(page.url() !== url) {
-			log.info('正在读取：', decodeURI(url));
-			await page.goto(url);
-			await page.waitFor(1000);
-		}
 
-		// 获取数据
 		try {
+			// 如 page 不在当前 url 跳转至 BO 页面
+			if(page.url() !== url) {
+				log.info('正在读取：', decodeURI(url));
+				await page.goto(url);
+				await page.waitForSelector('.firstHeading', {timeout: 3000});
+				await page.waitForSelector('.wikitable', {timeout: 3000});
+			}
 			const enumFirstHeading = await page.$eval('#firstHeading', node => node.innerHTML);
 			const [desc, name] = enumFirstHeading.split('-').map(item => item.trim());
 			const enumTableData = await page.$eval('.wikitable', node => node.outerHTML.replace(/[\r\n]/g, ''));
@@ -93,7 +93,7 @@ class EnumManager {
 			};
 			this.set(url, enumData);
 		} catch (error) {
-			log.info(error, `未找到 Enum:${decodeURI(url)}`);
+			log.info(error, `未找到：${decodeURI(url)}。请确认其是否存在。`);
 			this.set(url, {});
 		}
 		return this.get(url); 
