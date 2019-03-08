@@ -2,6 +2,7 @@
 const init = require('./cli/init');
 const generateEnum = require('./cli/generateEnum');
 const generateAllEnums = require('./cli/generateAllEnums');
+const generateBo = require('./cli/generateBo');
 
 require('yargs')
 	.scriptName('wiki-robot')
@@ -48,5 +49,19 @@ require('yargs')
 			describe: '枚举值 url 地址'
 		});
 	}, generateEnum)
+	.command('bo [printType] [outputPath] [url]', 'genarte one bo', (yargs) => {
+		yargs.positional('printType', {
+			type: 'string',
+			describe: '支持 S 输出形式'
+		});
+		yargs.positional('outputPath', {
+			type: 'string',
+			describe: '输出路径'
+		});
+		yargs.positional('url', {
+			type: 'string',
+			describe: 'BO url 地址'
+		});
+	}, generateBo)
 	.help()
 	.argv;
