@@ -29,10 +29,10 @@ wiki-robot allEnums S ./Enums.cs DCS系统功能 整车业务
 
 ## 获取某个BO
 
-根据 url 获取 BO 并输出为指定格式代码
+根据 URL 获取 BO 并输出为指定格式代码
 
 ```bash
-wiki-robot bo [转化形式] [输出路径] [系统名称] [业务领域名称]
+wiki-robot bo [转化形式] [输出路径] [URL]
 
 # 后端
 wiki-robot bo S ./BO.cs https://wiki.sdtdev.net/EXEED:质量反馈单
