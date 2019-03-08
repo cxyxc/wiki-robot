@@ -1,6 +1,6 @@
 const {writeFile, writeJSONFile} = require('../util/writeFile');
 const tabletojson = require('tabletojson');
-const firstWordToLowerCase = require('../util/firstWordToLowerCase');
+const transformToLowerCase = require('../util/transformToLowerCase');
 const log = require('../util/log');
 
 const reg = /[^\u4e00-\u9fa5a-zA-Z0-9]/g; // 匹配所有标点符号
@@ -8,7 +8,7 @@ const reg = /[^\u4e00-\u9fa5a-zA-Z0-9]/g; // 匹配所有标点符号
 const defaultType = {
 	C: item => `
 // ${item.desc} ${item.url}
-export const ${firstWordToLowerCase(item.name)} = Object.freeze({
+export const ${transformToLowerCase(item.name)} = Object.freeze({
 	__proto__: Enum,
 	${item.content.map(c => {
 		if(reg.test(c.名称) || /[0-9]/.test(c.名称[0])) {
