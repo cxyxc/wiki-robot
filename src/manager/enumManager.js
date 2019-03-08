@@ -75,7 +75,6 @@ class EnumManager {
 		if(this.has(url)) return this.get(url);
 
 		try {
-			// 如 page 不在当前 url 跳转至 BO 页面
 			if(page.url() !== url) {
 				log.info('正在读取：', decodeURI(url));
 				await page.goto(url);

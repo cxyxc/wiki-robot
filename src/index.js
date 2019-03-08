@@ -27,7 +27,7 @@ require('yargs')
 		});
 		yargs.positional('printType', {
 			type: 'string',
-			describe: '默认支持 C / S 两种输出形式'
+			describe: '支持 C / S 两种输出形式'
 		});
 		yargs.positional('outputPath', {
 			type: 'string',
@@ -37,7 +37,7 @@ require('yargs')
 	.command('enum [printType] [outputPath] [url]', 'genarte one enum', (yargs) => {
 		yargs.positional('printType', {
 			type: 'string',
-			describe: '默认支持 C / S 两种输出形式'
+			describe: '支持 C / S 两种输出形式'
 		});
 		yargs.positional('outputPath', {
 			type: 'string',
