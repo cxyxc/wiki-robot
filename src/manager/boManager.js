@@ -33,6 +33,12 @@ ${item.content.map(c => {
 	}).join('\n\n')}
 	}
 }`.trim(),
+	CSV: item => `
+${item.content.map(c => {
+		let type = c.数据类型;
+		if(/^http/.test(type)) type = c.数据类型.split('').slice(-1)[0];
+		return `${item.desc},${item.name},${c.属性名称},${c.代码名称},${type}\n`.trim();
+	})}`.trim()
 };
 
 class BoManager {
