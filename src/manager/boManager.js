@@ -46,8 +46,7 @@ class BoManager {
 		this.data = {};
 	}
 	set(url, data) {
-		const key = decodeURI(url);
-		this.data[key] = data;
+		this.data[url] = data;
 	}
 	get(url) {
 		return this.data[url];

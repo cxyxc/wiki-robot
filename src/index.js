@@ -3,6 +3,7 @@ const init = require('./cli/init');
 const generateEnum = require('./cli/generateEnum');
 const generateAllEnums = require('./cli/generateAllEnums');
 const generateBo = require('./cli/generateBo');
+const generateDto = require('./cli/generateDto');
 
 require('yargs')
 	.scriptName('wiki-robot')
@@ -63,5 +64,19 @@ require('yargs')
 			describe: 'BO url 地址'
 		});
 	}, generateBo)
+	.command('dto [printType] [outputPath] [url]', 'genarte one dto', (yargs) => {
+		yargs.positional('printType', {
+			type: 'string',
+			describe: '支持 S 输出形式'
+		});
+		yargs.positional('outputPath', {
+			type: 'string',
+			describe: '输出路径'
+		});
+		yargs.positional('url', {
+			type: 'string',
+			describe: 'DTO url 地址'
+		});
+	}, generateDto)
 	.help()
 	.argv;

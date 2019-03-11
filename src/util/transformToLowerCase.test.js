@@ -8,3 +8,7 @@ test('transform Vin to vin', () => {
 test('transform ERPCode to erpCode', () => {
 	expect(transformToLowerCase('ERPCode')).toBe('erpCode');
 });
+
+test('transform VIN to vin', () => {
+	expect(transformToLowerCase('ERPCode')).toBe('erpCode');
+});

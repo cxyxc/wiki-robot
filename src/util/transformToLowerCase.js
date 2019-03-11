@@ -9,6 +9,7 @@ module.exports = function transformToLowerCase(str) {
 	for(let i = 0; i < str.length; i++) {
 		if(
 			i == 0 || (str[i + 1] && /[A-Z]/.test(str[i]) && /[A-Z]/.test(str[i + 1]))
+			|| i === str.length - 1
 		) {
 			strTemp += str[i].toLowerCase();
 			continue;
