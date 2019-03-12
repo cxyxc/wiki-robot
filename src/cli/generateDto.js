@@ -17,6 +17,7 @@ module.exports = function({url, printType, outputPath}) {
 		} catch (error) {
 			log.info('无自定义配置文件');
 		}
+		dtoManager.log();
 		dtoManager.print(typeList, printType, outputPath);
 		await browser.close();
 	});

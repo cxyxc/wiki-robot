@@ -29,7 +29,7 @@ function genarateBoKeys(data) {
 }
 
 const defaultType = {
-	SCHEMA: data => {
+	Schema: data => {
 		const result = {};
 		data.forEach(item => {
 			const key = transformToLowerCase(item.代码名称 || item.属性名称);
@@ -40,6 +40,108 @@ const defaultType = {
 		});
 		return YAML.stringify(result);
 	},
+	Param: data => {
+		const result = [];
+		data.forEach(item => {
+			const key = transformToLowerCase(item.代码名称 || item.属性名称);
+			result.push({
+				name: key,
+				in: 'query',
+				description: `${item.属性名称}`,
+				schema: genarateSwaggerItem(item),
+			});
+		});
+		return YAML.stringify(result);
+	},
+	Form: data => {
+		const result = [];
+		data.forEach(item => {
+			const key = transformToLowerCase(item.代码名称 || item.属性名称);
+			const label = item.显示文字 || item.属性名称;
+			const notEmpty = item.不可为空 === '✔';
+			const canEdit = item.可编辑 === '✔';
+			let componentTag = '使用控件';
+			if(!item[componentTag]) componentTag = '建议控件';
+			const componentName = item[componentTag];
+			let Component = '';
+			if(componentName === '文本框' && canEdit)
+				Component = `<TextInput
+								name="${key}"
+								value={detailData.${key}}
+								onBlur={this.handleFilterChange} />`;
+			if(componentName === '下拉框' && canEdit)
+				Component = `<WrappedSelect
+								name="${key}"
+								options={Enum.toList()}
+								value={detailData.${key}}
+								onChange={this.handleFilterChange} />`;
+			if(componentName === '时间控件' && canEdit)
+				Component = `<WrappedDatePicker
+								name="${key}"
+								value={detailData.${key}}
+								onChange={this.handleFilterChange} />`;
+			if(!canEdit)
+				Component = `<span>{detailData.${key}}</span>`;
+			const Wrapper = `
+							<Col {...FORM_OPTIONS.col}>
+								<FormItem label="${label}" {...FORM_OPTIONS.item} ${notEmpty ? `validateStatus={this.state.isValidate && !detailData.${key} ? 'error' : null}` : ''}>
+									${Component}
+								</FormItem>
+							</Col>`;
+			result.push(Wrapper);
+		});
+		return result.join('');
+	},
+	Desc: data => {
+		const result = [];
+		data.forEach(item => {
+			const key = transformToLowerCase(item.代码名称 || item.属性名称);
+			const label = item.显示文字 || item.属性名称;
+			result.push(`
+					<Description
+						term="${label}">
+						{item.${key}}
+					</Description>`);
+		});
+		return result.join('');
+	},
+	Column: data => {
+		const result = [];
+		data.forEach(item => {
+			const key = transformToLowerCase(item.代码名称 || item.属性名称);
+			const label = item.显示文字 || item.属性名称;
+			result.push({
+				title: label,
+				dataIndex: key,
+			});
+		});
+		return JSON.stringify(data, null, 2);
+	},
+	SubmitData: data => {
+		const result = [];
+		data.forEach(item => {
+			const key = transformToLowerCase(item.代码名称 || item.属性名称);
+			const canEdit = item.可编辑 === '✔';
+			if(canEdit) {
+				result.push(key);
+			}
+			result.push(key);
+		});
+		return JSON.stringify(result, null, 2);
+	},
+	RequiedData: data => {
+		const result = [];
+		data.forEach(item => {
+			const key = transformToLowerCase(item.代码名称 || item.属性名称);
+			const notEmpty = item.不可为空 === '✔';
+			const canEdit = item.可编辑 === '✔';
+			if(canEdit && notEmpty) {
+				result.push(key);
+			}
+		});
+		return JSON.stringify(result, null, 2);
+	},
+	
 };
 
 class DtoManager {
