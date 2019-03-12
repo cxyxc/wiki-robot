@@ -18,7 +18,11 @@ require('yargs')
 			describe: 'wiki username'
 		});
 	}, init)
-	.command('allEnums [printType] [outputPath] [systemName] [moduleName]', 'genarte all enums', (yargs) => {
+	.command('allEnums [url] [printType] [outputPath] [systemName] [moduleName]', 'genarte all enums', (yargs) => {
+		yargs.positional('url', {
+			type: 'string',
+			describe: '解析地址，如：https://wiki.sdtdev.net/SDT:SALEEN设计交付'
+		});
 		yargs.positional('systemName', {
 			type: 'string',
 			describe: 'DCS/DMS/...'

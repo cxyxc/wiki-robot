@@ -5,16 +5,14 @@ const uniq = require('../util/uniq');
 const tabletojson = require('tabletojson');
 const log = require('../util/log');
 
-/** 定制化批量获取枚举值逻辑 */
-const URL = 'https://wiki.sdtdev.net/SDT:EXEED设计交付';
 
-module.exports = function({systemName, moduleName, printType, outputPath}) {
+module.exports = function({url, systemName, moduleName, printType, outputPath}) {
 	puppeteer.launch().then(async browser => {
 		const page = await browser.newPage();
 		await login(page);
 		
-		log.info('正在读取：', URL);
-		await page.goto(URL);
+		log.info('正在读取：', url);
+		await page.goto(url);
 		await page.waitForSelector('.wikitable', {timeout: 3000});
 
 		const tableDatas = await page.$$eval('.wikitable', nodes => {
@@ -28,7 +26,7 @@ module.exports = function({systemName, moduleName, printType, outputPath}) {
 
 		const tableJsonDatas = tableDatas.map(data => tabletojson.convert(data)[0]);
 		const tableTitle = await page.$$eval('.mw-headline', nodes => nodes.map(node => node.innerHTML));
-		if(tableJsonDatas.length !== tableTitle.length) log.info(`检测到 ${URL} 功能模块标题与表格无法一一对应，可能导致解析出错。`);
+		if(tableJsonDatas.length !== tableTitle.length) log.info(`检测到 ${url} 功能模块标题与表格无法一一对应，可能导致解析出错。`);
 
 		const tableIndex = tableTitle.findIndex(item => item === systemName);
 		if(tableIndex === -1) {
