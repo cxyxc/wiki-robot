@@ -66,7 +66,14 @@ class EnumManager {
 				...this.data[url]
 			});
 		}
-		writeFile(list.map(defaultType[printType]).join('\n'), outputPath);
+		writeFile(list.sort((a,b) => {
+			if (a.name < b.name) {
+				return -1;
+			}
+			if (a.name > b.name) {
+				return 1;
+			}
+		}).map(defaultType[printType]).join('\n\n'), outputPath);
 	}
 	has(url) {
 		return Boolean(this.data[url]);
