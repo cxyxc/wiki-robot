@@ -13,6 +13,7 @@
   "dependencies": {
     "chalk": "^2.4.2",
     "configstore": "^4.0.0",
+    "diff": "^4.0.1",
     "jsdom": "^13.2.0",
     "json-to-pretty-yaml": "^1.2.2",
     "puppeteer": "^1.11.0",

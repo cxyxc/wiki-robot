@@ -4,6 +4,7 @@ const generateEnum = require('./cli/generateEnum');
 const generateAllEnums = require('./cli/generateAllEnums');
 const generateBo = require('./cli/generateBo');
 const generateDto = require('./cli/generateDto');
+const diffAllEnums = require('./cli/diffAllEnums');
 
 require('yargs')
 	.scriptName('wiki-robot')
@@ -82,5 +83,15 @@ require('yargs')
 			describe: 'DTO url 地址'
 		});
 	}, generateDto)
+	.command('diffAllEnums [url1] [url2]', 'genarte one dto', (yargs) => {
+		yargs.positional('url1', {
+			type: 'string',
+			describe: 'url1'
+		});
+		yargs.positional('url2', {
+			type: 'string',
+			describe: 'url2'
+		});
+	}, diffAllEnums)
 	.help()
 	.argv;

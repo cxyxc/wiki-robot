@@ -7,7 +7,7 @@ const log = require('../util/log');
 // 将 JSON 字符串写入临时文件
 function writeJSONFile(data, filename = 'temp.json') {
 	fs.writeFile(path.join(process.cwd(), 'temp', filename), JSON.stringify(data, null, 2), () => {
-		log.info('写入完成');
+		log.info(filename, '写入完成');
 	});
 }
 
@@ -15,7 +15,7 @@ function writeJSONFile(data, filename = 'temp.json') {
 // 将 JSON 字符串写入临时文件
 function writeYAMLFile(data, filename = 'temp.yaml') {
 	fs.writeFile(path.join(process.cwd(), 'temp', filename), data.replace(/"/g, ''), () => {
-		log.info('写入完成');
+		log.info(filename, '写入完成');
 	});
 }
 
