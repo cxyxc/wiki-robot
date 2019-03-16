@@ -1,0 +1,2529 @@
+{
+    "printrequests": [
+        {
+            "label": "",
+            "key": "",
+            "redi": "",
+            "typeid": "_wpg",
+            "mode": 2,
+            "format": false
+        }
+    ],
+    "results": {
+        "EXEED:变更履历类型（DCS）": {
+            "printouts": [],
+            "fulltext": "EXEED:变更履历类型（DCS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E5%8F%98%E6%9B%B4%E5%B1%A5%E5%8E%86%E7%B1%BB%E5%9E%8B%EF%BC%88DCS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "变更履历类型（DCS） - ChangeHistoryType"
+        },
+        "EXEED:变更履历类型（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:变更履历类型（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E5%8F%98%E6%9B%B4%E5%B1%A5%E5%8E%86%E7%B1%BB%E5%9E%8B%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "变更履历类型（DMS） - ChangeHistoryType"
+        },
+        "EXEED:保险公司（DCS）": {
+            "printouts": [],
+            "fulltext": "EXEED:保险公司（DCS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E4%BF%9D%E9%99%A9%E5%85%AC%E5%8F%B8%EF%BC%88DCS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "保险公司（DCS） - InsuranceCompany"
+        },
+        "EXEED:保险公司（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:保险公司（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E4%BF%9D%E9%99%A9%E5%85%AC%E5%8F%B8%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "保险公司（DMS） - InsuranceCompany"
+        },
+        "EXEED:保险岗位属性": {
+            "printouts": [],
+            "fulltext": "EXEED:保险岗位属性",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E4%BF%9D%E9%99%A9%E5%B2%97%E4%BD%8D%E5%B1%9E%E6%80%A7",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "保险岗位属性 - PostProterty"
+        },
+        "EXEED:保修政策类型": {
+            "printouts": [],
+            "fulltext": "EXEED:保修政策类型",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E4%BF%9D%E4%BF%AE%E6%94%BF%E7%AD%96%E7%B1%BB%E5%9E%8B",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "保修政策类型 - WarrantyPolicyCategory"
+        },
+        "EXEED:保修政策类型（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:保修政策类型（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E4%BF%9D%E4%BF%AE%E6%94%BF%E7%AD%96%E7%B1%BB%E5%9E%8B%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "保修政策类型（DMS） - WarrantyPolicyCategory"
+        },
+        "EXEED:保修政策状态": {
+            "printouts": [],
+            "fulltext": "EXEED:保修政策状态",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E4%BF%9D%E4%BF%AE%E6%94%BF%E7%AD%96%E7%8A%B6%E6%80%81",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "保修政策状态 - WarrantyPolicyStatus"
+        },
+        "EXEED:保修政策状态（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:保修政策状态（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E4%BF%9D%E4%BF%AE%E6%94%BF%E7%AD%96%E7%8A%B6%E6%80%81%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "保修政策状态（DMS） - VehicleRepairStandardStatus"
+        },
+        "EXEED:保养情况": {
+            "printouts": [],
+            "fulltext": "EXEED:保养情况",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E4%BF%9D%E5%85%BB%E6%83%85%E5%86%B5",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "保养情况 - MarketQualityByCase"
+        },
+        "EXEED:车辆合同类型": {
+            "printouts": [],
+            "fulltext": "EXEED:车辆合同类型",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E8%BD%A6%E8%BE%86%E5%90%88%E5%90%8C%E7%B1%BB%E5%9E%8B",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "车辆合同类型 - VehicleProjectInformationContractType"
+        },
+        "EXEED:车辆合同类型（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:车辆合同类型（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E8%BD%A6%E8%BE%86%E5%90%88%E5%90%8C%E7%B1%BB%E5%9E%8B%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "车辆合同类型（DMS） - VehicleContractType"
+        },
+        "EXEED:车辆类型": {
+            "printouts": [],
+            "fulltext": "EXEED:车辆类型",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E8%BD%A6%E8%BE%86%E7%B1%BB%E5%9E%8B",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "车辆类型 - VehicleInformationVehicleType"
+        },
+        "EXEED:车辆类型（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:车辆类型（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E8%BD%A6%E8%BE%86%E7%B1%BB%E5%9E%8B%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "车辆类型（DMS） - VehicleInformationVehicleType"
+        },
+        "EXEED:车辆售出状态": {
+            "printouts": [],
+            "fulltext": "EXEED:车辆售出状态",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E8%BD%A6%E8%BE%86%E5%94%AE%E5%87%BA%E7%8A%B6%E6%80%81",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "车辆售出状态 - VehicleSalesStatus"
+        },
+        "EXEED:车辆属性": {
+            "printouts": [],
+            "fulltext": "EXEED:车辆属性",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E8%BD%A6%E8%BE%86%E5%B1%9E%E6%80%A7",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "车辆属性 - VehicleProperty"
+        },
+        "EXEED:车辆属性（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:车辆属性（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E8%BD%A6%E8%BE%86%E5%B1%9E%E6%80%A7%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "车辆属性（DMS） - VehicleProperty"
+        },
+        "EXEED:车辆信息状态": {
+            "printouts": [],
+            "fulltext": "EXEED:车辆信息状态",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E8%BD%A6%E8%BE%86%E4%BF%A1%E6%81%AF%E7%8A%B6%E6%80%81",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "车辆信息状态 - VehicleStatus"
+        },
+        "EXEED:车辆状态": {
+            "printouts": [],
+            "fulltext": "EXEED:车辆状态",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E8%BD%A6%E8%BE%86%E7%8A%B6%E6%80%81",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "车辆状态 - VehicleStatus"
+        },
+        "EXEED:车辆状态（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:车辆状态（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E8%BD%A6%E8%BE%86%E7%8A%B6%E6%80%81%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "车辆状态（DMS） - VehicleStatus"
+        },
+        "EXEED:产品分类类型": {
+            "printouts": [],
+            "fulltext": "EXEED:产品分类类型",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E4%BA%A7%E5%93%81%E5%88%86%E7%B1%BB%E7%B1%BB%E5%9E%8B",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "产品分类类型 - ProductCategoryType"
+        },
+        "EXEED:产品分类类型（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:产品分类类型（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E4%BA%A7%E5%93%81%E5%88%86%E7%B1%BB%E7%B1%BB%E5%9E%8B%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "产品分类类型（DMS） - ProductCategoryType"
+        },
+        "EXEED:产品生命周期": {
+            "printouts": [],
+            "fulltext": "EXEED:产品生命周期",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E4%BA%A7%E5%93%81%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "产品生命周期 - ProductLifeCycle"
+        },
+        "EXEED:产品生命周期（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:产品生命周期（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E4%BA%A7%E5%93%81%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "产品生命周期（DMS） - ProductLifeCycle"
+        },
+        "EXEED:产生库存类型": {
+            "printouts": [],
+            "fulltext": "EXEED:产生库存类型",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E4%BA%A7%E7%94%9F%E5%BA%93%E5%AD%98%E7%B1%BB%E5%9E%8B",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "产生库存类型 - DealerVehicleStockSourceType"
+        },
+        "EXEED:车主变更申请单状态": {
+            "printouts": [],
+            "fulltext": "EXEED:车主变更申请单状态",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E8%BD%A6%E4%B8%BB%E5%8F%98%E6%9B%B4%E7%94%B3%E8%AF%B7%E5%8D%95%E7%8A%B6%E6%80%81",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "车主变更申请单状态 - VehicleOwnerChangeStatus"
+        },
+        "EXEED:单车服务卡状态": {
+            "printouts": [],
+            "fulltext": "EXEED:单车服务卡状态",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E5%8D%95%E8%BD%A6%E6%9C%8D%E5%8A%A1%E5%8D%A1%E7%8A%B6%E6%80%81",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "单车服务卡状态 - VehicleWarrantyCardStatus"
+        },
+        "EXEED:多级审核类型": {
+            "printouts": [],
+            "fulltext": "EXEED:多级审核类型",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E5%A4%9A%E7%BA%A7%E5%AE%A1%E6%A0%B8%E7%B1%BB%E5%9E%8B",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "多级审核类型 - MultiLevelApproveType"
+        },
+        "EXEED:店内承担维修费用业务类型": {
+            "printouts": [],
+            "fulltext": "EXEED:店内承担维修费用业务类型",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E5%BA%97%E5%86%85%E6%89%BF%E6%8B%85%E7%BB%B4%E4%BF%AE%E8%B4%B9%E7%94%A8%E4%B8%9A%E5%8A%A1%E7%B1%BB%E5%9E%8B",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "店内承担维修费用业务类型 - DealerAssumeType"
+        },
+        "EXEED:电商平台": {
+            "printouts": [],
+            "fulltext": "EXEED:电商平台",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%94%B5%E5%95%86%E5%B9%B3%E5%8F%B0",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "电商平台 - DealerVehicleStockPlatform"
+        },
+        "EXEED:单位客户类型": {
+            "printouts": [],
+            "fulltext": "EXEED:单位客户类型",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E5%8D%95%E4%BD%8D%E5%AE%A2%E6%88%B7%E7%B1%BB%E5%9E%8B",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "单位客户类型 - CompanyType"
+        },
+        "EXEED:单位客户类型（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:单位客户类型（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E5%8D%95%E4%BD%8D%E5%AE%A2%E6%88%B7%E7%B1%BB%E5%9E%8B%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "单位客户类型（DMS） - CompanyType"
+        },
+        "EXEED:二网类型": {
+            "printouts": [],
+            "fulltext": "EXEED:二网类型",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E4%BA%8C%E7%BD%91%E7%B1%BB%E5%9E%8B",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "二网类型 - DealerSubNetworkType"
+        },
+        "EXEED:分公司服务策略参数类型": {
+            "printouts": [],
+            "fulltext": "EXEED:分公司服务策略参数类型",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E5%88%86%E5%85%AC%E5%8F%B8%E6%9C%8D%E5%8A%A1%E7%AD%96%E7%95%A5%E5%8F%82%E6%95%B0%E7%B1%BB%E5%9E%8B",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "分公司服务策略参数类型 - BranchServiceCategoryType"
+        },
+        "EXEED:辅料来源": {
+            "printouts": [],
+            "fulltext": "EXEED:辅料来源",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E8%BE%85%E6%96%99%E6%9D%A5%E6%BA%90",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "辅料来源 - PartAssistPartSource"
+        },
+        "EXEED:辅料来源（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:辅料来源（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E8%BE%85%E6%96%99%E6%9D%A5%E6%BA%90%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "辅料来源（DMS） - PartAssistPartSource"
+        },
+        "EXEED:服务活动计费模式": {
+            "printouts": [],
+            "fulltext": "EXEED:服务活动计费模式",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%9C%8D%E5%8A%A1%E6%B4%BB%E5%8A%A8%E8%AE%A1%E8%B4%B9%E6%A8%A1%E5%BC%8F",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "服务活动计费模式 - ChargeMode"
+        },
+        "EXEED:服务活动计费模式（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:服务活动计费模式（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%9C%8D%E5%8A%A1%E6%B4%BB%E5%8A%A8%E8%AE%A1%E8%B4%B9%E6%A8%A1%E5%BC%8F%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "服务活动计费模式（DMS） - ChargeMode"
+        },
+        "EXEED:服务活动类型": {
+            "printouts": [],
+            "fulltext": "EXEED:服务活动类型",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%9C%8D%E5%8A%A1%E6%B4%BB%E5%8A%A8%E7%B1%BB%E5%9E%8B",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "服务活动类型 - ServiceType"
+        },
+        "EXEED:服务活动类型（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:服务活动类型（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%9C%8D%E5%8A%A1%E6%B4%BB%E5%8A%A8%E7%B1%BB%E5%9E%8B%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "服务活动类型（DMS） - ServiceType"
+        },
+        "EXEED:服务活动适用范围": {
+            "printouts": [],
+            "fulltext": "EXEED:服务活动适用范围",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%9C%8D%E5%8A%A1%E6%B4%BB%E5%8A%A8%E9%80%82%E7%94%A8%E8%8C%83%E5%9B%B4",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "服务活动适用范围 - ServiceActivityScope"
+        },
+        "EXEED:服务活动适用范围（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:服务活动适用范围（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%9C%8D%E5%8A%A1%E6%B4%BB%E5%8A%A8%E9%80%82%E7%94%A8%E8%8C%83%E5%9B%B4%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "服务活动适用范围（DMS） - ServiceActivityScope"
+        },
+        "EXEED:服务活动条件名称": {
+            "printouts": [],
+            "fulltext": "EXEED:服务活动条件名称",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%9C%8D%E5%8A%A1%E6%B4%BB%E5%8A%A8%E6%9D%A1%E4%BB%B6%E5%90%8D%E7%A7%B0",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "服务活动条件名称 - ConditionName"
+        },
+        "EXEED:服务活动条件名称（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:服务活动条件名称（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%9C%8D%E5%8A%A1%E6%B4%BB%E5%8A%A8%E6%9D%A1%E4%BB%B6%E5%90%8D%E7%A7%B0%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "服务活动条件名称（DMS） - ConditionName"
+        },
+        "EXEED:服务活动条件数据类型": {
+            "printouts": [],
+            "fulltext": "EXEED:服务活动条件数据类型",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%9C%8D%E5%8A%A1%E6%B4%BB%E5%8A%A8%E6%9D%A1%E4%BB%B6%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "服务活动条件数据类型 - DataType"
+        },
+        "EXEED:服务活动条件数据类型（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:服务活动条件数据类型（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%9C%8D%E5%8A%A1%E6%B4%BB%E5%8A%A8%E6%9D%A1%E4%BB%B6%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "服务活动条件数据类型（DMS） - DataType"
+        },
+        "EXEED:服务活动条件运算符": {
+            "printouts": [],
+            "fulltext": "EXEED:服务活动条件运算符",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%9C%8D%E5%8A%A1%E6%B4%BB%E5%8A%A8%E6%9D%A1%E4%BB%B6%E8%BF%90%E7%AE%97%E7%AC%A6",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "服务活动条件运算符 - Operator"
+        },
+        "EXEED:服务活动条件运算符（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:服务活动条件运算符（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%9C%8D%E5%8A%A1%E6%B4%BB%E5%8A%A8%E6%9D%A1%E4%BB%B6%E8%BF%90%E7%AE%97%E7%AC%A6%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "服务活动条件运算符（DMS） - Operator"
+        },
+        "EXEED:服务活动状态": {
+            "printouts": [],
+            "fulltext": "EXEED:服务活动状态",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%9C%8D%E5%8A%A1%E6%B4%BB%E5%8A%A8%E7%8A%B6%E6%80%81",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "服务活动状态 - ServiceActivityStatus"
+        },
+        "EXEED:服务活动状态（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:服务活动状态（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%9C%8D%E5%8A%A1%E6%B4%BB%E5%8A%A8%E7%8A%B6%E6%80%81%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "服务活动状态（DMS） - ServiceActivityStatus"
+        },
+        "EXEED:购车年龄": {
+            "printouts": [],
+            "fulltext": "EXEED:购车年龄",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E8%B4%AD%E8%BD%A6%E5%B9%B4%E9%BE%84",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "购车年龄 - VehicleCustomerOwningCarAge"
+        },
+        "EXEED:购车年龄（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:购车年龄（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E8%B4%AD%E8%BD%A6%E5%B9%B4%E9%BE%84%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "购车年龄（DMS） - VehicleCustomerOwningCarAge"
+        },
+        "EXEED:购车预算": {
+            "printouts": [],
+            "fulltext": "EXEED:购车预算",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E8%B4%AD%E8%BD%A6%E9%A2%84%E7%AE%97",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "购车预算 - CustomerIntentionPurchaseBudget"
+        },
+        "EXEED:工种": {
+            "printouts": [],
+            "fulltext": "EXEED:工种",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E5%B7%A5%E7%A7%8D",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "工种 - JobType"
+        },
+        "EXEED:工种（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:工种（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E5%B7%A5%E7%A7%8D%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "工种（DMS） - JobType"
+        },
+        "EXEED:故障代码状态": {
+            "printouts": [],
+            "fulltext": "EXEED:故障代码状态",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%85%E9%9A%9C%E4%BB%A3%E7%A0%81%E7%8A%B6%E6%80%81",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "故障代码状态 - FaultItem"
+        },
+        "EXEED:故障代码状态（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:故障代码状态（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%85%E9%9A%9C%E4%BB%A3%E7%A0%81%E7%8A%B6%E6%80%81%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "故障代码状态（DMS） - FaultItemStatus"
+        },
+        "EXEED:故障分类状态": {
+            "printouts": [],
+            "fulltext": "EXEED:故障分类状态",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%85%E9%9A%9C%E5%88%86%E7%B1%BB%E7%8A%B6%E6%80%81",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "故障分类状态 - FaultCategoryStatus"
+        },
+        "EXEED:故障分类状态（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:故障分类状态（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%85%E9%9A%9C%E5%88%86%E7%B1%BB%E7%8A%B6%E6%80%81%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "故障分类状态（DMS） - FaultCategoryStatus"
+        },
+        "EXEED:会员级别": {
+            "printouts": [],
+            "fulltext": "EXEED:会员级别",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E4%BC%9A%E5%91%98%E7%BA%A7%E5%88%AB",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "会员级别 - CustomerMembersLevel"
+        },
+        "EXEED:婚姻状况": {
+            "printouts": [],
+            "fulltext": "EXEED:婚姻状况",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E5%A9%9A%E5%A7%BB%E7%8A%B6%E5%86%B5",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "婚姻状况 - MaritalStatus"
+        },
+        "EXEED:婚姻状况（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:婚姻状况（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E5%A9%9A%E5%A7%BB%E7%8A%B6%E5%86%B5%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "婚姻状况（DMS） - MaritalStatus"
+        },
+        "EXEED:基础数据状态": {
+            "printouts": [],
+            "fulltext": "EXEED:基础数据状态",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE%E7%8A%B6%E6%80%81",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "基础数据状态 - BaseDataStatus"
+        },
+        "EXEED:基础数据状态（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:基础数据状态（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE%E7%8A%B6%E6%80%81%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "基础数据状态（DMS） - BaseDataStatus"
+        },
+        "EXEED:旧件处理政策": {
+            "printouts": [],
+            "fulltext": "EXEED:旧件处理政策",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%97%A7%E4%BB%B6%E5%A4%84%E7%90%86%E6%94%BF%E7%AD%96",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "旧件处理政策 - UsedPartDealCategory"
+        },
+        "计量单位类型": {
+            "printouts": [],
+            "fulltext": "计量单位类型",
+            "fullurl": "https://wiki.sdtdev.net/%E8%AE%A1%E9%87%8F%E5%8D%95%E4%BD%8D%E7%B1%BB%E5%9E%8B",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "计量单位类型 - MeasureUnitType"
+        },
+        "计量单位状态": {
+            "printouts": [],
+            "fulltext": "计量单位状态",
+            "fullurl": "https://wiki.sdtdev.net/%E8%AE%A1%E9%87%8F%E5%8D%95%E4%BD%8D%E7%8A%B6%E6%80%81",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "计量单位状态 - PartsMeasureUnitStatus"
+        },
+        "EXEED:技术服务方式": {
+            "printouts": [],
+            "fulltext": "EXEED:技术服务方式",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%8A%80%E6%9C%AF%E6%9C%8D%E5%8A%A1%E6%96%B9%E5%BC%8F",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "技术服务方式 - ApplyReportSpType"
+        },
+        "EXEED:结算属性（DCS）": {
+            "printouts": [],
+            "fulltext": "EXEED:结算属性（DCS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%93%E7%AE%97%E5%B1%9E%E6%80%A7%EF%BC%88DCS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "结算属性（DCS） - RepairTemplateAccountingProperty"
+        },
+        "EXEED:家庭年收入": {
+            "printouts": [],
+            "fulltext": "EXEED:家庭年收入",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E5%AE%B6%E5%BA%AD%E5%B9%B4%E6%94%B6%E5%85%A5",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "家庭年收入 - HouseholdIncome"
+        },
+        "EXEED:家庭年收入（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:家庭年收入（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E5%AE%B6%E5%BA%AD%E5%B9%B4%E6%94%B6%E5%85%A5%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "家庭年收入（DMS） - HouseholdIncome"
+        },
+        "EXEED:家庭人数": {
+            "printouts": [],
+            "fulltext": "EXEED:家庭人数",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E5%AE%B6%E5%BA%AD%E4%BA%BA%E6%95%B0",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "家庭人数 - FamilySize"
+        },
+        "EXEED:家庭人数（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:家庭人数（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E5%AE%B6%E5%BA%AD%E4%BA%BA%E6%95%B0%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "家庭人数（DMS） - FamilySize"
+        },
+        "EXEED:经销商仓库存储策略": {
+            "printouts": [],
+            "fulltext": "EXEED:经销商仓库存储策略",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%8F%E9%94%80%E5%95%86%E4%BB%93%E5%BA%93%E5%AD%98%E5%82%A8%E7%AD%96%E7%95%A5",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "经销商仓库存储策略 - DealerWarehouseStorageStrategy"
+        },
+        "EXEED:经销商仓库存储策略（DCS）": {
+            "printouts": [],
+            "fulltext": "EXEED:经销商仓库存储策略（DCS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%8F%E9%94%80%E5%95%86%E4%BB%93%E5%BA%93%E5%AD%98%E5%82%A8%E7%AD%96%E7%95%A5%EF%BC%88DCS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "经销商仓库存储策略（DCS） - DealerWarehouseStorageStrategy"
+        },
+        "EXEED:经销商仓库类型": {
+            "printouts": [],
+            "fulltext": "EXEED:经销商仓库类型",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%8F%E9%94%80%E5%95%86%E4%BB%93%E5%BA%93%E7%B1%BB%E5%9E%8B",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "经销商仓库类型 - DealerWarehouse"
+        },
+        "EXEED:经销商库区库位库区类型": {
+            "printouts": [],
+            "fulltext": "EXEED:经销商库区库位库区类型",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%8F%E9%94%80%E5%95%86%E5%BA%93%E5%8C%BA%E5%BA%93%E4%BD%8D%E5%BA%93%E5%8C%BA%E7%B1%BB%E5%9E%8B",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "经销商库区库位库区类型 - WarehouseAreaType"
+        },
+        "EXEED:经销商库区库位库位种类": {
+            "printouts": [],
+            "fulltext": "EXEED:经销商库区库位库位种类",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%8F%E9%94%80%E5%95%86%E5%BA%93%E5%8C%BA%E5%BA%93%E4%BD%8D%E5%BA%93%E4%BD%8D%E7%A7%8D%E7%B1%BB",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "经销商库区库位库位种类 - WarehouseAreaCategory"
+        },
+        "EXEED:经销商库区库位使用状态": {
+            "printouts": [],
+            "fulltext": "EXEED:经销商库区库位使用状态",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%8F%E9%94%80%E5%95%86%E5%BA%93%E5%8C%BA%E5%BA%93%E4%BD%8D%E4%BD%BF%E7%94%A8%E7%8A%B6%E6%80%81",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "经销商库区库位使用状态 - WarehouseAreaInUseStatus"
+        },
+        "EXEED:经销商类型": {
+            "printouts": [],
+            "fulltext": "EXEED:经销商类型",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%8F%E9%94%80%E5%95%86%E7%B1%BB%E5%9E%8B",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "经销商类型 - DealerType"
+        },
+        "EXEED:经销商配件出库单结算状态": {
+            "printouts": [],
+            "fulltext": "EXEED:经销商配件出库单结算状态",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%8F%E9%94%80%E5%95%86%E9%85%8D%E4%BB%B6%E5%87%BA%E5%BA%93%E5%8D%95%E7%BB%93%E7%AE%97%E7%8A%B6%E6%80%81",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "经销商配件出库单结算状态 - PartOutSettleStatus"
+        },
+        "EXEED:经销商配件出库单状态": {
+            "printouts": [],
+            "fulltext": "EXEED:经销商配件出库单状态",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%8F%E9%94%80%E5%95%86%E9%85%8D%E4%BB%B6%E5%87%BA%E5%BA%93%E5%8D%95%E7%8A%B6%E6%80%81",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "经销商配件出库单状态 - PartOutStatus"
+        },
+        "EXEED:经销商配件出库计划单状态": {
+            "printouts": [],
+            "fulltext": "EXEED:经销商配件出库计划单状态",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%8F%E9%94%80%E5%95%86%E9%85%8D%E4%BB%B6%E5%87%BA%E5%BA%93%E8%AE%A1%E5%88%92%E5%8D%95%E7%8A%B6%E6%80%81",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "经销商配件出库计划单状态 - PartOutPlanStatus"
+        },
+        "经销商配件出库计划状态": {
+            "printouts": [],
+            "fulltext": "经销商配件出库计划状态",
+            "fullurl": "https://wiki.sdtdev.net/%E7%BB%8F%E9%94%80%E5%95%86%E9%85%8D%E4%BB%B6%E5%87%BA%E5%BA%93%E8%AE%A1%E5%88%92%E7%8A%B6%E6%80%81",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "经销商配件出库计划状态 - PartsPlannedDeliveryOrderStatus"
+        },
+        "EXEED:经销商配件出库类型": {
+            "printouts": [],
+            "fulltext": "EXEED:经销商配件出库类型",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%8F%E9%94%80%E5%95%86%E9%85%8D%E4%BB%B6%E5%87%BA%E5%BA%93%E7%B1%BB%E5%9E%8B",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "经销商配件出库类型 - PartOutPlanType"
+        },
+        "经销商配件出库类型": {
+            "printouts": [],
+            "fulltext": "经销商配件出库类型",
+            "fullurl": "https://wiki.sdtdev.net/%E7%BB%8F%E9%94%80%E5%95%86%E9%85%8D%E4%BB%B6%E5%87%BA%E5%BA%93%E7%B1%BB%E5%9E%8B",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "经销商配件出库类型 - PartsDeliveryType"
+        },
+        "EXEED:经销商配件仓库状态": {
+            "printouts": [],
+            "fulltext": "EXEED:经销商配件仓库状态",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%8F%E9%94%80%E5%95%86%E9%85%8D%E4%BB%B6%E4%BB%93%E5%BA%93%E7%8A%B6%E6%80%81",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "经销商配件仓库状态 - DealerPartWarehouseStatus"
+        },
+        "EXEED:经销商配件仓库状态（DCS）": {
+            "printouts": [],
+            "fulltext": "EXEED:经销商配件仓库状态（DCS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%8F%E9%94%80%E5%95%86%E9%85%8D%E4%BB%B6%E4%BB%93%E5%BA%93%E7%8A%B6%E6%80%81%EF%BC%88DCS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "经销商配件仓库状态（DCS） - DealerPartWarehouseStatus"
+        },
+        "EXEED:经销商配件到货索赔单状态": {
+            "printouts": [],
+            "fulltext": "EXEED:经销商配件到货索赔单状态",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%8F%E9%94%80%E5%95%86%E9%85%8D%E4%BB%B6%E5%88%B0%E8%B4%A7%E7%B4%A2%E8%B5%94%E5%8D%95%E7%8A%B6%E6%80%81",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "经销商配件到货索赔单状态 - DealerPartArriveClaimStatus"
+        },
+        "EXEED:经销商配件入库单结算状态": {
+            "printouts": [],
+            "fulltext": "EXEED:经销商配件入库单结算状态",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%8F%E9%94%80%E5%95%86%E9%85%8D%E4%BB%B6%E5%85%A5%E5%BA%93%E5%8D%95%E7%BB%93%E7%AE%97%E7%8A%B6%E6%80%81",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "经销商配件入库单结算状态 - PartInSettleStatus"
+        },
+        "EXEED:经销商配件入库单状态": {
+            "printouts": [],
+            "fulltext": "EXEED:经销商配件入库单状态",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%8F%E9%94%80%E5%95%86%E9%85%8D%E4%BB%B6%E5%85%A5%E5%BA%93%E5%8D%95%E7%8A%B6%E6%80%81",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "经销商配件入库单状态 - PartInStatus"
+        },
+        "EXEED:经销商配件入库计划单状态": {
+            "printouts": [],
+            "fulltext": "EXEED:经销商配件入库计划单状态",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%8F%E9%94%80%E5%95%86%E9%85%8D%E4%BB%B6%E5%85%A5%E5%BA%93%E8%AE%A1%E5%88%92%E5%8D%95%E7%8A%B6%E6%80%81",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "经销商配件入库计划单状态 - PartInPlanStatus"
+        },
+        "经销商配件入库计划状态": {
+            "printouts": [],
+            "fulltext": "经销商配件入库计划状态",
+            "fullurl": "https://wiki.sdtdev.net/%E7%BB%8F%E9%94%80%E5%95%86%E9%85%8D%E4%BB%B6%E5%85%A5%E5%BA%93%E8%AE%A1%E5%88%92%E7%8A%B6%E6%80%81",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "经销商配件入库计划状态 - PartsPlannedWarehouseOrderStatus"
+        },
+        "经销商配件入库类型": {
+            "printouts": [],
+            "fulltext": "经销商配件入库类型",
+            "fullurl": "https://wiki.sdtdev.net/%E7%BB%8F%E9%94%80%E5%95%86%E9%85%8D%E4%BB%B6%E5%85%A5%E5%BA%93%E7%B1%BB%E5%9E%8B",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "经销商配件入库类型 - PartsWarehouseType"
+        },
+        "EXEED:经销商配件入库类型": {
+            "printouts": [],
+            "fulltext": "EXEED:经销商配件入库类型",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%8F%E9%94%80%E5%95%86%E9%85%8D%E4%BB%B6%E5%85%A5%E5%BA%93%E7%B1%BB%E5%9E%8B",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "经销商配件入库类型 - PartInPlanType"
+        },
+        "EXEED:经销商整车库存车辆状态": {
+            "printouts": [],
+            "fulltext": "EXEED:经销商整车库存车辆状态",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%8F%E9%94%80%E5%95%86%E6%95%B4%E8%BD%A6%E5%BA%93%E5%AD%98%E8%BD%A6%E8%BE%86%E7%8A%B6%E6%80%81",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "经销商整车库存车辆状态 - DealerVehicleStockVehicleStatus"
+        },
+        "EXEED:经销商整车库存状态": {
+            "printouts": [],
+            "fulltext": "EXEED:经销商整车库存状态",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%8F%E9%94%80%E5%95%86%E6%95%B4%E8%BD%A6%E5%BA%93%E5%AD%98%E7%8A%B6%E6%80%81",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "经销商整车库存状态 - DealerVehicleStockInventoryStatus"
+        },
+        "EXEED:经销商状态": {
+            "printouts": [],
+            "fulltext": "EXEED:经销商状态",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%8F%E9%94%80%E5%95%86%E7%8A%B6%E6%80%81",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "经销商状态 - DealerStatus"
+        },
+        "EXEED:教育程度": {
+            "printouts": [],
+            "fulltext": "EXEED:教育程度",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%99%E8%82%B2%E7%A8%8B%E5%BA%A6",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "教育程度 - Education"
+        },
+        "EXEED:教育程度（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:教育程度（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%99%E8%82%B2%E7%A8%8B%E5%BA%A6%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "教育程度（DMS） - Education"
+        },
+        "EXEED:扣补款单结算状态": {
+            "printouts": [],
+            "fulltext": "EXEED:扣补款单结算状态",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%89%A3%E8%A1%A5%E6%AC%BE%E5%8D%95%E7%BB%93%E7%AE%97%E7%8A%B6%E6%80%81",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "扣补款单结算状态 - ExpenseAdjustmentBillSettleStatus"
+        },
+        "EXEED:扣补款单状态": {
+            "printouts": [],
+            "fulltext": "EXEED:扣补款单状态",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%89%A3%E8%A1%A5%E6%AC%BE%E5%8D%95%E7%8A%B6%E6%80%81",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "扣补款单状态 - ExpenseAdjustmentBillStatus"
+        },
+        "EXEED:扣补款方向": {
+            "printouts": [],
+            "fulltext": "EXEED:扣补款方向",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%89%A3%E8%A1%A5%E6%AC%BE%E6%96%B9%E5%90%91",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "扣补款方向 - ExpenseAdjustmentBillDebitOrReplenish"
+        },
+        "EXEED:扣补款类型": {
+            "printouts": [],
+            "fulltext": "EXEED:扣补款类型",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%89%A3%E8%A1%A5%E6%AC%BE%E7%B1%BB%E5%9E%8B",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "扣补款类型 - ExpenseAdjustmentBillType"
+        },
+        "EXEED:扣补款源单据类型": {
+            "printouts": [],
+            "fulltext": "EXEED:扣补款源单据类型",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%89%A3%E8%A1%A5%E6%AC%BE%E6%BA%90%E5%8D%95%E6%8D%AE%E7%B1%BB%E5%9E%8B",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "扣补款源单据类型 - ExpenseAdjustmentBillSourceType"
+        },
+        "EXEED:库存锁定状态": {
+            "printouts": [],
+            "fulltext": "EXEED:库存锁定状态",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E5%BA%93%E5%AD%98%E9%94%81%E5%AE%9A%E7%8A%B6%E6%80%81",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "库存锁定状态 - DealerVehicleStockStatus"
+        },
+        "EXEED:客户档案状态": {
+            "printouts": [],
+            "fulltext": "EXEED:客户档案状态",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E5%AE%A2%E6%88%B7%E6%A1%A3%E6%A1%88%E7%8A%B6%E6%80%81",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "客户档案状态 - CustomerStatus"
+        },
+        "EXEED:客户档案状态（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:客户档案状态（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E5%AE%A2%E6%88%B7%E6%A1%A3%E6%A1%88%E7%8A%B6%E6%80%81%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "客户档案状态（DMS） - CustomerStatus"
+        },
+        "EXEED:客户级别": {
+            "printouts": [],
+            "fulltext": "EXEED:客户级别",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E5%AE%A2%E6%88%B7%E7%BA%A7%E5%88%AB",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "客户级别 - VehicleCustomerLevel"
+        },
+        "EXEED:客户级别（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:客户级别（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E5%AE%A2%E6%88%B7%E7%BA%A7%E5%88%AB%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "客户级别（DMS） - VehicleCustomerLevel"
+        },
+        "EXEED:客户来源": {
+            "printouts": [],
+            "fulltext": "EXEED:客户来源",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E5%AE%A2%E6%88%B7%E6%9D%A5%E6%BA%90",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "客户来源 - DataSource"
+        },
+        "EXEED:客户来源（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:客户来源（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E5%AE%A2%E6%88%B7%E6%9D%A5%E6%BA%90%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "客户来源（DMS） - DataSource"
+        },
+        "EXEED:客户属性": {
+            "printouts": [],
+            "fulltext": "EXEED:客户属性",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E5%AE%A2%E6%88%B7%E5%B1%9E%E6%80%A7",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "客户属性 - CustomerType"
+        },
+        "EXEED:客户属性（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:客户属性（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E5%AE%A2%E6%88%B7%E5%B1%9E%E6%80%A7%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "客户属性（DMS） - CustomerType"
+        },
+        "EXEED:客户与车辆关系业务类型": {
+            "printouts": [],
+            "fulltext": "EXEED:客户与车辆关系业务类型",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E5%AE%A2%E6%88%B7%E4%B8%8E%E8%BD%A6%E8%BE%86%E5%85%B3%E7%B3%BB%E4%B8%9A%E5%8A%A1%E7%B1%BB%E5%9E%8B",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "客户与车辆关系业务类型 - VehicleSaleStatus"
+        },
+        "EXEED:客户与车辆关系业务类型（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:客户与车辆关系业务类型（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E5%AE%A2%E6%88%B7%E4%B8%8E%E8%BD%A6%E8%BE%86%E5%85%B3%E7%B3%BB%E4%B8%9A%E5%8A%A1%E7%B1%BB%E5%9E%8B%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "客户与车辆关系业务类型（DMS） - VehicleSaleStatus"
+        },
+        "EXEED:客户意向状态": {
+            "printouts": [],
+            "fulltext": "EXEED:客户意向状态",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E5%AE%A2%E6%88%B7%E6%84%8F%E5%90%91%E7%8A%B6%E6%80%81",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "客户意向状态 - CustomerIntentionStatus"
+        },
+        "库区类型": {
+            "printouts": [],
+            "fulltext": "库区类型",
+            "fullurl": "https://wiki.sdtdev.net/%E5%BA%93%E5%8C%BA%E7%B1%BB%E5%9E%8B",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "库区类型 - PartsWarehouseAreaType"
+        },
+        "EXEED:扩展信息模板类别": {
+            "printouts": [],
+            "fulltext": "EXEED:扩展信息模板类别",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%89%A9%E5%B1%95%E4%BF%A1%E6%81%AF%E6%A8%A1%E6%9D%BF%E7%B1%BB%E5%88%AB",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "扩展信息模板类别 - ExtendedInfoTemplateCategory"
+        },
+        "EXEED:扩展信息模板类别（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:扩展信息模板类别（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%89%A9%E5%B1%95%E4%BF%A1%E6%81%AF%E6%A8%A1%E6%9D%BF%E7%B1%BB%E5%88%AB%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "扩展信息模板类别（DMS） - ExtendedInfoTemplateCategory"
+        },
+        "EXEED:来访渠道": {
+            "printouts": [],
+            "fulltext": "EXEED:来访渠道",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%9D%A5%E8%AE%BF%E6%B8%A0%E9%81%93",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "来访渠道 - CustomerIntentionVisitType"
+        },
+        "EXEED:联系人类型": {
+            "printouts": [],
+            "fulltext": "EXEED:联系人类型",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E8%81%94%E7%B3%BB%E4%BA%BA%E7%B1%BB%E5%9E%8B",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "联系人类型 - VehicleLinkManType"
+        },
+        "EXEED:联系人类型（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:联系人类型（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E8%81%94%E7%B3%BB%E4%BA%BA%E7%B1%BB%E5%9E%8B%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "联系人类型（DMS） - VehicleLinkManType"
+        },
+        "EXEED:纳税人资格（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:纳税人资格（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BA%B3%E7%A8%8E%E4%BA%BA%E8%B5%84%E6%A0%BC%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "纳税人资格（DMS） - TaxpayerQualification"
+        },
+        "EXEED:PDI检查状态": {
+            "printouts": [],
+            "fulltext": "EXEED:PDI检查状态",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:PDI%E6%A3%80%E6%9F%A5%E7%8A%B6%E6%80%81",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "PDI检查状态 - DealerVehicleStockPDIStatus"
+        },
+        "EXEED:配件保修政策状态": {
+            "printouts": [],
+            "fulltext": "EXEED:配件保修政策状态",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E4%BF%9D%E4%BF%AE%E6%94%BF%E7%AD%96%E7%8A%B6%E6%80%81",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件保修政策状态 - PartWarrantyStandardStatus"
+        },
+        "EXEED:配件保修政策状态（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:配件保修政策状态（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E4%BF%9D%E4%BF%AE%E6%94%BF%E7%AD%96%E7%8A%B6%E6%80%81%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件保修政策状态（DMS） - PartWarrantyStandardStatus"
+        },
+        "EXEED:配件成本调整单类型": {
+            "printouts": [],
+            "fulltext": "EXEED:配件成本调整单类型",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E6%88%90%E6%9C%AC%E8%B0%83%E6%95%B4%E5%8D%95%E7%B1%BB%E5%9E%8B",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件成本调整单类型 - PartCostAdjustmentBillType"
+        },
+        "EXEED:配件成本调整单状态": {
+            "printouts": [],
+            "fulltext": "EXEED:配件成本调整单状态",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E6%88%90%E6%9C%AC%E8%B0%83%E6%95%B4%E5%8D%95%E7%8A%B6%E6%80%81",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件成本调整单状态 - PartCostAdjustBillStatus"
+        },
+        "EXEED:配件成本调整原因": {
+            "printouts": [],
+            "fulltext": "EXEED:配件成本调整原因",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E6%88%90%E6%9C%AC%E8%B0%83%E6%95%B4%E5%8E%9F%E5%9B%A0",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件成本调整原因 - PartCostAdjustmentBillReason"
+        },
+        "EXEED:配件仓库存储策略": {
+            "printouts": [],
+            "fulltext": "EXEED:配件仓库存储策略",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E4%BB%93%E5%BA%93%E5%AD%98%E5%82%A8%E7%AD%96%E7%95%A5",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件仓库存储策略 - PartStorageStrategy"
+        },
+        "配件仓库存储策略": {
+            "printouts": [],
+            "fulltext": "配件仓库存储策略",
+            "fullurl": "https://wiki.sdtdev.net/%E9%85%8D%E4%BB%B6%E4%BB%93%E5%BA%93%E5%AD%98%E5%82%A8%E7%AD%96%E7%95%A5",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "配件仓库存储策略 - PartsStorageStrategy"
+        },
+        "配件仓库类型": {
+            "printouts": [],
+            "fulltext": "配件仓库类型",
+            "fullurl": "https://wiki.sdtdev.net/%E9%85%8D%E4%BB%B6%E4%BB%93%E5%BA%93%E7%B1%BB%E5%9E%8B",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "配件仓库类型 - PartsWarehouseType"
+        },
+        "EXEED:配件仓库类型": {
+            "printouts": [],
+            "fulltext": "EXEED:配件仓库类型",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E4%BB%93%E5%BA%93%E7%B1%BB%E5%9E%8B",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件仓库类型 - WarehouseType"
+        },
+        "EXEED:配件仓库与经销商关系状态": {
+            "printouts": [],
+            "fulltext": "EXEED:配件仓库与经销商关系状态",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E4%BB%93%E5%BA%93%E4%B8%8E%E7%BB%8F%E9%94%80%E5%95%86%E5%85%B3%E7%B3%BB%E7%8A%B6%E6%80%81",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件仓库与经销商关系状态 - WarehouseDealerLinkStatus"
+        },
+        "配件仓库状态": {
+            "printouts": [],
+            "fulltext": "配件仓库状态",
+            "fullurl": "https://wiki.sdtdev.net/%E9%85%8D%E4%BB%B6%E4%BB%93%E5%BA%93%E7%8A%B6%E6%80%81",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "配件仓库状态 - PartsWarehouseStatus"
+        },
+        "EXEED:配件仓库状态": {
+            "printouts": [],
+            "fulltext": "EXEED:配件仓库状态",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E4%BB%93%E5%BA%93%E7%8A%B6%E6%80%81",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件仓库状态 - WarehouseStatus"
+        },
+        "EXEED:配件调拨单状态": {
+            "printouts": [],
+            "fulltext": "EXEED:配件调拨单状态",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E8%B0%83%E6%8B%A8%E5%8D%95%E7%8A%B6%E6%80%81",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件调拨单状态 - PartCostAdjustmentBillReason"
+        },
+        "配件调拨单状态": {
+            "printouts": [],
+            "fulltext": "配件调拨单状态",
+            "fullurl": "https://wiki.sdtdev.net/%E9%85%8D%E4%BB%B6%E8%B0%83%E6%8B%A8%E5%8D%95%E7%8A%B6%E6%80%81",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "配件调拨单状态 - PartsRelocateOrderStatus"
+        },
+        "EXEED:配件调拨类型": {
+            "printouts": [],
+            "fulltext": "EXEED:配件调拨类型",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E8%B0%83%E6%8B%A8%E7%B1%BB%E5%9E%8B",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件调拨类型 - PartsTransferOrderType"
+        },
+        "EXEED:配件发运单状态": {
+            "printouts": [],
+            "fulltext": "EXEED:配件发运单状态",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E5%8F%91%E8%BF%90%E5%8D%95%E7%8A%B6%E6%80%81",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件发运单状态 - PartShipmentStatus"
+        },
+        "EXEED:配件交接单状态": {
+            "printouts": [],
+            "fulltext": "EXEED:配件交接单状态",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E4%BA%A4%E6%8E%A5%E5%8D%95%E7%8A%B6%E6%80%81",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件交接单状态 - PartHandOverStatus"
+        },
+        "EXEED:配件计量单位": {
+            "printouts": [],
+            "fulltext": "EXEED:配件计量单位",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E8%AE%A1%E9%87%8F%E5%8D%95%E4%BD%8D",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件计量单位 - SparePartUnit"
+        },
+        "配件零售订单付款方式": {
+            "printouts": [],
+            "fulltext": "配件零售订单付款方式",
+            "fullurl": "https://wiki.sdtdev.net/%E9%85%8D%E4%BB%B6%E9%9B%B6%E5%94%AE%E8%AE%A2%E5%8D%95%E4%BB%98%E6%AC%BE%E6%96%B9%E5%BC%8F",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "配件零售订单付款方式 - PartsOrderPaymentMethod"
+        },
+        "配件零售订单结算状态": {
+            "printouts": [],
+            "fulltext": "配件零售订单结算状态",
+            "fullurl": "https://wiki.sdtdev.net/%E9%85%8D%E4%BB%B6%E9%9B%B6%E5%94%AE%E8%AE%A2%E5%8D%95%E7%BB%93%E7%AE%97%E7%8A%B6%E6%80%81",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "配件零售订单结算状态 - PartsOrderSettlementStatus"
+        },
+        "配件零售订单状态": {
+            "printouts": [],
+            "fulltext": "配件零售订单状态",
+            "fullurl": "https://wiki.sdtdev.net/%E9%85%8D%E4%BB%B6%E9%9B%B6%E5%94%AE%E8%AE%A2%E5%8D%95%E7%8A%B6%E6%80%81",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "配件零售订单状态 - PartsOrderStatus"
+        },
+        "配件零售客户状态": {
+            "printouts": [],
+            "fulltext": "配件零售客户状态",
+            "fullurl": "https://wiki.sdtdev.net/%E9%85%8D%E4%BB%B6%E9%9B%B6%E5%94%AE%E5%AE%A2%E6%88%B7%E7%8A%B6%E6%80%81",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "配件零售客户状态 - PartsCustomerStatus"
+        },
+        "配件零售退货单结算状态": {
+            "printouts": [],
+            "fulltext": "配件零售退货单结算状态",
+            "fullurl": "https://wiki.sdtdev.net/%E9%85%8D%E4%BB%B6%E9%9B%B6%E5%94%AE%E9%80%80%E8%B4%A7%E5%8D%95%E7%BB%93%E7%AE%97%E7%8A%B6%E6%80%81",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "配件零售退货单结算状态 - PartsReturnOrderSettlementStatus"
+        },
+        "配件零售退货单状态": {
+            "printouts": [],
+            "fulltext": "配件零售退货单状态",
+            "fullurl": "https://wiki.sdtdev.net/%E9%85%8D%E4%BB%B6%E9%9B%B6%E5%94%AE%E9%80%80%E8%B4%A7%E5%8D%95%E7%8A%B6%E6%80%81",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "配件零售退货单状态 - PartsReturnOrderStatus"
+        },
+        "EXEED:配件内部领用类型": {
+            "printouts": [],
+            "fulltext": "EXEED:配件内部领用类型",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E5%86%85%E9%83%A8%E9%A2%86%E7%94%A8%E7%B1%BB%E5%9E%8B",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件内部领用类型 - PartRequisitionType"
+        },
+        "EXEED:配件内部领用状态": {
+            "printouts": [],
+            "fulltext": "EXEED:配件内部领用状态",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E5%86%85%E9%83%A8%E9%A2%86%E7%94%A8%E7%8A%B6%E6%80%81",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件内部领用状态 - PartRequisitionStatus"
+        },
+        "EXEED:配件盘点单状态": {
+            "printouts": [],
+            "fulltext": "EXEED:配件盘点单状态",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E7%9B%98%E7%82%B9%E5%8D%95%E7%8A%B6%E6%80%81",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件盘点单状态 - PartInventoryStatus"
+        },
+        "EXEED:配件替代件状态": {
+            "printouts": [],
+            "fulltext": "EXEED:配件替代件状态",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E6%9B%BF%E4%BB%A3%E4%BB%B6%E7%8A%B6%E6%80%81",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件替代件状态 - PartReplacementStatus"
+        },
+        "EXEED:配件替代件状态（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:配件替代件状态（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E6%9B%BF%E4%BB%A3%E4%BB%B6%E7%8A%B6%E6%80%81%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件替代件状态（DMS） - PartReplacementStatus"
+        },
+        "配件替互换件状态": {
+            "printouts": [],
+            "fulltext": "配件替互换件状态",
+            "fullurl": "https://wiki.sdtdev.net/%E9%85%8D%E4%BB%B6%E6%9B%BF%E4%BA%92%E6%8D%A2%E4%BB%B6%E7%8A%B6%E6%80%81",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "配件替互换件状态 - PartReplacementStatus"
+        },
+        "配件替互换类型": {
+            "printouts": [],
+            "fulltext": "配件替互换类型",
+            "fullurl": "https://wiki.sdtdev.net/%E9%85%8D%E4%BB%B6%E6%9B%BF%E4%BA%92%E6%8D%A2%E7%B1%BB%E5%9E%8B",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "配件替互换类型 - PartsReplacementType"
+        },
+        "EXEED:配件替互换类型": {
+            "printouts": [],
+            "fulltext": "EXEED:配件替互换类型",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E6%9B%BF%E4%BA%92%E6%8D%A2%E7%B1%BB%E5%9E%8B",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件替互换类型 - PartReplacementType"
+        },
+        "EXEED:配件销售订单订单类型": {
+            "printouts": [],
+            "fulltext": "EXEED:配件销售订单订单类型",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E9%94%80%E5%94%AE%E8%AE%A2%E5%8D%95%E8%AE%A2%E5%8D%95%E7%B1%BB%E5%9E%8B",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件销售订单订单类型 - SaleOrderType"
+        },
+        "EXEED:配件销售订单状态": {
+            "printouts": [],
+            "fulltext": "EXEED:配件销售订单状态",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E9%94%80%E5%94%AE%E8%AE%A2%E5%8D%95%E7%8A%B6%E6%80%81",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件销售订单状态 - SaleOrderStatus"
+        },
+        "配件销售价格状态": {
+            "printouts": [],
+            "fulltext": "配件销售价格状态",
+            "fullurl": "https://wiki.sdtdev.net/%E9%85%8D%E4%BB%B6%E9%94%80%E5%94%AE%E4%BB%B7%E6%A0%BC%E7%8A%B6%E6%80%81",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "配件销售价格状态 - PartsRetailPricingStatus"
+        },
+        "EXEED:配件信息状态": {
+            "printouts": [],
+            "fulltext": "EXEED:配件信息状态",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E4%BF%A1%E6%81%AF%E7%8A%B6%E6%80%81",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件信息状态 - SparePartStatus"
+        },
+        "配件信息状态": {
+            "printouts": [],
+            "fulltext": "配件信息状态",
+            "fullurl": "https://wiki.sdtdev.net/%E9%85%8D%E4%BB%B6%E4%BF%A1%E6%81%AF%E7%8A%B6%E6%80%81",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "配件信息状态 - SparePartStatus"
+        },
+        "EXEED:配件信息状态（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:配件信息状态（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E4%BF%A1%E6%81%AF%E7%8A%B6%E6%80%81%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件信息状态（DMS） - SparePartStatus"
+        },
+        "EXEED:配件与供应商关系状态": {
+            "printouts": [],
+            "fulltext": "EXEED:配件与供应商关系状态",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E4%B8%8E%E4%BE%9B%E5%BA%94%E5%95%86%E5%85%B3%E7%B3%BB%E7%8A%B6%E6%80%81",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件与供应商关系状态 - PartsSupplierLinkStatus"
+        },
+        "EXEED:配件移库单状态": {
+            "printouts": [],
+            "fulltext": "EXEED:配件移库单状态",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E7%A7%BB%E5%BA%93%E5%8D%95%E7%8A%B6%E6%80%81",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件移库单状态 - PartShiftOrderStatus"
+        },
+        "配件移库单状态": {
+            "printouts": [],
+            "fulltext": "配件移库单状态",
+            "fullurl": "https://wiki.sdtdev.net/%E9%85%8D%E4%BB%B6%E7%A7%BB%E5%BA%93%E5%8D%95%E7%8A%B6%E6%80%81",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "配件移库单状态 - PartsReslotOrderStatus"
+        },
+        "EXEED:潜客转换来源": {
+            "printouts": [],
+            "fulltext": "EXEED:潜客转换来源",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%BD%9C%E5%AE%A2%E8%BD%AC%E6%8D%A2%E6%9D%A5%E6%BA%90",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "潜客转换来源 - CustomerIntentionConversionSource"
+        },
+        "区域类型": {
+            "printouts": [],
+            "fulltext": "区域类型",
+            "fullurl": "https://wiki.sdtdev.net/%E5%8C%BA%E5%9F%9F%E7%B1%BB%E5%9E%8B",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "区域类型 - RegionType"
+        },
+        "EXEED:企业性质": {
+            "printouts": [],
+            "fulltext": "EXEED:企业性质",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E4%BC%81%E4%B8%9A%E6%80%A7%E8%B4%A8",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "企业性质 - TaxPayType"
+        },
+        "EXEED:企业性质（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:企业性质（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E4%BC%81%E4%B8%9A%E6%80%A7%E8%B4%A8%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "企业性质（DMS） - TaxPayType"
+        },
+        "EXEED:人员工单操作大类": {
+            "printouts": [],
+            "fulltext": "EXEED:人员工单操作大类",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E4%BA%BA%E5%91%98%E5%B7%A5%E5%8D%95%E6%93%8D%E4%BD%9C%E5%A4%A7%E7%B1%BB",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "人员工单操作大类 - OperClass"
+        },
+        "EXEED:人员工单操作类型": {
+            "printouts": [],
+            "fulltext": "EXEED:人员工单操作类型",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E4%BA%BA%E5%91%98%E5%B7%A5%E5%8D%95%E6%93%8D%E4%BD%9C%E7%B1%BB%E5%9E%8B",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "人员工单操作类型 - OperType"
+        },
+        "EXEED:人员信息状态": {
+            "printouts": [],
+            "fulltext": "EXEED:人员信息状态",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E4%BA%BA%E5%91%98%E4%BF%A1%E6%81%AF%E7%8A%B6%E6%80%81",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "人员信息状态 - PersonelStatus"
+        },
+        "EXEED:人员信息状态（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:人员信息状态（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E4%BA%BA%E5%91%98%E4%BF%A1%E6%81%AF%E7%8A%B6%E6%80%81%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "人员信息状态（DMS） - PersonelStatus"
+        },
+        "EXEED:申报位置": {
+            "printouts": [],
+            "fulltext": "EXEED:申报位置",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%94%B3%E6%8A%A5%E4%BD%8D%E7%BD%AE",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "申报位置 - MarketQualitySbPosition"
+        },
+        "EXEED:索赔及申请审核意见": {
+            "printouts": [],
+            "fulltext": "EXEED:索赔及申请审核意见",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%B4%A2%E8%B5%94%E5%8F%8A%E7%94%B3%E8%AF%B7%E5%AE%A1%E6%A0%B8%E6%84%8F%E8%A7%81",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "索赔及申请审核意见 - RepairOrderStatus"
+        },
+        "EXEED:索赔申请单保修类型": {
+            "printouts": [],
+            "fulltext": "EXEED:索赔申请单保修类型",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%B4%A2%E8%B5%94%E7%94%B3%E8%AF%B7%E5%8D%95%E4%BF%9D%E4%BF%AE%E7%B1%BB%E5%9E%8B",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "索赔申请单保修类型 - WarrantyType"
+        },
+        "EXEED:索赔申请单结算属性": {
+            "printouts": [],
+            "fulltext": "EXEED:索赔申请单结算属性",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%B4%A2%E8%B5%94%E7%94%B3%E8%AF%B7%E5%8D%95%E7%BB%93%E7%AE%97%E5%B1%9E%E6%80%A7",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "索赔申请单结算属性 - ApplyRptitemlistSettleProp"
+        },
+        "EXEED:索赔申请单索赔类型": {
+            "printouts": [],
+            "fulltext": "EXEED:索赔申请单索赔类型",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%B4%A2%E8%B5%94%E7%94%B3%E8%AF%B7%E5%8D%95%E7%B4%A2%E8%B5%94%E7%B1%BB%E5%9E%8B",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "索赔申请单索赔类型 - ApplyReportSpType"
+        },
+        "EXEED:索赔申请单终审状态": {
+            "printouts": [],
+            "fulltext": "EXEED:索赔申请单终审状态",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%B4%A2%E8%B5%94%E7%94%B3%E8%AF%B7%E5%8D%95%E7%BB%88%E5%AE%A1%E7%8A%B6%E6%80%81",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "索赔申请单终审状态 - BaseEndCheckStatus"
+        },
+        "EXEED:索赔申请单状态": {
+            "printouts": [],
+            "fulltext": "EXEED:索赔申请单状态",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%B4%A2%E8%B5%94%E7%94%B3%E8%AF%B7%E5%8D%95%E7%8A%B6%E6%80%81",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "索赔申请单状态 - ApplyReportStatus"
+        },
+        "EXEED:索赔申诉单状态": {
+            "printouts": [],
+            "fulltext": "EXEED:索赔申诉单状态",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%B4%A2%E8%B5%94%E7%94%B3%E8%AF%89%E5%8D%95%E7%8A%B6%E6%80%81",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "索赔申诉单状态 - CorpAuthorizationType"
+        },
+        "EXEED:收入": {
+            "printouts": [],
+            "fulltext": "EXEED:收入",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%94%B6%E5%85%A5",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "收入 - CustomerEarning"
+        },
+        "EXEED:省市区县种类": {
+            "printouts": [],
+            "fulltext": "EXEED:省市区县种类",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%9C%81%E5%B8%82%E5%8C%BA%E5%8E%BF%E7%A7%8D%E7%B1%BB",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "省市区县种类 - AreaKind"
+        },
+        "EXEED:省市区县种类（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:省市区县种类（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%9C%81%E5%B8%82%E5%8C%BA%E5%8E%BF%E7%A7%8D%E7%B1%BB%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "省市区县种类（DMS） - AreaKind"
+        },
+        "EXEED:适用类型（DCS）": {
+            "printouts": [],
+            "fulltext": "EXEED:适用类型（DCS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%80%82%E7%94%A8%E7%B1%BB%E5%9E%8B%EF%BC%88DCS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "适用类型（DCS） - Kind"
+        },
+        "EXEED:提醒方式": {
+            "printouts": [],
+            "fulltext": "EXEED:提醒方式",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%8F%90%E9%86%92%E6%96%B9%E5%BC%8F",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "提醒方式 - ApplyReportSpType"
+        },
+        "EXEED:提醒方式（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:提醒方式（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%8F%90%E9%86%92%E6%96%B9%E5%BC%8F%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "提醒方式（DMS） - ApplyReportSpType"
+        },
+        "EXEED:VIP类型": {
+            "printouts": [],
+            "fulltext": "EXEED:VIP类型",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:VIP%E7%B1%BB%E5%9E%8B",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "VIP类型 - VehicleVIPType"
+        },
+        "EXEED:外出方式": {
+            "printouts": [],
+            "fulltext": "EXEED:外出方式",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E5%A4%96%E5%87%BA%E6%96%B9%E5%BC%8F",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "外出方式 - OutClaimApplyOutMethod"
+        },
+        "EXEED:外出技术类别": {
+            "printouts": [],
+            "fulltext": "EXEED:外出技术类别",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E5%A4%96%E5%87%BA%E6%8A%80%E6%9C%AF%E7%B1%BB%E5%88%AB",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "外出技术类别 - OutClaimApplyTechCategory"
+        },
+        "EXEED:外出救援地点类型": {
+            "printouts": [],
+            "fulltext": "EXEED:外出救援地点类型",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E5%A4%96%E5%87%BA%E6%95%91%E6%8F%B4%E5%9C%B0%E7%82%B9%E7%B1%BB%E5%9E%8B",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "外出救援地点类型 - OutClaimApplyRescueSiteType"
+        },
+        "EXEED:外出救援方式": {
+            "printouts": [],
+            "fulltext": "EXEED:外出救援方式",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E5%A4%96%E5%87%BA%E6%95%91%E6%8F%B4%E6%96%B9%E5%BC%8F",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "外出救援方式 - OutClaimApplyRescueMethod"
+        },
+        "EXEED:外出索赔申请单状态": {
+            "printouts": [],
+            "fulltext": "EXEED:外出索赔申请单状态",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E5%A4%96%E5%87%BA%E7%B4%A2%E8%B5%94%E7%94%B3%E8%AF%B7%E5%8D%95%E7%8A%B6%E6%80%81",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "外出索赔申请单状态 - OutClaimApplyStatus"
+        },
+        "EXEED:问题分类": {
+            "printouts": [],
+            "fulltext": "EXEED:问题分类",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%97%AE%E9%A2%98%E5%88%86%E7%B1%BB",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "问题分类 - MarketQualityProblemKind"
+        },
+        "EXEED:维修付款方式": {
+            "printouts": [],
+            "fulltext": "EXEED:维修付款方式",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E4%BB%98%E6%AC%BE%E6%96%B9%E5%BC%8F",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修付款方式 - RepairAccountingOrderPaymentType"
+        },
+        "EXEED:维修合同调整单调整类型": {
+            "printouts": [],
+            "fulltext": "EXEED:维修合同调整单调整类型",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E5%90%88%E5%90%8C%E8%B0%83%E6%95%B4%E5%8D%95%E8%B0%83%E6%95%B4%E7%B1%BB%E5%9E%8B",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修合同调整单调整类型 - RepairOrderAdjustType"
+        },
+        "EXEED:维修合同检查状态（DCS）": {
+            "printouts": [],
+            "fulltext": "EXEED:维修合同检查状态（DCS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E5%90%88%E5%90%8C%E6%A3%80%E6%9F%A5%E7%8A%B6%E6%80%81%EF%BC%88DCS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修合同检查状态（DCS） - RepairOrderCheckStatus"
+        },
+        "EXEED:维修合同检查状态（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:维修合同检查状态（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E5%90%88%E5%90%8C%E6%A3%80%E6%9F%A5%E7%8A%B6%E6%80%81%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修合同检查状态（DMS） - RepairOrderCheckStatus"
+        },
+        "EXEED:维修合同结算属性（DCS）": {
+            "printouts": [],
+            "fulltext": "EXEED:维修合同结算属性（DCS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E5%90%88%E5%90%8C%E7%BB%93%E7%AE%97%E5%B1%9E%E6%80%A7%EF%BC%88DCS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修合同结算属性（DCS） - RepairOrderSettleType"
+        },
+        "EXEED:维修合同结算属性（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:维修合同结算属性（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E5%90%88%E5%90%8C%E7%BB%93%E7%AE%97%E5%B1%9E%E6%80%A7%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修合同结算属性（DMS） - RepairOrderSettleType"
+        },
+        "EXEED:维修合同索赔状态": {
+            "printouts": [],
+            "fulltext": "EXEED:维修合同索赔状态",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E5%90%88%E5%90%8C%E7%B4%A2%E8%B5%94%E7%8A%B6%E6%80%81",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修合同索赔状态 - SPStatus"
+        },
+        "EXEED:维修合同维修类别（DCS）": {
+            "printouts": [],
+            "fulltext": "EXEED:维修合同维修类别（DCS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E5%90%88%E5%90%8C%E7%BB%B4%E4%BF%AE%E7%B1%BB%E5%88%AB%EF%BC%88DCS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修合同维修类别（DCS） - RepairOrderRepairType"
+        },
+        "EXEED:维修合同维修类别（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:维修合同维修类别（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E5%90%88%E5%90%8C%E7%BB%B4%E4%BF%AE%E7%B1%BB%E5%88%AB%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修合同维修类别（DMS） - RepairOrderRepairType"
+        },
+        "EXEED:维修合同项目索赔状态": {
+            "printouts": [],
+            "fulltext": "EXEED:维修合同项目索赔状态",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E5%90%88%E5%90%8C%E9%A1%B9%E7%9B%AE%E7%B4%A2%E8%B5%94%E7%8A%B6%E6%80%81",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修合同项目索赔状态 - RepItemSPStatus"
+        },
+        "EXEED:维修合同状态（DCS）": {
+            "printouts": [],
+            "fulltext": "EXEED:维修合同状态（DCS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E5%90%88%E5%90%8C%E7%8A%B6%E6%80%81%EF%BC%88DCS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修合同状态（DCS） - RepairOrderStatus"
+        },
+        "EXEED:维修合同状态（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:维修合同状态（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E5%90%88%E5%90%8C%E7%8A%B6%E6%80%81%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修合同状态（DMS） - RepairOrderStatus"
+        },
+        "EXEED:维修结果": {
+            "printouts": [],
+            "fulltext": "EXEED:维修结果",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E7%BB%93%E6%9E%9C",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修结果 - MarketQualityRepairResult"
+        },
+        "EXEED:维修结算属性": {
+            "printouts": [],
+            "fulltext": "EXEED:维修结算属性",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E7%BB%93%E7%AE%97%E5%B1%9E%E6%80%A7",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修结算属性 - RepairTemplateAccountProperty"
+        },
+        "EXEED:维修结算状态": {
+            "printouts": [],
+            "fulltext": "EXEED:维修结算状态",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E7%BB%93%E7%AE%97%E7%8A%B6%E6%80%81",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修结算状态 - RepairAccountingOrderStatus"
+        },
+        "EXEED:维修领退料类型": {
+            "printouts": [],
+            "fulltext": "EXEED:维修领退料类型",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E9%A2%86%E9%80%80%E6%96%99%E7%B1%BB%E5%9E%8B",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修领退料类型 - RepairRequisitionType"
+        },
+        "EXEED:维修模板类型": {
+            "printouts": [],
+            "fulltext": "EXEED:维修模板类型",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E6%A8%A1%E6%9D%BF%E7%B1%BB%E5%9E%8B",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修模板类型 - RepairTemplateRepairType"
+        },
+        "EXEED:维修模板类型（DCS）": {
+            "printouts": [],
+            "fulltext": "EXEED:维修模板类型（DCS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E6%A8%A1%E6%9D%BF%E7%B1%BB%E5%9E%8B%EF%BC%88DCS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修模板类型（DCS） - RepairTemplateRepairType"
+        },
+        "EXEED:维修模板适用类型（DCS）": {
+            "printouts": [],
+            "fulltext": "EXEED:维修模板适用类型（DCS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E6%A8%A1%E6%9D%BF%E9%80%82%E7%94%A8%E7%B1%BB%E5%9E%8B%EF%BC%88DCS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修模板适用类型（DCS） - RepairTemplateApplicableType"
+        },
+        "EXEED:维修模板适用类型（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:维修模板适用类型（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E6%A8%A1%E6%9D%BF%E9%80%82%E7%94%A8%E7%B1%BB%E5%9E%8B%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修模板适用类型（DMS） - RepairTemplateApplicableType"
+        },
+        "EXEED:维修模板维修类型（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:维修模板维修类型（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E6%A8%A1%E6%9D%BF%E7%BB%B4%E4%BF%AE%E7%B1%BB%E5%9E%8B%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修模板维修类型（DMS） - RepairTemplateRepairType"
+        },
+        "EXEED:维修索赔单保修类型": {
+            "printouts": [],
+            "fulltext": "EXEED:维修索赔单保修类型",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E7%B4%A2%E8%B5%94%E5%8D%95%E4%BF%9D%E4%BF%AE%E7%B1%BB%E5%9E%8B",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修索赔单保修类型 - ClaimBillMainteType"
+        },
+        "EXEED:维修索赔单材料清单旧件发运状态": {
+            "printouts": [],
+            "fulltext": "EXEED:维修索赔单材料清单旧件发运状态",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E7%B4%A2%E8%B5%94%E5%8D%95%E6%9D%90%E6%96%99%E6%B8%85%E5%8D%95%E6%97%A7%E4%BB%B6%E5%8F%91%E8%BF%90%E7%8A%B6%E6%80%81",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修索赔单材料清单旧件发运状态 - ClaimBillDtUsedPartTransStatus"
+        },
+        "EXEED:维修索赔单单据状态": {
+            "printouts": [],
+            "fulltext": "EXEED:维修索赔单单据状态",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E7%B4%A2%E8%B5%94%E5%8D%95%E5%8D%95%E6%8D%AE%E7%8A%B6%E6%80%81",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修索赔单单据状态 - ClaimBillStatus"
+        },
+        "EXEED:维修索赔单回访标记": {
+            "printouts": [],
+            "fulltext": "EXEED:维修索赔单回访标记",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E7%B4%A2%E8%B5%94%E5%8D%95%E5%9B%9E%E8%AE%BF%E6%A0%87%E8%AE%B0",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修索赔单回访标记 - ClaimBillVisitStatus"
+        },
+        "EXEED:维修索赔单旧件发运状态": {
+            "printouts": [],
+            "fulltext": "EXEED:维修索赔单旧件发运状态",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E7%B4%A2%E8%B5%94%E5%8D%95%E6%97%A7%E4%BB%B6%E5%8F%91%E8%BF%90%E7%8A%B6%E6%80%81",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修索赔单旧件发运状态 - ClaimBillUsedPartTransStatus"
+        },
+        "EXEED:维修索赔单旧件解锁状态": {
+            "printouts": [],
+            "fulltext": "EXEED:维修索赔单旧件解锁状态",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E7%B4%A2%E8%B5%94%E5%8D%95%E6%97%A7%E4%BB%B6%E8%A7%A3%E9%94%81%E7%8A%B6%E6%80%81",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修索赔单旧件解锁状态 - ClaimBillOldPartLockStatus"
+        },
+        "EXEED:维修索赔单旧件审核状态": {
+            "printouts": [],
+            "fulltext": "EXEED:维修索赔单旧件审核状态",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E7%B4%A2%E8%B5%94%E5%8D%95%E6%97%A7%E4%BB%B6%E5%AE%A1%E6%A0%B8%E7%8A%B6%E6%80%81",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修索赔单旧件审核状态 - ClaimBillOldPartCheckStatus"
+        },
+        "EXEED:维修索赔单旧件索赔类型": {
+            "printouts": [],
+            "fulltext": "EXEED:维修索赔单旧件索赔类型",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E7%B4%A2%E8%B5%94%E5%8D%95%E6%97%A7%E4%BB%B6%E7%B4%A2%E8%B5%94%E7%B1%BB%E5%9E%8B",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修索赔单旧件索赔类型 - ClaimMaterialSpType"
+        },
+        "EXEED:维修索赔单结算状态": {
+            "printouts": [],
+            "fulltext": "EXEED:维修索赔单结算状态",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E7%B4%A2%E8%B5%94%E5%8D%95%E7%BB%93%E7%AE%97%E7%8A%B6%E6%80%81",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修索赔单结算状态 - ClaimBillSettleStatus"
+        },
+        "EXEED:维修索赔单索赔单等级": {
+            "printouts": [],
+            "fulltext": "EXEED:维修索赔单索赔单等级",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E7%B4%A2%E8%B5%94%E5%8D%95%E7%B4%A2%E8%B5%94%E5%8D%95%E7%AD%89%E7%BA%A7",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修索赔单索赔单等级 - ClaimBillQLevel"
+        },
+        "EXEED:维修索赔单索赔形式": {
+            "printouts": [],
+            "fulltext": "EXEED:维修索赔单索赔形式",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E7%B4%A2%E8%B5%94%E5%8D%95%E7%B4%A2%E8%B5%94%E5%BD%A2%E5%BC%8F",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修索赔单索赔形式 - ClaimBillClaimType"
+        },
+        "EXEED:维修索赔单索赔业务类型": {
+            "printouts": [],
+            "fulltext": "EXEED:维修索赔单索赔业务类型",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E7%B4%A2%E8%B5%94%E5%8D%95%E7%B4%A2%E8%B5%94%E4%B8%9A%E5%8A%A1%E7%B1%BB%E5%9E%8B",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修索赔单索赔业务类型 - ClaimBillKind"
+        },
+        "EXEED:维修索赔单问题种类": {
+            "printouts": [],
+            "fulltext": "EXEED:维修索赔单问题种类",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E7%B4%A2%E8%B5%94%E5%8D%95%E9%97%AE%E9%A2%98%E7%A7%8D%E7%B1%BB",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修索赔单问题种类 - ClaimBillProblemType"
+        },
+        "EXEED:维修索赔单自动审核状态": {
+            "printouts": [],
+            "fulltext": "EXEED:维修索赔单自动审核状态",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E7%B4%A2%E8%B5%94%E5%8D%95%E8%87%AA%E5%8A%A8%E5%AE%A1%E6%A0%B8%E7%8A%B6%E6%80%81",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修索赔单自动审核状态 - ClaimBillAutoCheckStatus"
+        },
+        "EXEED:维修属性": {
+            "printouts": [],
+            "fulltext": "EXEED:维修属性",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E5%B1%9E%E6%80%A7",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修属性 - RepContractRepairProp"
+        },
+        "EXEED:维修项目分类状态": {
+            "printouts": [],
+            "fulltext": "EXEED:维修项目分类状态",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E7%8A%B6%E6%80%81",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修项目分类状态 - WorkItemCategoryStatus"
+        },
+        "EXEED:维修项目分类状态（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:维修项目分类状态（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E7%8A%B6%E6%80%81%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修项目分类状态（DMS） - WorkItemCategoryStatus"
+        },
+        "EXEED:维修项目类型": {
+            "printouts": [],
+            "fulltext": "EXEED:维修项目类型",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E9%A1%B9%E7%9B%AE%E7%B1%BB%E5%9E%8B",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修项目类型 - WorkItemType"
+        },
+        "EXEED:维修项目类型（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:维修项目类型（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E9%A1%B9%E7%9B%AE%E7%B1%BB%E5%9E%8B%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修项目类型（DMS） - WorkItemType"
+        },
+        "EXEED:维修项目状态": {
+            "printouts": [],
+            "fulltext": "EXEED:维修项目状态",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E9%A1%B9%E7%9B%AE%E7%8A%B6%E6%80%81",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修项目状态 - WorkItemStatus"
+        },
+        "EXEED:维修项目状态（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:维修项目状态（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E9%A1%B9%E7%9B%AE%E7%8A%B6%E6%80%81%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修项目状态（DMS） - WorkItemStatus"
+        },
+        "EXEED:维修选择类型": {
+            "printouts": [],
+            "fulltext": "EXEED:维修选择类型",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E9%80%89%E6%8B%A9%E7%B1%BB%E5%9E%8B",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修选择类型 - IsRepair"
+        },
+        "EXEED:维修预检单状态": {
+            "printouts": [],
+            "fulltext": "EXEED:维修预检单状态",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E9%A2%84%E6%A3%80%E5%8D%95%E7%8A%B6%E6%80%81",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修预检单状态 - RingVehicleInspectionStatus"
+        },
+        "EXEED:维修预约单渠道": {
+            "printouts": [],
+            "fulltext": "EXEED:维修预约单渠道",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E9%A2%84%E7%BA%A6%E5%8D%95%E6%B8%A0%E9%81%93",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修预约单渠道 - RepAppointmentOrderChannel"
+        },
+        "EXEED:维修预约单数据来源": {
+            "printouts": [],
+            "fulltext": "EXEED:维修预约单数据来源",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E9%A2%84%E7%BA%A6%E5%8D%95%E6%95%B0%E6%8D%AE%E6%9D%A5%E6%BA%90",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修预约单数据来源 - RepAppointmentSource"
+        },
+        "EXEED:维修预约单状态": {
+            "printouts": [],
+            "fulltext": "EXEED:维修预约单状态",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E9%A2%84%E7%BA%A6%E5%8D%95%E7%8A%B6%E6%80%81",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修预约单状态 - RepAppointmentStatus"
+        },
+        "性别": {
+            "printouts": [],
+            "fulltext": "性别",
+            "fullurl": "https://wiki.sdtdev.net/%E6%80%A7%E5%88%AB",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "性别 - Gender"
+        },
+        "EXEED:性别": {
+            "printouts": [],
+            "fulltext": "EXEED:性别",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%80%A7%E5%88%AB",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "性别 - Gender"
+        },
+        "EXEED:性别（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:性别（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%80%A7%E5%88%AB%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "性别（DMS） - Gender"
+        },
+        "EXEED:修理后用户满意情况": {
+            "printouts": [],
+            "fulltext": "EXEED:修理后用户满意情况",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E4%BF%AE%E7%90%86%E5%90%8E%E7%94%A8%E6%88%B7%E6%BB%A1%E6%84%8F%E6%83%85%E5%86%B5",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "修理后用户满意情况 - MarketQualityAfRepaircustComplain"
+        },
+        "EXEED:修理前用户抱怨情况": {
+            "printouts": [],
+            "fulltext": "EXEED:修理前用户抱怨情况",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E4%BF%AE%E7%90%86%E5%89%8D%E7%94%A8%E6%88%B7%E6%8A%B1%E6%80%A8%E6%83%85%E5%86%B5",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "修理前用户抱怨情况 - MarketQualityBefRepcustcomplain"
+        },
+        "EXEED:兴趣爱好": {
+            "printouts": [],
+            "fulltext": "EXEED:兴趣爱好",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E5%85%B4%E8%B6%A3%E7%88%B1%E5%A5%BD",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "兴趣爱好 - Hobby"
+        },
+        "EXEED:兴趣爱好（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:兴趣爱好（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E5%85%B4%E8%B6%A3%E7%88%B1%E5%A5%BD%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "兴趣爱好（DMS） - Hobby"
+        },
+        "销售服务网点状态": {
+            "printouts": [],
+            "fulltext": "销售服务网点状态",
+            "fullurl": "https://wiki.sdtdev.net/%E9%94%80%E5%94%AE%E6%9C%8D%E5%8A%A1%E7%BD%91%E7%82%B9%E7%8A%B6%E6%80%81",
+            "namespace": 0,
+            "exists": "1",
+            "displaytitle": "销售服务网点状态 - OutletStatus"
+        },
+        "EXEED:信息来源": {
+            "printouts": [],
+            "fulltext": "EXEED:信息来源",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E4%BF%A1%E6%81%AF%E6%9D%A5%E6%BA%90",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "信息来源 - CustomerIntentionInfoSource"
+        },
+        "EXEED:行业类型": {
+            "printouts": [],
+            "fulltext": "EXEED:行业类型",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E8%A1%8C%E4%B8%9A%E7%B1%BB%E5%9E%8B",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "行业类型 - IndustryType"
+        },
+        "EXEED:行业类型（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:行业类型（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E8%A1%8C%E4%B8%9A%E7%B1%BB%E5%9E%8B%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "行业类型（DMS） - IndustryType"
+        },
+        "EXEED:月份": {
+            "printouts": [],
+            "fulltext": "EXEED:月份",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%9C%88%E4%BB%BD",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "月份 - Month"
+        },
+        "EXEED:预计购车时间": {
+            "printouts": [],
+            "fulltext": "EXEED:预计购车时间",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%A2%84%E8%AE%A1%E8%B4%AD%E8%BD%A6%E6%97%B6%E9%97%B4",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "预计购车时间 - CustomerIntentionBuyingTime"
+        },
+        "EXEED:与推荐人关系": {
+            "printouts": [],
+            "fulltext": "EXEED:与推荐人关系",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E4%B8%8E%E6%8E%A8%E8%8D%90%E4%BA%BA%E5%85%B3%E7%B3%BB",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "与推荐人关系 - CustomerIntentionRelationship"
+        },
+        "EXEED:业务岗位": {
+            "printouts": [],
+            "fulltext": "EXEED:业务岗位",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E4%B8%9A%E5%8A%A1%E5%B2%97%E4%BD%8D",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "业务岗位 - ServicePost"
+        },
+        "EXEED:意向级别": {
+            "printouts": [],
+            "fulltext": "EXEED:意向级别",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%84%8F%E5%90%91%E7%BA%A7%E5%88%AB",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "意向级别 - CustomerIntentionLevelOfIntent"
+        },
+        "EXEED:整车保修保养政策类型": {
+            "printouts": [],
+            "fulltext": "EXEED:整车保修保养政策类型",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%B4%E8%BD%A6%E4%BF%9D%E4%BF%AE%E4%BF%9D%E5%85%BB%E6%94%BF%E7%AD%96%E7%B1%BB%E5%9E%8B",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "整车保修保养政策类型 - WarrantyPolicyType"
+        },
+        "EXEED:整车保修保养政策类型（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:整车保修保养政策类型（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%B4%E8%BD%A6%E4%BF%9D%E4%BF%AE%E4%BF%9D%E5%85%BB%E6%94%BF%E7%AD%96%E7%B1%BB%E5%9E%8B%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "整车保修保养政策类型（DMS） - WarrantyPolicyStatus"
+        },
+        "EXEED:整车保修政策状态": {
+            "printouts": [],
+            "fulltext": "EXEED:整车保修政策状态",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%B4%E8%BD%A6%E4%BF%9D%E4%BF%AE%E6%94%BF%E7%AD%96%E7%8A%B6%E6%80%81",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "整车保修政策状态 - Status"
+        },
+        "EXEED:整车保养费用来源": {
+            "printouts": [],
+            "fulltext": "EXEED:整车保养费用来源",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%B4%E8%BD%A6%E4%BF%9D%E5%85%BB%E8%B4%B9%E7%94%A8%E6%9D%A5%E6%BA%90",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "整车保养费用来源 - VehicleMaintenanceCostSources"
+        },
+        "EXEED:整车保养判断规则": {
+            "printouts": [],
+            "fulltext": "EXEED:整车保养判断规则",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%B4%E8%BD%A6%E4%BF%9D%E5%85%BB%E5%88%A4%E6%96%AD%E8%A7%84%E5%88%99",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "整车保养判断规则 - VehicleMaintenanceJudgmentRule"
+        },
+        "EXEED:整车保养判断规则（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:整车保养判断规则（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%B4%E8%BD%A6%E4%BF%9D%E5%85%BB%E5%88%A4%E6%96%AD%E8%A7%84%E5%88%99%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "整车保养判断规则（DMS） - VehicleMaintenanceJudgmentRule"
+        },
+        "EXEED:整车保养政策状态": {
+            "printouts": [],
+            "fulltext": "EXEED:整车保养政策状态",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%B4%E8%BD%A6%E4%BF%9D%E5%85%BB%E6%94%BF%E7%AD%96%E7%8A%B6%E6%80%81",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "整车保养政策状态 - VehicleMaintenanceStandardStatus"
+        },
+        "EXEED:整车保养政策状态（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:整车保养政策状态（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%B4%E8%BD%A6%E4%BF%9D%E5%85%BB%E6%94%BF%E7%AD%96%E7%8A%B6%E6%80%81%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "整车保养政策状态（DMS） - VehicleMaintenanceStandardStatus"
+        },
+        "EXEED:整车档案属性": {
+            "printouts": [],
+            "fulltext": "EXEED:整车档案属性",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%B4%E8%BD%A6%E6%A1%A3%E6%A1%88%E5%B1%9E%E6%80%A7",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "整车档案属性 - VehicleProjectInformationFileAttribute"
+        },
+        "EXEED:整车档案属性（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:整车档案属性（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%B4%E8%BD%A6%E6%A1%A3%E6%A1%88%E5%B1%9E%E6%80%A7%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "整车档案属性（DMS） - VehicleFileAttribute"
+        },
+        "EXEED:整车订单类型": {
+            "printouts": [],
+            "fulltext": "EXEED:整车订单类型",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%B4%E8%BD%A6%E8%AE%A2%E5%8D%95%E7%B1%BB%E5%9E%8B",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "整车订单类型 - VehicleOrderType"
+        },
+        "EXEED:整车贷款方案": {
+            "printouts": [],
+            "fulltext": "EXEED:整车贷款方案",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%B4%E8%BD%A6%E8%B4%B7%E6%AC%BE%E6%96%B9%E6%A1%88",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "整车贷款方案 - VehicleProjectInformationLendingPlan"
+        },
+        "EXEED:整车贷款方案（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:整车贷款方案（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%B4%E8%BD%A6%E8%B4%B7%E6%AC%BE%E6%96%B9%E6%A1%88%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "整车贷款方案（DMS） - VehicleLendingPlan"
+        },
+        "EXEED:整车贷款渠道": {
+            "printouts": [],
+            "fulltext": "EXEED:整车贷款渠道",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%B4%E8%BD%A6%E8%B4%B7%E6%AC%BE%E6%B8%A0%E9%81%93",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "整车贷款渠道 - VehicleProjectInformationLendingChannel"
+        },
+        "EXEED:整车贷款渠道（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:整车贷款渠道（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%B4%E8%BD%A6%E8%B4%B7%E6%AC%BE%E6%B8%A0%E9%81%93%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "整车贷款渠道（DMS） - VehicleLendingChannel"
+        },
+        "EXEED:整车付款方式": {
+            "printouts": [],
+            "fulltext": "EXEED:整车付款方式",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%B4%E8%BD%A6%E4%BB%98%E6%AC%BE%E6%96%B9%E5%BC%8F",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "整车付款方式 - VehicleProjectInformationPaymentMethod"
+        },
+        "EXEED:整车付款方式（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:整车付款方式（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%B4%E8%BD%A6%E4%BB%98%E6%AC%BE%E6%96%B9%E5%BC%8F%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "整车付款方式（DMS） - VehiclePaymentMethod"
+        },
+        "EXEED:整车服务经销商类型": {
+            "printouts": [],
+            "fulltext": "EXEED:整车服务经销商类型",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%B4%E8%BD%A6%E6%9C%8D%E5%8A%A1%E7%BB%8F%E9%94%80%E5%95%86%E7%B1%BB%E5%9E%8B",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "整车服务经销商类型 - DealerType"
+        },
+        "EXEED:整车购车经历": {
+            "printouts": [],
+            "fulltext": "EXEED:整车购车经历",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%B4%E8%BD%A6%E8%B4%AD%E8%BD%A6%E7%BB%8F%E5%8E%86",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "整车购车经历 - SalesLeadPurchaseHistory"
+        },
+        "EXEED:整车购车经历（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:整车购车经历（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%B4%E8%BD%A6%E8%B4%AD%E8%BD%A6%E7%BB%8F%E5%8E%86%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "整车购车经历（DMS） - VehiclePurchaseHistory"
+        },
+        "EXEED:整车购车年限": {
+            "printouts": [],
+            "fulltext": "EXEED:整车购车年限",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%B4%E8%BD%A6%E8%B4%AD%E8%BD%A6%E5%B9%B4%E9%99%90",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "整车购车年限 - VehicleProjectInformationOwningCarYears"
+        },
+        "EXEED:整车购车年限（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:整车购车年限（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%B4%E8%BD%A6%E8%B4%AD%E8%BD%A6%E5%B9%B4%E9%99%90%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "整车购车年限（DMS） - VehicleOwningCarYears"
+        },
+        "EXEED:整车购车用途": {
+            "printouts": [],
+            "fulltext": "EXEED:整车购车用途",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%B4%E8%BD%A6%E8%B4%AD%E8%BD%A6%E7%94%A8%E9%80%94",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "整车购车用途 - RetailContractApplication"
+        },
+        "EXEED:整车购车用途（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:整车购车用途（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%B4%E8%BD%A6%E8%B4%AD%E8%BD%A6%E7%94%A8%E9%80%94%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "整车购车用途（DMS） - RetailContractApplication"
+        },
+        "EXEED:整车购车重视因素": {
+            "printouts": [],
+            "fulltext": "EXEED:整车购车重视因素",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%B4%E8%BD%A6%E8%B4%AD%E8%BD%A6%E9%87%8D%E8%A7%86%E5%9B%A0%E7%B4%A0",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "整车购车重视因素 - FavoriteVehicleFactor"
+        },
+        "EXEED:整车购车重视因素（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:整车购车重视因素（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%B4%E8%BD%A6%E8%B4%AD%E8%BD%A6%E9%87%8D%E8%A7%86%E5%9B%A0%E7%B4%A0%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "整车购车重视因素（DMS） - VehicleConsiderationsFocusOn"
+        },
+        "EXEED:整车检查状态": {
+            "printouts": [],
+            "fulltext": "EXEED:整车检查状态",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%B4%E8%BD%A6%E6%A3%80%E6%9F%A5%E7%8A%B6%E6%80%81",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "整车检查状态 - PDIStatus"
+        },
+        "EXEED:整车计划种类": {
+            "printouts": [],
+            "fulltext": "EXEED:整车计划种类",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%B4%E8%BD%A6%E8%AE%A1%E5%88%92%E7%A7%8D%E7%B1%BB",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "整车计划种类 - VehicleIntention"
+        },
+        "EXEED:整车寄售类型": {
+            "printouts": [],
+            "fulltext": "EXEED:整车寄售类型",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%B4%E8%BD%A6%E5%AF%84%E5%94%AE%E7%B1%BB%E5%9E%8B",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "整车寄售类型 - VehicleProjectInformationConsignmentType"
+        },
+        "EXEED:整车寄售类型（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:整车寄售类型（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%B4%E8%BD%A6%E5%AF%84%E5%94%AE%E7%B1%BB%E5%9E%8B%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "整车寄售类型（DMS） - VehicleConsignmentType"
+        },
+        "EXEED:整车客户状态": {
+            "printouts": [],
+            "fulltext": "EXEED:整车客户状态",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%B4%E8%BD%A6%E5%AE%A2%E6%88%B7%E7%8A%B6%E6%80%81",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "整车客户状态 - VehicleCustomerStatus"
+        },
+        "EXEED:整车客户状态（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:整车客户状态（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%B4%E8%BD%A6%E5%AE%A2%E6%88%B7%E7%8A%B6%E6%80%81%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "整车客户状态（DMS） - VehicleCustomerStatus"
+        },
+        "EXEED:整车库区类型": {
+            "printouts": [],
+            "fulltext": "EXEED:整车库区类型",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%B4%E8%BD%A6%E5%BA%93%E5%8C%BA%E7%B1%BB%E5%9E%8B",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "整车库区类型 - VehicleWarehouseAreaType"
+        },
+        "EXEED:整车SAP销售渠道": {
+            "printouts": [],
+            "fulltext": "EXEED:整车SAP销售渠道",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%B4%E8%BD%A6SAP%E9%94%80%E5%94%AE%E6%B8%A0%E9%81%93",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "整车SAP销售渠道 - VehicleProjectInformationSAPSalesChannel"
+        },
+        "EXEED:整车SAP销售渠道（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:整车SAP销售渠道（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%B4%E8%BD%A6SAP%E9%94%80%E5%94%AE%E6%B8%A0%E9%81%93%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "整车SAP销售渠道（DMS） - VehicleSAPSalesChannel"
+        },
+        "EXEED:整车是否特销": {
+            "printouts": [],
+            "fulltext": "EXEED:整车是否特销",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%B4%E8%BD%A6%E6%98%AF%E5%90%A6%E7%89%B9%E9%94%80",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "整车是否特销 - VehicleIsSpecialSale"
+        },
+        "EXEED:整车是否特销（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:整车是否特销（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%B4%E8%BD%A6%E6%98%AF%E5%90%A6%E7%89%B9%E9%94%80%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "整车是否特销（DMS） - VehicleIsSpecialSale"
+        },
+        "EXEED:整车信息渠道": {
+            "printouts": [],
+            "fulltext": "EXEED:整车信息渠道",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%B4%E8%BD%A6%E4%BF%A1%E6%81%AF%E6%B8%A0%E9%81%93",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "整车信息渠道 - VehicleProjectInformationInformationChannel"
+        },
+        "EXEED:整车信息渠道（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:整车信息渠道（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%B4%E8%BD%A6%E4%BF%A1%E6%81%AF%E6%B8%A0%E9%81%93%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "整车信息渠道（DMS） - VehicleInformationChannel"
+        },
+        "EXEED:整车原车型": {
+            "printouts": [],
+            "fulltext": "EXEED:整车原车型",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%B4%E8%BD%A6%E5%8E%9F%E8%BD%A6%E5%9E%8B",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "整车原车型 - VehicleOriginalVehicleModel"
+        },
+        "EXEED:整车原车型（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:整车原车型（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%B4%E8%BD%A6%E5%8E%9F%E8%BD%A6%E5%9E%8B%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "整车原车型（DMS） - VehicleOriginalVehicleModel"
+        },
+        "EXEED:整车运营性质": {
+            "printouts": [],
+            "fulltext": "EXEED:整车运营性质",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%B4%E8%BD%A6%E8%BF%90%E8%90%A5%E6%80%A7%E8%B4%A8",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "整车运营性质 - VehicleOperationsNature"
+        },
+        "EXEED:整车置换理由": {
+            "printouts": [],
+            "fulltext": "EXEED:整车置换理由",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%B4%E8%BD%A6%E7%BD%AE%E6%8D%A2%E7%90%86%E7%94%B1",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "整车置换理由 - VehicleProjectInformationChangeReason"
+        },
+        "EXEED:整车置换理由（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:整车置换理由（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%B4%E8%BD%A6%E7%BD%AE%E6%8D%A2%E7%90%86%E7%94%B1%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "整车置换理由（DMS） - VehicleChangeReason"
+        },
+        "EXEED:证件类型": {
+            "printouts": [],
+            "fulltext": "EXEED:证件类型",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E8%AF%81%E4%BB%B6%E7%B1%BB%E5%9E%8B",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "证件类型 - IdDocumentType"
+        },
+        "EXEED:证件类型（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:证件类型（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E8%AF%81%E4%BB%B6%E7%B1%BB%E5%9E%8B%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "证件类型（DMS） - IdDocumentType"
+        },
+        "EXEED:质量等级": {
+            "printouts": [],
+            "fulltext": "EXEED:质量等级",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E8%B4%A8%E9%87%8F%E7%AD%89%E7%BA%A7",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "质量等级 - MarketQualityQLevel"
+        },
+        "EXEED:质量反馈单状态": {
+            "printouts": [],
+            "fulltext": "EXEED:质量反馈单状态",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E8%B4%A8%E9%87%8F%E5%8F%8D%E9%A6%88%E5%8D%95%E7%8A%B6%E6%80%81",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "质量反馈单状态 - MarketQualityStatus"
+        },
+        "EXEED:责任单位类型": {
+            "printouts": [],
+            "fulltext": "EXEED:责任单位类型",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E8%B4%A3%E4%BB%BB%E5%8D%95%E4%BD%8D%E7%B1%BB%E5%9E%8B",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "责任单位类型 - DutyUnitType"
+        },
+        "EXEED:责任单位状态": {
+            "printouts": [],
+            "fulltext": "EXEED:责任单位状态",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E8%B4%A3%E4%BB%BB%E5%8D%95%E4%BD%8D%E7%8A%B6%E6%80%81",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "责任单位状态 - DutyUnitStatus"
+        },
+        "EXEED:主要关注竞品": {
+            "printouts": [],
+            "fulltext": "EXEED:主要关注竞品",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E4%B8%BB%E8%A6%81%E5%85%B3%E6%B3%A8%E7%AB%9E%E5%93%81",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "主要关注竞品 - CustomerIntentionMainConcernProducts"
+        },
+        "EXEED:职业类型": {
+            "printouts": [],
+            "fulltext": "EXEED:职业类型",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E8%81%8C%E4%B8%9A%E7%B1%BB%E5%9E%8B",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "职业类型 - CustomerOccupationType"
+        },
+        "EXEED:职业类型（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:职业类型（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E8%81%8C%E4%B8%9A%E7%B1%BB%E5%9E%8B%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "职业类型（DMS） - CustomerOccupationType"
+        },
+        "EXEED:重置类型": {
+            "printouts": [],
+            "fulltext": "EXEED:重置类型",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%87%8D%E7%BD%AE%E7%B1%BB%E5%9E%8B",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "重置类型 - CodeTemplateResetType"
+        },
+        "EXEED:政治面貌": {
+            "printouts": [],
+            "fulltext": "EXEED:政治面貌",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%94%BF%E6%B2%BB%E9%9D%A2%E8%B2%8C",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "政治面貌 - PolicitalStatus"
+        },
+        "EXEED:政治面貌（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:政治面貌（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%94%BF%E6%B2%BB%E9%9D%A2%E8%B2%8C%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "政治面貌（DMS） - PolicitalStatus"
+        }
+    },
+    "serializer": "SMW\\Serializers\\QueryResultSerializer",
+    "version": 2,
+    "rows": 314
+}

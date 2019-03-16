@@ -6,6 +6,7 @@
   "bin": "./src/index.js",
   "scripts": {
     "start": "node ./src/index",
+    "spider-enums": "node ./src/spider/enums.js",
     "test": "jest"
   },
   "author": "",
@@ -16,6 +17,8 @@
     "diff": "^4.0.1",
     "jsdom": "^13.2.0",
     "json-to-pretty-yaml": "^1.2.2",
+    "node-fetch": "^2.3.0",
+    "nodemw": "^0.12.2",
     "puppeteer": "^1.11.0",
     "tabletojson": "^1.0.1",
     "yargs": "^13.2.1"
