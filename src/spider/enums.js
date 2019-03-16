@@ -51,10 +51,10 @@ async function getDataFromBowerPage(page, enumOrigin) {
 puppeteer.launch().then(async browser => {
 	const page = await browser.newPage();
 	await login(page);
-	let i = 1;
+	// let i = 1;
 	for (const key in results) {
-		if (i <= 0) break;
-		i--;
+		// if (i <= 0) break;
+		// i--;
 		const data = await getDataFromBowerPage(page, results[key]);
 		data.content = data.content ? data.content.map(item => ({
 			key: item.名称,
