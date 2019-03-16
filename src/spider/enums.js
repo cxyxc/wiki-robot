@@ -67,7 +67,7 @@ puppeteer.launch().then(async browser => {
 				  data: {
 					name: "${data.name}",
 					desc: "${data.desc}",
-					wikiUrl: "${data}",
+					wikiUrl: "${data.wikiUrl}",
 					props: {
 						create: ${stringify(data.content)}
 					}
@@ -85,12 +85,12 @@ puppeteer.launch().then(async browser => {
 				'Content-Type': 'application/json'
 			},
 		});
-		const json = res.json();
+		const json = await res.json();
 		if (json.error) {
 			log.error(json.error);
 			log.error('写入失败：', data.wikiUrl);
 		} else {
-			log.info('写入成功：', json.createEnumType.wikiUrl);
+			log.info('写入成功：', json.data.createEnumType.wikiUrl);
 		}
 	}
 	await browser.close();
