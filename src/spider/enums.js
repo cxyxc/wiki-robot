@@ -6,14 +6,17 @@ const login = require('../util/login');
 const fetch = require('node-fetch');
 
 function stringify(array) {
-	return array.map(item => {
+	if(!array || array.length === 0) return null;
+	return `[
+	${array.map(item => {
 		const lines = [];
 		for (let key in item) {
-			const value = typeof item[key] === 'string' ? `"${item[key]}"` : item[key];
+			const value = typeof item[key] === 'string' ? `"${item[key].replace(/"/g, '\\"')}"` : item[key];
 			lines.push(`${key}: ${value}`);
 		}
 		return `{${lines.join(',')}}`;
-	}).join(',');
+	}).join(',')
+}]`;
 }
 
 async function getDataFromBowerPage(page, enumOrigin) {
@@ -77,7 +80,6 @@ puppeteer.launch().then(async browser => {
 				}
 			  }`
 		};
-
 		const res = await fetch('http://localhost:4466/', {
 			method: 'post',
 			body: JSON.stringify(body),
@@ -85,10 +87,13 @@ puppeteer.launch().then(async browser => {
 				'Content-Type': 'application/json'
 			},
 		});
+
 		const json = await res.json();
-		if (json.error) {
-			log.error(json.error);
+		if (json.errors) {
+			log.error(json.errors.map(item => item.message).join('\n'));
 			log.error('写入失败：', data.wikiUrl);
+			await browser.close();
+			throw new Error('写入失败终止进程');
 		} else {
 			log.info('写入成功：', json.data.createEnumType.wikiUrl);
 		}
