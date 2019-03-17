@@ -26,6 +26,22 @@
             "exists": "1",
             "displaytitle": "变更履历类型（DMS） - ChangeHistoryType"
         },
+        "SALEEN:变更类型": {
+            "printouts": [],
+            "fulltext": "SALEEN:变更类型",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E5%8F%98%E6%9B%B4%E7%B1%BB%E5%9E%8B",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "变更类型 - ChangeKind"
+        },
+        "SALEEN:保险公司": {
+            "printouts": [],
+            "fulltext": "SALEEN:保险公司",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E4%BF%9D%E9%99%A9%E5%85%AC%E5%8F%B8",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "保险公司 - InsuranceCompany"
+        },
         "EXEED:保险公司（DCS）": {
             "printouts": [],
             "fulltext": "EXEED:保险公司（DCS）",
@@ -90,6 +106,14 @@
             "exists": "1",
             "displaytitle": "保养情况 - MarketQualityByCase"
         },
+        "SALEEN:充电桩安装申请单状态": {
+            "printouts": [],
+            "fulltext": "SALEEN:充电桩安装申请单状态",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E5%85%85%E7%94%B5%E6%A1%A9%E5%AE%89%E8%A3%85%E7%94%B3%E8%AF%B7%E5%8D%95%E7%8A%B6%E6%80%81",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "充电桩安装申请单状态 - DispatchOrderStatus"
+        },
         "EXEED:车辆合同类型": {
             "printouts": [],
             "fulltext": "EXEED:车辆合同类型",
@@ -105,6 +129,14 @@
             "namespace": 3102,
             "exists": "1",
             "displaytitle": "车辆合同类型（DMS） - VehicleContractType"
+        },
+        "SALEEN:车辆类型": {
+            "printouts": [],
+            "fulltext": "SALEEN:车辆类型",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E8%BD%A6%E8%BE%86%E7%B1%BB%E5%9E%8B",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "车辆类型 - VehicleType"
         },
         "EXEED:车辆类型": {
             "printouts": [],
@@ -146,6 +178,14 @@
             "exists": "1",
             "displaytitle": "车辆属性（DMS） - VehicleProperty"
         },
+        "SALEEN:车辆实销状态": {
+            "printouts": [],
+            "fulltext": "SALEEN:车辆实销状态",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E8%BD%A6%E8%BE%86%E5%AE%9E%E9%94%80%E7%8A%B6%E6%80%81",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "车辆实销状态 - VehicleSaleStatus"
+        },
         "EXEED:车辆信息状态": {
             "printouts": [],
             "fulltext": "EXEED:车辆信息状态",
@@ -153,6 +193,14 @@
             "namespace": 3102,
             "exists": "1",
             "displaytitle": "车辆信息状态 - VehicleStatus"
+        },
+        "SALEEN:车辆状态": {
+            "printouts": [],
+            "fulltext": "SALEEN:车辆状态",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E8%BD%A6%E8%BE%86%E7%8A%B6%E6%80%81",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "车辆状态 - VehicleStatus"
         },
         "EXEED:车辆状态": {
             "printouts": [],
@@ -178,6 +226,14 @@
             "exists": "1",
             "displaytitle": "产品分类类型 - ProductCategoryType"
         },
+        "SALEEN:产品分类类型": {
+            "printouts": [],
+            "fulltext": "SALEEN:产品分类类型",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E4%BA%A7%E5%93%81%E5%88%86%E7%B1%BB%E7%B1%BB%E5%9E%8B",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "产品分类类型 - ProductCategoryType"
+        },
         "EXEED:产品分类类型（DMS）": {
             "printouts": [],
             "fulltext": "EXEED:产品分类类型（DMS）",
@@ -191,6 +247,14 @@
             "fulltext": "EXEED:产品生命周期",
             "fullurl": "https://wiki.sdtdev.net/EXEED:%E4%BA%A7%E5%93%81%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F",
             "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "产品生命周期 - ProductLifeCycle"
+        },
+        "SALEEN:产品生命周期": {
+            "printouts": [],
+            "fulltext": "SALEEN:产品生命周期",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E4%BA%A7%E5%93%81%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F",
+            "namespace": 3108,
             "exists": "1",
             "displaytitle": "产品生命周期 - ProductLifeCycle"
         },
@@ -234,6 +298,46 @@
             "exists": "1",
             "displaytitle": "多级审核类型 - MultiLevelApproveType"
         },
+        "SALEEN:大客户合同跟踪状态": {
+            "printouts": [],
+            "fulltext": "SALEEN:大客户合同跟踪状态",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E5%A4%A7%E5%AE%A2%E6%88%B7%E5%90%88%E5%90%8C%E8%B7%9F%E8%B8%AA%E7%8A%B6%E6%80%81",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "大客户合同跟踪状态 - KeyAccountContractTracerStatus"
+        },
+        "SALEEN:大客户合同类型": {
+            "printouts": [],
+            "fulltext": "SALEEN:大客户合同类型",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E5%A4%A7%E5%AE%A2%E6%88%B7%E5%90%88%E5%90%8C%E7%B1%BB%E5%9E%8B",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "大客户合同类型 - KeyAccountContractType"
+        },
+        "SALEEN:大客户合同状态": {
+            "printouts": [],
+            "fulltext": "SALEEN:大客户合同状态",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E5%A4%A7%E5%AE%A2%E6%88%B7%E5%90%88%E5%90%8C%E7%8A%B6%E6%80%81",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "大客户合同状态 - KeyAccountContractDetail"
+        },
+        "SALEEN:大客户特性": {
+            "printouts": [],
+            "fulltext": "SALEEN:大客户特性",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E5%A4%A7%E5%AE%A2%E6%88%B7%E7%89%B9%E6%80%A7",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "大客户特性 - KeyAccountProperty"
+        },
+        "SALEEN:大客户信息特性": {
+            "printouts": [],
+            "fulltext": "SALEEN:大客户信息特性",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E5%A4%A7%E5%AE%A2%E6%88%B7%E4%BF%A1%E6%81%AF%E7%89%B9%E6%80%A7",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "大客户信息特性 - KeyAccountProperty"
+        },
         "EXEED:店内承担维修费用业务类型": {
             "printouts": [],
             "fulltext": "EXEED:店内承担维修费用业务类型",
@@ -242,6 +346,22 @@
             "exists": "1",
             "displaytitle": "店内承担维修费用业务类型 - DealerAssumeType"
         },
+        "SALEEN:电商订单车辆来源": {
+            "printouts": [],
+            "fulltext": "SALEEN:电商订单车辆来源",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E7%94%B5%E5%95%86%E8%AE%A2%E5%8D%95%E8%BD%A6%E8%BE%86%E6%9D%A5%E6%BA%90",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "电商订单车辆来源 - ECommerceSaleOrderDataSource"
+        },
+        "SALEEN:电商平台": {
+            "printouts": [],
+            "fulltext": "SALEEN:电商平台",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E7%94%B5%E5%95%86%E5%B9%B3%E5%8F%B0",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "电商平台 - DealerVehicleStockPlatform"
+        },
         "EXEED:电商平台": {
             "printouts": [],
             "fulltext": "EXEED:电商平台",
@@ -249,6 +369,54 @@
             "namespace": 3102,
             "exists": "1",
             "displaytitle": "电商平台 - DealerVehicleStockPlatform"
+        },
+        "SALEEN:电商销售订单调整状态": {
+            "printouts": [],
+            "fulltext": "SALEEN:电商销售订单调整状态",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E7%94%B5%E5%95%86%E9%94%80%E5%94%AE%E8%AE%A2%E5%8D%95%E8%B0%83%E6%95%B4%E7%8A%B6%E6%80%81",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "电商销售订单调整状态 - ECommerceSaleOrderUpdateData"
+        },
+        "SALEEN:电商销售订单数据来源": {
+            "printouts": [],
+            "fulltext": "SALEEN:电商销售订单数据来源",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E7%94%B5%E5%95%86%E9%94%80%E5%94%AE%E8%AE%A2%E5%8D%95%E6%95%B0%E6%8D%AE%E6%9D%A5%E6%BA%90",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "电商销售订单数据来源 - ECommerceSaleOrderDataSource"
+        },
+        "SALEEN:电商销售订单支付状态": {
+            "printouts": [],
+            "fulltext": "SALEEN:电商销售订单支付状态",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E7%94%B5%E5%95%86%E9%94%80%E5%94%AE%E8%AE%A2%E5%8D%95%E6%94%AF%E4%BB%98%E7%8A%B6%E6%80%81",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "电商销售订单支付状态 - ECommerceSaleOrderPayStatus"
+        },
+        "SALEEN:电商销售订单状态": {
+            "printouts": [],
+            "fulltext": "SALEEN:电商销售订单状态",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E7%94%B5%E5%95%86%E9%94%80%E5%94%AE%E8%AE%A2%E5%8D%95%E7%8A%B6%E6%80%81",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "电商销售订单状态 - ECommerceSaleOrderStatus"
+        },
+        "SALEEN:电商销售订单征信状态": {
+            "printouts": [],
+            "fulltext": "SALEEN:电商销售订单征信状态",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E7%94%B5%E5%95%86%E9%94%80%E5%94%AE%E8%AE%A2%E5%8D%95%E5%BE%81%E4%BF%A1%E7%8A%B6%E6%80%81",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "电商销售订单征信状态 - ECommerceSaleOrderCreditStatus"
+        },
+        "SALEEN:单位客户类型": {
+            "printouts": [],
+            "fulltext": "SALEEN:单位客户类型",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E5%8D%95%E4%BD%8D%E5%AE%A2%E6%88%B7%E7%B1%BB%E5%9E%8B",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "单位客户类型 - CustomerExtendedCorporationType"
         },
         "EXEED:单位客户类型": {
             "printouts": [],
@@ -266,6 +434,22 @@
             "exists": "1",
             "displaytitle": "单位客户类型（DMS） - CompanyType"
         },
+        "SALEEN:电源接入点": {
+            "printouts": [],
+            "fulltext": "SALEEN:电源接入点",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E7%94%B5%E6%BA%90%E6%8E%A5%E5%85%A5%E7%82%B9",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "电源接入点 - DispatchOrderPowerAccessPoint"
+        },
+        "SALEEN:二网类型": {
+            "printouts": [],
+            "fulltext": "SALEEN:二网类型",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E4%BA%8C%E7%BD%91%E7%B1%BB%E5%9E%8B",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "二网类型 - SubNetworkType"
+        },
         "EXEED:二网类型": {
             "printouts": [],
             "fulltext": "EXEED:二网类型",
@@ -281,6 +465,14 @@
             "namespace": 3102,
             "exists": "1",
             "displaytitle": "分公司服务策略参数类型 - BranchServiceCategoryType"
+        },
+        "SALEEN:付款方式": {
+            "printouts": [],
+            "fulltext": "SALEEN:付款方式",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E4%BB%98%E6%AC%BE%E6%96%B9%E5%BC%8F",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "付款方式 - BaseDataStatus"
         },
         "EXEED:辅料来源": {
             "printouts": [],
@@ -418,6 +610,14 @@
             "exists": "1",
             "displaytitle": "购车年龄 - VehicleCustomerOwningCarAge"
         },
+        "SALEEN:购车年龄": {
+            "printouts": [],
+            "fulltext": "SALEEN:购车年龄",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E8%B4%AD%E8%BD%A6%E5%B9%B4%E9%BE%84",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "购车年龄 - CustomerExtendedOwningCarAge"
+        },
         "EXEED:购车年龄（DMS）": {
             "printouts": [],
             "fulltext": "EXEED:购车年龄（DMS）",
@@ -425,6 +625,14 @@
             "namespace": 3102,
             "exists": "1",
             "displaytitle": "购车年龄（DMS） - VehicleCustomerOwningCarAge"
+        },
+        "SALEEN:购车预算": {
+            "printouts": [],
+            "fulltext": "SALEEN:购车预算",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E8%B4%AD%E8%BD%A6%E9%A2%84%E7%AE%97",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "购车预算 - CustomerIntentionPurchaseBudget"
         },
         "EXEED:购车预算": {
             "printouts": [],
@@ -498,6 +706,14 @@
             "exists": "1",
             "displaytitle": "婚姻状况 - MaritalStatus"
         },
+        "SALEEN:婚姻状况": {
+            "printouts": [],
+            "fulltext": "SALEEN:婚姻状况",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E5%A9%9A%E5%A7%BB%E7%8A%B6%E5%86%B5",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "婚姻状况 - CustomerIfMarried"
+        },
         "EXEED:婚姻状况（DMS）": {
             "printouts": [],
             "fulltext": "EXEED:婚姻状况（DMS）",
@@ -514,6 +730,14 @@
             "exists": "1",
             "displaytitle": "基础数据状态 - BaseDataStatus"
         },
+        "SALEEN:基础数据状态": {
+            "printouts": [],
+            "fulltext": "SALEEN:基础数据状态",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE%E7%8A%B6%E6%80%81",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "基础数据状态 - BaseDataStatus"
+        },
         "EXEED:基础数据状态（DMS）": {
             "printouts": [],
             "fulltext": "EXEED:基础数据状态（DMS）",
@@ -522,6 +746,22 @@
             "exists": "1",
             "displaytitle": "基础数据状态（DMS） - BaseDataStatus"
         },
+        "SALEEN:计划类型": {
+            "printouts": [],
+            "fulltext": "SALEEN:计划类型",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E8%AE%A1%E5%88%92%E7%B1%BB%E5%9E%8B",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "计划类型 - PlanType"
+        },
+        "SALEEN:计划种类": {
+            "printouts": [],
+            "fulltext": "SALEEN:计划种类",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E8%AE%A1%E5%88%92%E7%A7%8D%E7%B1%BB",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "计划种类 - PlanKind"
+        },
         "EXEED:旧件处理政策": {
             "printouts": [],
             "fulltext": "EXEED:旧件处理政策",
@@ -529,22 +769,6 @@
             "namespace": 3102,
             "exists": "1",
             "displaytitle": "旧件处理政策 - UsedPartDealCategory"
-        },
-        "计量单位类型": {
-            "printouts": [],
-            "fulltext": "计量单位类型",
-            "fullurl": "https://wiki.sdtdev.net/%E8%AE%A1%E9%87%8F%E5%8D%95%E4%BD%8D%E7%B1%BB%E5%9E%8B",
-            "namespace": 0,
-            "exists": "1",
-            "displaytitle": "计量单位类型 - MeasureUnitType"
-        },
-        "计量单位状态": {
-            "printouts": [],
-            "fulltext": "计量单位状态",
-            "fullurl": "https://wiki.sdtdev.net/%E8%AE%A1%E9%87%8F%E5%8D%95%E4%BD%8D%E7%8A%B6%E6%80%81",
-            "namespace": 0,
-            "exists": "1",
-            "displaytitle": "计量单位状态 - PartsMeasureUnitStatus"
         },
         "EXEED:技术服务方式": {
             "printouts": [],
@@ -561,6 +785,14 @@
             "namespace": 3102,
             "exists": "1",
             "displaytitle": "结算属性（DCS） - RepairTemplateAccountingProperty"
+        },
+        "SALEEN:家庭年收入": {
+            "printouts": [],
+            "fulltext": "SALEEN:家庭年收入",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E5%AE%B6%E5%BA%AD%E5%B9%B4%E6%94%B6%E5%85%A5",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "家庭年收入 - CustomerExtendedFamilyEarning"
         },
         "EXEED:家庭年收入": {
             "printouts": [],
@@ -585,6 +817,14 @@
             "namespace": 3102,
             "exists": "1",
             "displaytitle": "家庭人数 - FamilySize"
+        },
+        "SALEEN:家庭人数": {
+            "printouts": [],
+            "fulltext": "SALEEN:家庭人数",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E5%AE%B6%E5%BA%AD%E4%BA%BA%E6%95%B0",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "家庭人数 - CustomerExtendedFamilySize"
         },
         "EXEED:家庭人数（DMS）": {
             "printouts": [],
@@ -674,14 +914,6 @@
             "exists": "1",
             "displaytitle": "经销商配件出库计划单状态 - PartOutPlanStatus"
         },
-        "经销商配件出库计划状态": {
-            "printouts": [],
-            "fulltext": "经销商配件出库计划状态",
-            "fullurl": "https://wiki.sdtdev.net/%E7%BB%8F%E9%94%80%E5%95%86%E9%85%8D%E4%BB%B6%E5%87%BA%E5%BA%93%E8%AE%A1%E5%88%92%E7%8A%B6%E6%80%81",
-            "namespace": 0,
-            "exists": "1",
-            "displaytitle": "经销商配件出库计划状态 - PartsPlannedDeliveryOrderStatus"
-        },
         "EXEED:经销商配件出库类型": {
             "printouts": [],
             "fulltext": "EXEED:经销商配件出库类型",
@@ -689,14 +921,6 @@
             "namespace": 3102,
             "exists": "1",
             "displaytitle": "经销商配件出库类型 - PartOutPlanType"
-        },
-        "经销商配件出库类型": {
-            "printouts": [],
-            "fulltext": "经销商配件出库类型",
-            "fullurl": "https://wiki.sdtdev.net/%E7%BB%8F%E9%94%80%E5%95%86%E9%85%8D%E4%BB%B6%E5%87%BA%E5%BA%93%E7%B1%BB%E5%9E%8B",
-            "namespace": 0,
-            "exists": "1",
-            "displaytitle": "经销商配件出库类型 - PartsDeliveryType"
         },
         "EXEED:经销商配件仓库状态": {
             "printouts": [],
@@ -746,22 +970,6 @@
             "exists": "1",
             "displaytitle": "经销商配件入库计划单状态 - PartInPlanStatus"
         },
-        "经销商配件入库计划状态": {
-            "printouts": [],
-            "fulltext": "经销商配件入库计划状态",
-            "fullurl": "https://wiki.sdtdev.net/%E7%BB%8F%E9%94%80%E5%95%86%E9%85%8D%E4%BB%B6%E5%85%A5%E5%BA%93%E8%AE%A1%E5%88%92%E7%8A%B6%E6%80%81",
-            "namespace": 0,
-            "exists": "1",
-            "displaytitle": "经销商配件入库计划状态 - PartsPlannedWarehouseOrderStatus"
-        },
-        "经销商配件入库类型": {
-            "printouts": [],
-            "fulltext": "经销商配件入库类型",
-            "fullurl": "https://wiki.sdtdev.net/%E7%BB%8F%E9%94%80%E5%95%86%E9%85%8D%E4%BB%B6%E5%85%A5%E5%BA%93%E7%B1%BB%E5%9E%8B",
-            "namespace": 0,
-            "exists": "1",
-            "displaytitle": "经销商配件入库类型 - PartsWarehouseType"
-        },
         "EXEED:经销商配件入库类型": {
             "printouts": [],
             "fulltext": "EXEED:经销商配件入库类型",
@@ -770,6 +978,22 @@
             "exists": "1",
             "displaytitle": "经销商配件入库类型 - PartInPlanType"
         },
+        "SALEEN:经销商月度计划状态": {
+            "printouts": [],
+            "fulltext": "SALEEN:经销商月度计划状态",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E7%BB%8F%E9%94%80%E5%95%86%E6%9C%88%E5%BA%A6%E8%AE%A1%E5%88%92%E7%8A%B6%E6%80%81",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "经销商月度计划状态 - DealerMonthlyPlanStatus"
+        },
+        "SALEEN:经销商整车车辆状态": {
+            "printouts": [],
+            "fulltext": "SALEEN:经销商整车车辆状态",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E7%BB%8F%E9%94%80%E5%95%86%E6%95%B4%E8%BD%A6%E8%BD%A6%E8%BE%86%E7%8A%B6%E6%80%81",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "经销商整车车辆状态 - DealerVehicleStockVehicleStatus"
+        },
         "EXEED:经销商整车库存车辆状态": {
             "printouts": [],
             "fulltext": "EXEED:经销商整车库存车辆状态",
@@ -777,6 +1001,30 @@
             "namespace": 3102,
             "exists": "1",
             "displaytitle": "经销商整车库存车辆状态 - DealerVehicleStockVehicleStatus"
+        },
+        "SALEEN:经销商整车库存锁定状态": {
+            "printouts": [],
+            "fulltext": "SALEEN:经销商整车库存锁定状态",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E7%BB%8F%E9%94%80%E5%95%86%E6%95%B4%E8%BD%A6%E5%BA%93%E5%AD%98%E9%94%81%E5%AE%9A%E7%8A%B6%E6%80%81",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "经销商整车库存锁定状态 - DealerVehicleStockStatus"
+        },
+        "SALEEN:经销商整车库存质损状态": {
+            "printouts": [],
+            "fulltext": "SALEEN:经销商整车库存质损状态",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E7%BB%8F%E9%94%80%E5%95%86%E6%95%B4%E8%BD%A6%E5%BA%93%E5%AD%98%E8%B4%A8%E6%8D%9F%E7%8A%B6%E6%80%81",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "经销商整车库存质损状态 - DealerVehicleStockMassLossStatus"
+        },
+        "SALEEN:经销商整车库存状态": {
+            "printouts": [],
+            "fulltext": "SALEEN:经销商整车库存状态",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E7%BB%8F%E9%94%80%E5%95%86%E6%95%B4%E8%BD%A6%E5%BA%93%E5%AD%98%E7%8A%B6%E6%80%81",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "经销商整车库存状态 - DealerVehicleStockInventoryStatus"
         },
         "EXEED:经销商整车库存状态": {
             "printouts": [],
@@ -794,11 +1042,27 @@
             "exists": "1",
             "displaytitle": "经销商状态 - DealerStatus"
         },
+        "SALEEN:经销商状态": {
+            "printouts": [],
+            "fulltext": "SALEEN:经销商状态",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E7%BB%8F%E9%94%80%E5%95%86%E7%8A%B6%E6%80%81",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "经销商状态 - DealerStatus"
+        },
         "EXEED:教育程度": {
             "printouts": [],
             "fulltext": "EXEED:教育程度",
             "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%99%E8%82%B2%E7%A8%8B%E5%BA%A6",
             "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "教育程度 - Education"
+        },
+        "SALEEN:教育程度": {
+            "printouts": [],
+            "fulltext": "SALEEN:教育程度",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E6%95%99%E8%82%B2%E7%A8%8B%E5%BA%A6",
+            "namespace": 3108,
             "exists": "1",
             "displaytitle": "教育程度 - Education"
         },
@@ -866,6 +1130,14 @@
             "exists": "1",
             "displaytitle": "客户档案状态 - CustomerStatus"
         },
+        "SALEEN:客户档案状态": {
+            "printouts": [],
+            "fulltext": "SALEEN:客户档案状态",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E5%AE%A2%E6%88%B7%E6%A1%A3%E6%A1%88%E7%8A%B6%E6%80%81",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "客户档案状态 - CustomerStatus"
+        },
         "EXEED:客户档案状态（DMS）": {
             "printouts": [],
             "fulltext": "EXEED:客户档案状态（DMS）",
@@ -873,6 +1145,14 @@
             "namespace": 3102,
             "exists": "1",
             "displaytitle": "客户档案状态（DMS） - CustomerStatus"
+        },
+        "SALEEN:客户级别": {
+            "printouts": [],
+            "fulltext": "SALEEN:客户级别",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E5%AE%A2%E6%88%B7%E7%BA%A7%E5%88%AB",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "客户级别 - CustomerLevel"
         },
         "EXEED:客户级别": {
             "printouts": [],
@@ -898,6 +1178,14 @@
             "exists": "1",
             "displaytitle": "客户来源 - DataSource"
         },
+        "SALEEN:客户来源": {
+            "printouts": [],
+            "fulltext": "SALEEN:客户来源",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E5%AE%A2%E6%88%B7%E6%9D%A5%E6%BA%90",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "客户来源 - CustomerSource"
+        },
         "EXEED:客户来源（DMS）": {
             "printouts": [],
             "fulltext": "EXEED:客户来源（DMS）",
@@ -911,6 +1199,14 @@
             "fulltext": "EXEED:客户属性",
             "fullurl": "https://wiki.sdtdev.net/EXEED:%E5%AE%A2%E6%88%B7%E5%B1%9E%E6%80%A7",
             "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "客户属性 - CustomerType"
+        },
+        "SALEEN:客户属性": {
+            "printouts": [],
+            "fulltext": "SALEEN:客户属性",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E5%AE%A2%E6%88%B7%E5%B1%9E%E6%80%A7",
+            "namespace": 3108,
             "exists": "1",
             "displaytitle": "客户属性 - CustomerType"
         },
@@ -930,6 +1226,14 @@
             "exists": "1",
             "displaytitle": "客户与车辆关系业务类型 - VehicleSaleStatus"
         },
+        "SALEEN:客户与车辆关系业务类型": {
+            "printouts": [],
+            "fulltext": "SALEEN:客户与车辆关系业务类型",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E5%AE%A2%E6%88%B7%E4%B8%8E%E8%BD%A6%E8%BE%86%E5%85%B3%E7%B3%BB%E4%B8%9A%E5%8A%A1%E7%B1%BB%E5%9E%8B",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "客户与车辆关系业务类型 - CustomerVehicleType"
+        },
         "EXEED:客户与车辆关系业务类型（DMS）": {
             "printouts": [],
             "fulltext": "EXEED:客户与车辆关系业务类型（DMS）",
@@ -946,13 +1250,21 @@
             "exists": "1",
             "displaytitle": "客户意向状态 - CustomerIntentionStatus"
         },
-        "库区类型": {
+        "SALEEN:客户意向状态": {
             "printouts": [],
-            "fulltext": "库区类型",
-            "fullurl": "https://wiki.sdtdev.net/%E5%BA%93%E5%8C%BA%E7%B1%BB%E5%9E%8B",
-            "namespace": 0,
+            "fulltext": "SALEEN:客户意向状态",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E5%AE%A2%E6%88%B7%E6%84%8F%E5%90%91%E7%8A%B6%E6%80%81",
+            "namespace": 3108,
             "exists": "1",
-            "displaytitle": "库区类型 - PartsWarehouseAreaType"
+            "displaytitle": "客户意向状态 - CustomerIntentionStatus"
+        },
+        "SALEEN:扩展信息模板类别": {
+            "printouts": [],
+            "fulltext": "SALEEN:扩展信息模板类别",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E6%89%A9%E5%B1%95%E4%BF%A1%E6%81%AF%E6%A8%A1%E6%9D%BF%E7%B1%BB%E5%88%AB",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "扩展信息模板类别 - ExtendedInfoTemplateCategory"
         },
         "EXEED:扩展信息模板类别": {
             "printouts": [],
@@ -970,6 +1282,14 @@
             "exists": "1",
             "displaytitle": "扩展信息模板类别（DMS） - ExtendedInfoTemplateCategory"
         },
+        "SALEEN:来访渠道": {
+            "printouts": [],
+            "fulltext": "SALEEN:来访渠道",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E6%9D%A5%E8%AE%BF%E6%B8%A0%E9%81%93",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "来访渠道 - CustomerIntentionVisitType"
+        },
         "EXEED:来访渠道": {
             "printouts": [],
             "fulltext": "EXEED:来访渠道",
@@ -985,6 +1305,14 @@
             "namespace": 3102,
             "exists": "1",
             "displaytitle": "联系人类型 - VehicleLinkManType"
+        },
+        "SALEEN:联系人类型": {
+            "printouts": [],
+            "fulltext": "SALEEN:联系人类型",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E8%81%94%E7%B3%BB%E4%BA%BA%E7%B1%BB%E5%9E%8B",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "联系人类型 - VehicleContactType"
         },
         "EXEED:联系人类型（DMS）": {
             "printouts": [],
@@ -1007,6 +1335,14 @@
             "fulltext": "EXEED:PDI检查状态",
             "fullurl": "https://wiki.sdtdev.net/EXEED:PDI%E6%A3%80%E6%9F%A5%E7%8A%B6%E6%80%81",
             "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "PDI检查状态 - DealerVehicleStockPDIStatus"
+        },
+        "SALEEN:PDI检查状态": {
+            "printouts": [],
+            "fulltext": "SALEEN:PDI检查状态",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:PDI%E6%A3%80%E6%9F%A5%E7%8A%B6%E6%80%81",
+            "namespace": 3108,
             "exists": "1",
             "displaytitle": "PDI检查状态 - DealerVehicleStockPDIStatus"
         },
@@ -1058,22 +1394,6 @@
             "exists": "1",
             "displaytitle": "配件仓库存储策略 - PartStorageStrategy"
         },
-        "配件仓库存储策略": {
-            "printouts": [],
-            "fulltext": "配件仓库存储策略",
-            "fullurl": "https://wiki.sdtdev.net/%E9%85%8D%E4%BB%B6%E4%BB%93%E5%BA%93%E5%AD%98%E5%82%A8%E7%AD%96%E7%95%A5",
-            "namespace": 0,
-            "exists": "1",
-            "displaytitle": "配件仓库存储策略 - PartsStorageStrategy"
-        },
-        "配件仓库类型": {
-            "printouts": [],
-            "fulltext": "配件仓库类型",
-            "fullurl": "https://wiki.sdtdev.net/%E9%85%8D%E4%BB%B6%E4%BB%93%E5%BA%93%E7%B1%BB%E5%9E%8B",
-            "namespace": 0,
-            "exists": "1",
-            "displaytitle": "配件仓库类型 - PartsWarehouseType"
-        },
         "EXEED:配件仓库类型": {
             "printouts": [],
             "fulltext": "EXEED:配件仓库类型",
@@ -1090,14 +1410,6 @@
             "exists": "1",
             "displaytitle": "配件仓库与经销商关系状态 - WarehouseDealerLinkStatus"
         },
-        "配件仓库状态": {
-            "printouts": [],
-            "fulltext": "配件仓库状态",
-            "fullurl": "https://wiki.sdtdev.net/%E9%85%8D%E4%BB%B6%E4%BB%93%E5%BA%93%E7%8A%B6%E6%80%81",
-            "namespace": 0,
-            "exists": "1",
-            "displaytitle": "配件仓库状态 - PartsWarehouseStatus"
-        },
         "EXEED:配件仓库状态": {
             "printouts": [],
             "fulltext": "EXEED:配件仓库状态",
@@ -1113,14 +1425,6 @@
             "namespace": 3102,
             "exists": "1",
             "displaytitle": "配件调拨单状态 - PartCostAdjustmentBillReason"
-        },
-        "配件调拨单状态": {
-            "printouts": [],
-            "fulltext": "配件调拨单状态",
-            "fullurl": "https://wiki.sdtdev.net/%E9%85%8D%E4%BB%B6%E8%B0%83%E6%8B%A8%E5%8D%95%E7%8A%B6%E6%80%81",
-            "namespace": 0,
-            "exists": "1",
-            "displaytitle": "配件调拨单状态 - PartsRelocateOrderStatus"
         },
         "EXEED:配件调拨类型": {
             "printouts": [],
@@ -1153,54 +1457,6 @@
             "namespace": 3102,
             "exists": "1",
             "displaytitle": "配件计量单位 - SparePartUnit"
-        },
-        "配件零售订单付款方式": {
-            "printouts": [],
-            "fulltext": "配件零售订单付款方式",
-            "fullurl": "https://wiki.sdtdev.net/%E9%85%8D%E4%BB%B6%E9%9B%B6%E5%94%AE%E8%AE%A2%E5%8D%95%E4%BB%98%E6%AC%BE%E6%96%B9%E5%BC%8F",
-            "namespace": 0,
-            "exists": "1",
-            "displaytitle": "配件零售订单付款方式 - PartsOrderPaymentMethod"
-        },
-        "配件零售订单结算状态": {
-            "printouts": [],
-            "fulltext": "配件零售订单结算状态",
-            "fullurl": "https://wiki.sdtdev.net/%E9%85%8D%E4%BB%B6%E9%9B%B6%E5%94%AE%E8%AE%A2%E5%8D%95%E7%BB%93%E7%AE%97%E7%8A%B6%E6%80%81",
-            "namespace": 0,
-            "exists": "1",
-            "displaytitle": "配件零售订单结算状态 - PartsOrderSettlementStatus"
-        },
-        "配件零售订单状态": {
-            "printouts": [],
-            "fulltext": "配件零售订单状态",
-            "fullurl": "https://wiki.sdtdev.net/%E9%85%8D%E4%BB%B6%E9%9B%B6%E5%94%AE%E8%AE%A2%E5%8D%95%E7%8A%B6%E6%80%81",
-            "namespace": 0,
-            "exists": "1",
-            "displaytitle": "配件零售订单状态 - PartsOrderStatus"
-        },
-        "配件零售客户状态": {
-            "printouts": [],
-            "fulltext": "配件零售客户状态",
-            "fullurl": "https://wiki.sdtdev.net/%E9%85%8D%E4%BB%B6%E9%9B%B6%E5%94%AE%E5%AE%A2%E6%88%B7%E7%8A%B6%E6%80%81",
-            "namespace": 0,
-            "exists": "1",
-            "displaytitle": "配件零售客户状态 - PartsCustomerStatus"
-        },
-        "配件零售退货单结算状态": {
-            "printouts": [],
-            "fulltext": "配件零售退货单结算状态",
-            "fullurl": "https://wiki.sdtdev.net/%E9%85%8D%E4%BB%B6%E9%9B%B6%E5%94%AE%E9%80%80%E8%B4%A7%E5%8D%95%E7%BB%93%E7%AE%97%E7%8A%B6%E6%80%81",
-            "namespace": 0,
-            "exists": "1",
-            "displaytitle": "配件零售退货单结算状态 - PartsReturnOrderSettlementStatus"
-        },
-        "配件零售退货单状态": {
-            "printouts": [],
-            "fulltext": "配件零售退货单状态",
-            "fullurl": "https://wiki.sdtdev.net/%E9%85%8D%E4%BB%B6%E9%9B%B6%E5%94%AE%E9%80%80%E8%B4%A7%E5%8D%95%E7%8A%B6%E6%80%81",
-            "namespace": 0,
-            "exists": "1",
-            "displaytitle": "配件零售退货单状态 - PartsReturnOrderStatus"
         },
         "EXEED:配件内部领用类型": {
             "printouts": [],
@@ -1242,22 +1498,6 @@
             "exists": "1",
             "displaytitle": "配件替代件状态（DMS） - PartReplacementStatus"
         },
-        "配件替互换件状态": {
-            "printouts": [],
-            "fulltext": "配件替互换件状态",
-            "fullurl": "https://wiki.sdtdev.net/%E9%85%8D%E4%BB%B6%E6%9B%BF%E4%BA%92%E6%8D%A2%E4%BB%B6%E7%8A%B6%E6%80%81",
-            "namespace": 0,
-            "exists": "1",
-            "displaytitle": "配件替互换件状态 - PartReplacementStatus"
-        },
-        "配件替互换类型": {
-            "printouts": [],
-            "fulltext": "配件替互换类型",
-            "fullurl": "https://wiki.sdtdev.net/%E9%85%8D%E4%BB%B6%E6%9B%BF%E4%BA%92%E6%8D%A2%E7%B1%BB%E5%9E%8B",
-            "namespace": 0,
-            "exists": "1",
-            "displaytitle": "配件替互换类型 - PartsReplacementType"
-        },
         "EXEED:配件替互换类型": {
             "printouts": [],
             "fulltext": "EXEED:配件替互换类型",
@@ -1282,27 +1522,11 @@
             "exists": "1",
             "displaytitle": "配件销售订单状态 - SaleOrderStatus"
         },
-        "配件销售价格状态": {
-            "printouts": [],
-            "fulltext": "配件销售价格状态",
-            "fullurl": "https://wiki.sdtdev.net/%E9%85%8D%E4%BB%B6%E9%94%80%E5%94%AE%E4%BB%B7%E6%A0%BC%E7%8A%B6%E6%80%81",
-            "namespace": 0,
-            "exists": "1",
-            "displaytitle": "配件销售价格状态 - PartsRetailPricingStatus"
-        },
         "EXEED:配件信息状态": {
             "printouts": [],
             "fulltext": "EXEED:配件信息状态",
             "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E4%BF%A1%E6%81%AF%E7%8A%B6%E6%80%81",
             "namespace": 3102,
-            "exists": "1",
-            "displaytitle": "配件信息状态 - SparePartStatus"
-        },
-        "配件信息状态": {
-            "printouts": [],
-            "fulltext": "配件信息状态",
-            "fullurl": "https://wiki.sdtdev.net/%E9%85%8D%E4%BB%B6%E4%BF%A1%E6%81%AF%E7%8A%B6%E6%80%81",
-            "namespace": 0,
             "exists": "1",
             "displaytitle": "配件信息状态 - SparePartStatus"
         },
@@ -1330,13 +1554,13 @@
             "exists": "1",
             "displaytitle": "配件移库单状态 - PartShiftOrderStatus"
         },
-        "配件移库单状态": {
+        "SALEEN:潜客转换来源": {
             "printouts": [],
-            "fulltext": "配件移库单状态",
-            "fullurl": "https://wiki.sdtdev.net/%E9%85%8D%E4%BB%B6%E7%A7%BB%E5%BA%93%E5%8D%95%E7%8A%B6%E6%80%81",
-            "namespace": 0,
+            "fulltext": "SALEEN:潜客转换来源",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E6%BD%9C%E5%AE%A2%E8%BD%AC%E6%8D%A2%E6%9D%A5%E6%BA%90",
+            "namespace": 3108,
             "exists": "1",
-            "displaytitle": "配件移库单状态 - PartsReslotOrderStatus"
+            "displaytitle": "潜客转换来源 - CustomerIntentionConversionSource"
         },
         "EXEED:潜客转换来源": {
             "printouts": [],
@@ -1346,19 +1570,27 @@
             "exists": "1",
             "displaytitle": "潜客转换来源 - CustomerIntentionConversionSource"
         },
-        "区域类型": {
+        "SALEEN:企业类型": {
             "printouts": [],
-            "fulltext": "区域类型",
-            "fullurl": "https://wiki.sdtdev.net/%E5%8C%BA%E5%9F%9F%E7%B1%BB%E5%9E%8B",
-            "namespace": 0,
+            "fulltext": "SALEEN:企业类型",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E4%BC%81%E4%B8%9A%E7%B1%BB%E5%9E%8B",
+            "namespace": 3108,
             "exists": "1",
-            "displaytitle": "区域类型 - RegionType"
+            "displaytitle": "企业类型 - CompanyType"
         },
         "EXEED:企业性质": {
             "printouts": [],
             "fulltext": "EXEED:企业性质",
             "fullurl": "https://wiki.sdtdev.net/EXEED:%E4%BC%81%E4%B8%9A%E6%80%A7%E8%B4%A8",
             "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "企业性质 - TaxPayType"
+        },
+        "SALEEN:企业性质": {
+            "printouts": [],
+            "fulltext": "SALEEN:企业性质",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E4%BC%81%E4%B8%9A%E6%80%A7%E8%B4%A8",
+            "namespace": 3108,
             "exists": "1",
             "displaytitle": "企业性质 - TaxPayType"
         },
@@ -1394,6 +1626,14 @@
             "exists": "1",
             "displaytitle": "人员信息状态 - PersonelStatus"
         },
+        "SALEEN:人员信息状态": {
+            "printouts": [],
+            "fulltext": "SALEEN:人员信息状态",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E4%BA%BA%E5%91%98%E4%BF%A1%E6%81%AF%E7%8A%B6%E6%80%81",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "人员信息状态 - PersonelStatus"
+        },
         "EXEED:人员信息状态（DMS）": {
             "printouts": [],
             "fulltext": "EXEED:人员信息状态（DMS）",
@@ -1409,6 +1649,14 @@
             "namespace": 3102,
             "exists": "1",
             "displaytitle": "申报位置 - MarketQualitySbPosition"
+        },
+        "SALEEN:市场部业务类型": {
+            "printouts": [],
+            "fulltext": "SALEEN:市场部业务类型",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E5%B8%82%E5%9C%BA%E9%83%A8%E4%B8%9A%E5%8A%A1%E7%B1%BB%E5%9E%8B",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "市场部业务类型 - BusinessType"
         },
         "EXEED:索赔及申请审核意见": {
             "printouts": [],
@@ -1479,6 +1727,14 @@
             "fulltext": "EXEED:省市区县种类",
             "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%9C%81%E5%B8%82%E5%8C%BA%E5%8E%BF%E7%A7%8D%E7%B1%BB",
             "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "省市区县种类 - AreaKind"
+        },
+        "SALEEN:省市区县种类": {
+            "printouts": [],
+            "fulltext": "SALEEN:省市区县种类",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E7%9C%81%E5%B8%82%E5%8C%BA%E5%8E%BF%E7%A7%8D%E7%B1%BB",
+            "namespace": 3108,
             "exists": "1",
             "displaytitle": "省市区县种类 - AreaKind"
         },
@@ -1946,11 +2202,11 @@
             "exists": "1",
             "displaytitle": "维修预约单状态 - RepAppointmentStatus"
         },
-        "性别": {
+        "SALEEN:性别": {
             "printouts": [],
-            "fulltext": "性别",
-            "fullurl": "https://wiki.sdtdev.net/%E6%80%A7%E5%88%AB",
-            "namespace": 0,
+            "fulltext": "SALEEN:性别",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E6%80%A7%E5%88%AB",
+            "namespace": 3108,
             "exists": "1",
             "displaytitle": "性别 - Gender"
         },
@@ -1986,6 +2242,14 @@
             "exists": "1",
             "displaytitle": "修理前用户抱怨情况 - MarketQualityBefRepcustcomplain"
         },
+        "SALEEN:兴趣爱好": {
+            "printouts": [],
+            "fulltext": "SALEEN:兴趣爱好",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E5%85%B4%E8%B6%A3%E7%88%B1%E5%A5%BD",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "兴趣爱好 - CustomerExtendedHabit"
+        },
         "EXEED:兴趣爱好": {
             "printouts": [],
             "fulltext": "EXEED:兴趣爱好",
@@ -2002,13 +2266,13 @@
             "exists": "1",
             "displaytitle": "兴趣爱好（DMS） - Hobby"
         },
-        "销售服务网点状态": {
+        "SALEEN:信息来源": {
             "printouts": [],
-            "fulltext": "销售服务网点状态",
-            "fullurl": "https://wiki.sdtdev.net/%E9%94%80%E5%94%AE%E6%9C%8D%E5%8A%A1%E7%BD%91%E7%82%B9%E7%8A%B6%E6%80%81",
-            "namespace": 0,
+            "fulltext": "SALEEN:信息来源",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E4%BF%A1%E6%81%AF%E6%9D%A5%E6%BA%90",
+            "namespace": 3108,
             "exists": "1",
-            "displaytitle": "销售服务网点状态 - OutletStatus"
+            "displaytitle": "信息来源 - CustomerIntentionInfoSource"
         },
         "EXEED:信息来源": {
             "printouts": [],
@@ -2026,6 +2290,14 @@
             "exists": "1",
             "displaytitle": "行业类型 - IndustryType"
         },
+        "SALEEN:行业类型": {
+            "printouts": [],
+            "fulltext": "SALEEN:行业类型",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E8%A1%8C%E4%B8%9A%E7%B1%BB%E5%9E%8B",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "行业类型 - CustomerBusinessType"
+        },
         "EXEED:行业类型（DMS）": {
             "printouts": [],
             "fulltext": "EXEED:行业类型（DMS）",
@@ -2034,6 +2306,14 @@
             "exists": "1",
             "displaytitle": "行业类型（DMS） - IndustryType"
         },
+        "SALEEN:月份": {
+            "printouts": [],
+            "fulltext": "SALEEN:月份",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E6%9C%88%E4%BB%BD",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "月份 - Months"
+        },
         "EXEED:月份": {
             "printouts": [],
             "fulltext": "EXEED:月份",
@@ -2041,6 +2321,14 @@
             "namespace": 3102,
             "exists": "1",
             "displaytitle": "月份 - Month"
+        },
+        "SALEEN:预计购车时间": {
+            "printouts": [],
+            "fulltext": "SALEEN:预计购车时间",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E9%A2%84%E8%AE%A1%E8%B4%AD%E8%BD%A6%E6%97%B6%E9%97%B4",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "预计购车时间 - CustomerIntentionBuyingTime"
         },
         "EXEED:预计购车时间": {
             "printouts": [],
@@ -2058,6 +2346,14 @@
             "exists": "1",
             "displaytitle": "与推荐人关系 - CustomerIntentionRelationship"
         },
+        "SALEEN:与推荐人关系": {
+            "printouts": [],
+            "fulltext": "SALEEN:与推荐人关系",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E4%B8%8E%E6%8E%A8%E8%8D%90%E4%BA%BA%E5%85%B3%E7%B3%BB",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "与推荐人关系 - CustomerIntentionRelationship"
+        },
         "EXEED:业务岗位": {
             "printouts": [],
             "fulltext": "EXEED:业务岗位",
@@ -2065,6 +2361,14 @@
             "namespace": 3102,
             "exists": "1",
             "displaytitle": "业务岗位 - ServicePost"
+        },
+        "SALEEN:意向级别": {
+            "printouts": [],
+            "fulltext": "SALEEN:意向级别",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E6%84%8F%E5%90%91%E7%BA%A7%E5%88%AB",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "意向级别 - CustomerIntentionLevelOfIntent"
         },
         "EXEED:意向级别": {
             "printouts": [],
@@ -2138,6 +2442,62 @@
             "exists": "1",
             "displaytitle": "整车保养政策状态（DMS） - VehicleMaintenanceStandardStatus"
         },
+        "SALEEN:整车存储策略": {
+            "printouts": [],
+            "fulltext": "SALEEN:整车存储策略",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E6%95%B4%E8%BD%A6%E5%AD%98%E5%82%A8%E7%AD%96%E7%95%A5",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "整车存储策略 - VehicleStockStorageStrategy"
+        },
+        "SALEEN:整车仓库类型": {
+            "printouts": [],
+            "fulltext": "SALEEN:整车仓库类型",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E6%95%B4%E8%BD%A6%E4%BB%93%E5%BA%93%E7%B1%BB%E5%9E%8B",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "整车仓库类型 - VehicleWarehouseType"
+        },
+        "SALEEN:整车仓库内部结构使用状态": {
+            "printouts": [],
+            "fulltext": "SALEEN:整车仓库内部结构使用状态",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E6%95%B4%E8%BD%A6%E4%BB%93%E5%BA%93%E5%86%85%E9%83%A8%E7%BB%93%E6%9E%84%E4%BD%BF%E7%94%A8%E7%8A%B6%E6%80%81",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "整车仓库内部结构使用状态 - VehicleWarehouseBinInUseStatus"
+        },
+        "SALEEN:整车仓库所属方": {
+            "printouts": [],
+            "fulltext": "SALEEN:整车仓库所属方",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E6%95%B4%E8%BD%A6%E4%BB%93%E5%BA%93%E6%89%80%E5%B1%9E%E6%96%B9",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "整车仓库所属方 - VehicleWarehouseBelongsTo"
+        },
+        "SALEEN:整车仓库状态": {
+            "printouts": [],
+            "fulltext": "SALEEN:整车仓库状态",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E6%95%B4%E8%BD%A6%E4%BB%93%E5%BA%93%E7%8A%B6%E6%80%81",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "整车仓库状态 - VehicleWarehouseStatus"
+        },
+        "SALEEN:整车车辆属性": {
+            "printouts": [],
+            "fulltext": "SALEEN:整车车辆属性",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E6%95%B4%E8%BD%A6%E8%BD%A6%E8%BE%86%E5%B1%9E%E6%80%A7",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "整车车辆属性 - VehicleProperty"
+        },
+        "SALEEN:整车档案属性": {
+            "printouts": [],
+            "fulltext": "SALEEN:整车档案属性",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E6%95%B4%E8%BD%A6%E6%A1%A3%E6%A1%88%E5%B1%9E%E6%80%A7",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "整车档案属性 - VehicleFileAttribute"
+        },
         "EXEED:整车档案属性": {
             "printouts": [],
             "fulltext": "EXEED:整车档案属性",
@@ -2162,6 +2522,22 @@
             "exists": "1",
             "displaytitle": "整车订单类型 - VehicleOrderType"
         },
+        "SALEEN:整车订单类型": {
+            "printouts": [],
+            "fulltext": "SALEEN:整车订单类型",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E6%95%B4%E8%BD%A6%E8%AE%A2%E5%8D%95%E7%B1%BB%E5%9E%8B",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "整车订单类型 - VehicleOrderType"
+        },
+        "SALEEN:整车贷款方案": {
+            "printouts": [],
+            "fulltext": "SALEEN:整车贷款方案",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E6%95%B4%E8%BD%A6%E8%B4%B7%E6%AC%BE%E6%96%B9%E6%A1%88",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "整车贷款方案 - VehicleLendingPlan"
+        },
         "EXEED:整车贷款方案": {
             "printouts": [],
             "fulltext": "EXEED:整车贷款方案",
@@ -2177,6 +2553,14 @@
             "namespace": 3102,
             "exists": "1",
             "displaytitle": "整车贷款方案（DMS） - VehicleLendingPlan"
+        },
+        "SALEEN:整车贷款渠道": {
+            "printouts": [],
+            "fulltext": "SALEEN:整车贷款渠道",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E6%95%B4%E8%BD%A6%E8%B4%B7%E6%AC%BE%E6%B8%A0%E9%81%93",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "整车贷款渠道 - VehicleLendingChannel"
         },
         "EXEED:整车贷款渠道": {
             "printouts": [],
@@ -2194,6 +2578,14 @@
             "exists": "1",
             "displaytitle": "整车贷款渠道（DMS） - VehicleLendingChannel"
         },
+        "SALEEN:整车付款方式": {
+            "printouts": [],
+            "fulltext": "SALEEN:整车付款方式",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E6%95%B4%E8%BD%A6%E4%BB%98%E6%AC%BE%E6%96%B9%E5%BC%8F",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "整车付款方式 - VehiclePaymentMethod"
+        },
         "EXEED:整车付款方式": {
             "printouts": [],
             "fulltext": "EXEED:整车付款方式",
@@ -2209,6 +2601,14 @@
             "namespace": 3102,
             "exists": "1",
             "displaytitle": "整车付款方式（DMS） - VehiclePaymentMethod"
+        },
+        "SALEEN:整车服务经销商类型": {
+            "printouts": [],
+            "fulltext": "SALEEN:整车服务经销商类型",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E6%95%B4%E8%BD%A6%E6%9C%8D%E5%8A%A1%E7%BB%8F%E9%94%80%E5%95%86%E7%B1%BB%E5%9E%8B",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "整车服务经销商类型 - DealerType"
         },
         "EXEED:整车服务经销商类型": {
             "printouts": [],
@@ -2226,6 +2626,14 @@
             "exists": "1",
             "displaytitle": "整车购车经历 - SalesLeadPurchaseHistory"
         },
+        "SALEEN:整车购车经历": {
+            "printouts": [],
+            "fulltext": "SALEEN:整车购车经历",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E6%95%B4%E8%BD%A6%E8%B4%AD%E8%BD%A6%E7%BB%8F%E5%8E%86",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "整车购车经历 - VehiclePurchaseHistory"
+        },
         "EXEED:整车购车经历（DMS）": {
             "printouts": [],
             "fulltext": "EXEED:整车购车经历（DMS）",
@@ -2233,6 +2641,14 @@
             "namespace": 3102,
             "exists": "1",
             "displaytitle": "整车购车经历（DMS） - VehiclePurchaseHistory"
+        },
+        "SALEEN:整车购车年限": {
+            "printouts": [],
+            "fulltext": "SALEEN:整车购车年限",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E6%95%B4%E8%BD%A6%E8%B4%AD%E8%BD%A6%E5%B9%B4%E9%99%90",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "整车购车年限 - VehicleOwningCarYears"
         },
         "EXEED:整车购车年限": {
             "printouts": [],
@@ -2250,6 +2666,14 @@
             "exists": "1",
             "displaytitle": "整车购车年限（DMS） - VehicleOwningCarYears"
         },
+        "SALEEN:整车购车用途": {
+            "printouts": [],
+            "fulltext": "SALEEN:整车购车用途",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E6%95%B4%E8%BD%A6%E8%B4%AD%E8%BD%A6%E7%94%A8%E9%80%94",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "整车购车用途 - VehiclePurchasePurpose"
+        },
         "EXEED:整车购车用途": {
             "printouts": [],
             "fulltext": "EXEED:整车购车用途",
@@ -2265,6 +2689,14 @@
             "namespace": 3102,
             "exists": "1",
             "displaytitle": "整车购车用途（DMS） - RetailContractApplication"
+        },
+        "SALEEN:整车购车重视因素": {
+            "printouts": [],
+            "fulltext": "SALEEN:整车购车重视因素",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E6%95%B4%E8%BD%A6%E8%B4%AD%E8%BD%A6%E9%87%8D%E8%A7%86%E5%9B%A0%E7%B4%A0",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "整车购车重视因素 - VehicleConsiderationsFocusOn"
         },
         "EXEED:整车购车重视因素": {
             "printouts": [],
@@ -2282,6 +2714,22 @@
             "exists": "1",
             "displaytitle": "整车购车重视因素（DMS） - VehicleConsiderationsFocusOn"
         },
+        "SALEEN:整车合同类型": {
+            "printouts": [],
+            "fulltext": "SALEEN:整车合同类型",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E6%95%B4%E8%BD%A6%E5%90%88%E5%90%8C%E7%B1%BB%E5%9E%8B",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "整车合同类型 - VehicleContractType"
+        },
+        "SALEEN:整车检查状态": {
+            "printouts": [],
+            "fulltext": "SALEEN:整车检查状态",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E6%95%B4%E8%BD%A6%E6%A3%80%E6%9F%A5%E7%8A%B6%E6%80%81",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "整车检查状态 - PDIStatus"
+        },
         "EXEED:整车检查状态": {
             "printouts": [],
             "fulltext": "EXEED:整车检查状态",
@@ -2290,6 +2738,14 @@
             "exists": "1",
             "displaytitle": "整车检查状态 - PDIStatus"
         },
+        "SALEEN:整车计划级别": {
+            "printouts": [],
+            "fulltext": "SALEEN:整车计划级别",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E6%95%B4%E8%BD%A6%E8%AE%A1%E5%88%92%E7%BA%A7%E5%88%AB",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "整车计划级别 - VehiclePlanLevel"
+        },
         "EXEED:整车计划种类": {
             "printouts": [],
             "fulltext": "EXEED:整车计划种类",
@@ -2297,6 +2753,22 @@
             "namespace": 3102,
             "exists": "1",
             "displaytitle": "整车计划种类 - VehicleIntention"
+        },
+        "SALEEN:整车计划种类": {
+            "printouts": [],
+            "fulltext": "SALEEN:整车计划种类",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E6%95%B4%E8%BD%A6%E8%AE%A1%E5%88%92%E7%A7%8D%E7%B1%BB",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "整车计划种类 - VehicleIntention"
+        },
+        "SALEEN:整车寄售类型": {
+            "printouts": [],
+            "fulltext": "SALEEN:整车寄售类型",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E6%95%B4%E8%BD%A6%E5%AF%84%E5%94%AE%E7%B1%BB%E5%9E%8B",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "整车寄售类型 - VehicleConsignmentType"
         },
         "EXEED:整车寄售类型": {
             "printouts": [],
@@ -2314,11 +2786,67 @@
             "exists": "1",
             "displaytitle": "整车寄售类型（DMS） - VehicleConsignmentType"
         },
+        "SALEEN:整车库存车辆状态": {
+            "printouts": [],
+            "fulltext": "SALEEN:整车库存车辆状态",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E6%95%B4%E8%BD%A6%E5%BA%93%E5%AD%98%E8%BD%A6%E8%BE%86%E7%8A%B6%E6%80%81",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "整车库存车辆状态 - VehicleStockVehicleStatus"
+        },
+        "SALEEN:整车库存冻结状态": {
+            "printouts": [],
+            "fulltext": "SALEEN:整车库存冻结状态",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E6%95%B4%E8%BD%A6%E5%BA%93%E5%AD%98%E5%86%BB%E7%BB%93%E7%8A%B6%E6%80%81",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "整车库存冻结状态 - VehicleStockFreezingStatus"
+        },
+        "SALEEN:整车库存锁定单据类型": {
+            "printouts": [],
+            "fulltext": "SALEEN:整车库存锁定单据类型",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E6%95%B4%E8%BD%A6%E5%BA%93%E5%AD%98%E9%94%81%E5%AE%9A%E5%8D%95%E6%8D%AE%E7%B1%BB%E5%9E%8B",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "整车库存锁定单据类型 - VehicleStockLockBillType"
+        },
+        "SALEEN:整车库存锁定状态": {
+            "printouts": [],
+            "fulltext": "SALEEN:整车库存锁定状态",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E6%95%B4%E8%BD%A6%E5%BA%93%E5%AD%98%E9%94%81%E5%AE%9A%E7%8A%B6%E6%80%81",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "整车库存锁定状态 - VehicleStockLockStatus"
+        },
+        "SALEEN:整车库存质损状态": {
+            "printouts": [],
+            "fulltext": "SALEEN:整车库存质损状态",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E6%95%B4%E8%BD%A6%E5%BA%93%E5%AD%98%E8%B4%A8%E6%8D%9F%E7%8A%B6%E6%80%81",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "整车库存质损状态 - VehicleStockMassLossStatus"
+        },
+        "SALEEN:整车库存状态": {
+            "printouts": [],
+            "fulltext": "SALEEN:整车库存状态",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E6%95%B4%E8%BD%A6%E5%BA%93%E5%AD%98%E7%8A%B6%E6%80%81",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "整车库存状态 - VehicleStockStatus"
+        },
         "EXEED:整车客户状态": {
             "printouts": [],
             "fulltext": "EXEED:整车客户状态",
             "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%B4%E8%BD%A6%E5%AE%A2%E6%88%B7%E7%8A%B6%E6%80%81",
             "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "整车客户状态 - VehicleCustomerStatus"
+        },
+        "SALEEN:整车客户状态": {
+            "printouts": [],
+            "fulltext": "SALEEN:整车客户状态",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E6%95%B4%E8%BD%A6%E5%AE%A2%E6%88%B7%E7%8A%B6%E6%80%81",
+            "namespace": 3108,
             "exists": "1",
             "displaytitle": "整车客户状态 - VehicleCustomerStatus"
         },
@@ -2337,6 +2865,54 @@
             "namespace": 3102,
             "exists": "1",
             "displaytitle": "整车库区类型 - VehicleWarehouseAreaType"
+        },
+        "SALEEN:整车库区类型": {
+            "printouts": [],
+            "fulltext": "SALEEN:整车库区类型",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E6%95%B4%E8%BD%A6%E5%BA%93%E5%8C%BA%E7%B1%BB%E5%9E%8B",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "整车库区类型 - VehicleWarehouseAreaType"
+        },
+        "SALEEN:整车批售订单类型": {
+            "printouts": [],
+            "fulltext": "SALEEN:整车批售订单类型",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E6%95%B4%E8%BD%A6%E6%89%B9%E5%94%AE%E8%AE%A2%E5%8D%95%E7%B1%BB%E5%9E%8B",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "整车批售订单类型 - VehicleWholeSaleOrderType"
+        },
+        "SALEEN:整车批售订单源单据类型": {
+            "printouts": [],
+            "fulltext": "SALEEN:整车批售订单源单据类型",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E6%95%B4%E8%BD%A6%E6%89%B9%E5%94%AE%E8%AE%A2%E5%8D%95%E6%BA%90%E5%8D%95%E6%8D%AE%E7%B1%BB%E5%9E%8B",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "整车批售订单源单据类型 - VehicleWholeSaleOrderSourceType"
+        },
+        "SALEEN:整车批售订单状态": {
+            "printouts": [],
+            "fulltext": "SALEEN:整车批售订单状态",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E6%95%B4%E8%BD%A6%E6%89%B9%E5%94%AE%E8%AE%A2%E5%8D%95%E7%8A%B6%E6%80%81",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "整车批售订单状态 - VehicleWholeSaleOrderStatus"
+        },
+        "SALEEN:整车入库类型": {
+            "printouts": [],
+            "fulltext": "SALEEN:整车入库类型",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E6%95%B4%E8%BD%A6%E5%85%A5%E5%BA%93%E7%B1%BB%E5%9E%8B",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "整车入库类型 - DealerVehicleStockSourceType"
+        },
+        "SALEEN:整车SAP销售渠道": {
+            "printouts": [],
+            "fulltext": "SALEEN:整车SAP销售渠道",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E6%95%B4%E8%BD%A6SAP%E9%94%80%E5%94%AE%E6%B8%A0%E9%81%93",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "整车SAP销售渠道 - VehicleSAPSalesChannel"
         },
         "EXEED:整车SAP销售渠道": {
             "printouts": [],
@@ -2362,6 +2938,14 @@
             "exists": "1",
             "displaytitle": "整车是否特销 - VehicleIsSpecialSale"
         },
+        "SALEEN:整车是否特销": {
+            "printouts": [],
+            "fulltext": "SALEEN:整车是否特销",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E6%95%B4%E8%BD%A6%E6%98%AF%E5%90%A6%E7%89%B9%E9%94%80",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "整车是否特销 - VehicleIsSpecialSale"
+        },
         "EXEED:整车是否特销（DMS）": {
             "printouts": [],
             "fulltext": "EXEED:整车是否特销（DMS）",
@@ -2369,6 +2953,22 @@
             "namespace": 3102,
             "exists": "1",
             "displaytitle": "整车是否特销（DMS） - VehicleIsSpecialSale"
+        },
+        "SALEEN:整车VIP类型": {
+            "printouts": [],
+            "fulltext": "SALEEN:整车VIP类型",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E6%95%B4%E8%BD%A6VIP%E7%B1%BB%E5%9E%8B",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "整车VIP类型 - VehicleVIPType"
+        },
+        "SALEEN:整车信息渠道": {
+            "printouts": [],
+            "fulltext": "SALEEN:整车信息渠道",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E6%95%B4%E8%BD%A6%E4%BF%A1%E6%81%AF%E6%B8%A0%E9%81%93",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "整车信息渠道 - VehicleInformationChannel"
         },
         "EXEED:整车信息渠道": {
             "printouts": [],
@@ -2386,6 +2986,14 @@
             "exists": "1",
             "displaytitle": "整车信息渠道（DMS） - VehicleInformationChannel"
         },
+        "SALEEN:整车原车型": {
+            "printouts": [],
+            "fulltext": "SALEEN:整车原车型",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E6%95%B4%E8%BD%A6%E5%8E%9F%E8%BD%A6%E5%9E%8B",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "整车原车型 - VehicleOriginalVehicleModel"
+        },
         "EXEED:整车原车型": {
             "printouts": [],
             "fulltext": "EXEED:整车原车型",
@@ -2402,6 +3010,22 @@
             "exists": "1",
             "displaytitle": "整车原车型（DMS） - VehicleOriginalVehicleModel"
         },
+        "SALEEN:整车运输方式": {
+            "printouts": [],
+            "fulltext": "SALEEN:整车运输方式",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E6%95%B4%E8%BD%A6%E8%BF%90%E8%BE%93%E6%96%B9%E5%BC%8F",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "整车运输方式 - VehicleTransportMethod"
+        },
+        "SALEEN:整车运营性质": {
+            "printouts": [],
+            "fulltext": "SALEEN:整车运营性质",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E6%95%B4%E8%BD%A6%E8%BF%90%E8%90%A5%E6%80%A7%E8%B4%A8",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "整车运营性质 - VehicleOperationsNature"
+        },
         "EXEED:整车运营性质": {
             "printouts": [],
             "fulltext": "EXEED:整车运营性质",
@@ -2409,6 +3033,14 @@
             "namespace": 3102,
             "exists": "1",
             "displaytitle": "整车运营性质 - VehicleOperationsNature"
+        },
+        "SALEEN:整车置换理由": {
+            "printouts": [],
+            "fulltext": "SALEEN:整车置换理由",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E6%95%B4%E8%BD%A6%E7%BD%AE%E6%8D%A2%E7%90%86%E7%94%B1",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "整车置换理由 - VehicleChangeReason"
         },
         "EXEED:整车置换理由": {
             "printouts": [],
@@ -2425,6 +3057,14 @@
             "namespace": 3102,
             "exists": "1",
             "displaytitle": "整车置换理由（DMS） - VehicleChangeReason"
+        },
+        "SALEEN:证件类型": {
+            "printouts": [],
+            "fulltext": "SALEEN:证件类型",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E8%AF%81%E4%BB%B6%E7%B1%BB%E5%9E%8B",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "证件类型 - CustomerIdDocumentType"
         },
         "EXEED:证件类型": {
             "printouts": [],
@@ -2458,6 +3098,14 @@
             "exists": "1",
             "displaytitle": "质量反馈单状态 - MarketQualityStatus"
         },
+        "SALEEN:责任单位类型": {
+            "printouts": [],
+            "fulltext": "SALEEN:责任单位类型",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E8%B4%A3%E4%BB%BB%E5%8D%95%E4%BD%8D%E7%B1%BB%E5%9E%8B",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "责任单位类型 - DutyUnitType"
+        },
         "EXEED:责任单位类型": {
             "printouts": [],
             "fulltext": "EXEED:责任单位类型",
@@ -2465,6 +3113,14 @@
             "namespace": 3102,
             "exists": "1",
             "displaytitle": "责任单位类型 - DutyUnitType"
+        },
+        "SALEEN:责任单位状态": {
+            "printouts": [],
+            "fulltext": "SALEEN:责任单位状态",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E8%B4%A3%E4%BB%BB%E5%8D%95%E4%BD%8D%E7%8A%B6%E6%80%81",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "责任单位状态 - DutyUnitStatus"
         },
         "EXEED:责任单位状态": {
             "printouts": [],
@@ -2474,6 +3130,14 @@
             "exists": "1",
             "displaytitle": "责任单位状态 - DutyUnitStatus"
         },
+        "SALEEN:主要关注竞品": {
+            "printouts": [],
+            "fulltext": "SALEEN:主要关注竞品",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E4%B8%BB%E8%A6%81%E5%85%B3%E6%B3%A8%E7%AB%9E%E5%93%81",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "主要关注竞品 - CustomerIntentionMainConcernProducts"
+        },
         "EXEED:主要关注竞品": {
             "printouts": [],
             "fulltext": "EXEED:主要关注竞品",
@@ -2481,6 +3145,14 @@
             "namespace": 3102,
             "exists": "1",
             "displaytitle": "主要关注竞品 - CustomerIntentionMainConcernProducts"
+        },
+        "SALEEN:职业类型": {
+            "printouts": [],
+            "fulltext": "SALEEN:职业类型",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E8%81%8C%E4%B8%9A%E7%B1%BB%E5%9E%8B",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "职业类型 - CustomerOccupationType"
         },
         "EXEED:职业类型": {
             "printouts": [],
@@ -2525,5 +3197,5 @@
     },
     "serializer": "SMW\\Serializers\\QueryResultSerializer",
     "version": 2,
-    "rows": 314
+    "rows": 398
 }
