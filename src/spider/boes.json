@@ -1,0 +1,2497 @@
+{
+    "printrequests": [
+        {
+            "label": "",
+            "key": "",
+            "redi": "",
+            "typeid": "_wpg",
+            "mode": 2,
+            "format": false
+        }
+    ],
+    "results": {
+        "EXEED:部门": {
+            "printouts": [],
+            "fulltext": "EXEED:部门",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%83%A8%E9%97%A8",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "部门 - Department"
+        },
+        "EXEED:部门（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:部门（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%83%A8%E9%97%A8%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "部门（DMS） - Department"
+        },
+        "SALEEN:充电桩安装申请单": {
+            "printouts": [],
+            "fulltext": "SALEEN:充电桩安装申请单",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E5%85%85%E7%94%B5%E6%A1%A9%E5%AE%89%E8%A3%85%E7%94%B3%E8%AF%B7%E5%8D%95",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "充电桩安装申请单 - ChargePileInstallApp"
+        },
+        "EXEED:车辆档案": {
+            "printouts": [],
+            "fulltext": "EXEED:车辆档案",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E8%BD%A6%E8%BE%86%E6%A1%A3%E6%A1%88",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "车辆档案 - VehicleInformation"
+        },
+        "SALEEN:车辆档案": {
+            "printouts": [],
+            "fulltext": "SALEEN:车辆档案",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E8%BD%A6%E8%BE%86%E6%A1%A3%E6%A1%88",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "车辆档案 - Vehicle"
+        },
+        "SALEEN:车辆档案扩展信息": {
+            "printouts": [],
+            "fulltext": "SALEEN:车辆档案扩展信息",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E8%BD%A6%E8%BE%86%E6%A1%A3%E6%A1%88%E6%89%A9%E5%B1%95%E4%BF%A1%E6%81%AF",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "车辆档案扩展信息 - VehicleExtended"
+        },
+        "EXEED:车辆档案扩展信息": {
+            "printouts": [],
+            "fulltext": "EXEED:车辆档案扩展信息",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E8%BD%A6%E8%BE%86%E6%A1%A3%E6%A1%88%E6%89%A9%E5%B1%95%E4%BF%A1%E6%81%AF",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "车辆档案扩展信息 - VehicleProjectInformation"
+        },
+        "SALEEN:车辆档案履历": {
+            "printouts": [],
+            "fulltext": "SALEEN:车辆档案履历",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E8%BD%A6%E8%BE%86%E6%A1%A3%E6%A1%88%E5%B1%A5%E5%8E%86",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "车辆档案履历 - VehicleHistory"
+        },
+        "EXEED:车辆档案履历": {
+            "printouts": [],
+            "fulltext": "EXEED:车辆档案履历",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E8%BD%A6%E8%BE%86%E6%A1%A3%E6%A1%88%E5%B1%A5%E5%8E%86",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "车辆档案履历 - VehicleHistory"
+        },
+        "SALEEN:车辆基础信息": {
+            "printouts": [],
+            "fulltext": "SALEEN:车辆基础信息",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E8%BD%A6%E8%BE%86%E5%9F%BA%E7%A1%80%E4%BF%A1%E6%81%AF",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "车辆基础信息 - VehicleBasedInfo"
+        },
+        "SALEEN:车辆交期策略": {
+            "printouts": [],
+            "fulltext": "SALEEN:车辆交期策略",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E8%BD%A6%E8%BE%86%E4%BA%A4%E6%9C%9F%E7%AD%96%E7%95%A5",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "车辆交期策略 - VehicleDeliveryCategory"
+        },
+        "SALEEN:车辆扩展信息": {
+            "printouts": [],
+            "fulltext": "SALEEN:车辆扩展信息",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E8%BD%A6%E8%BE%86%E6%89%A9%E5%B1%95%E4%BF%A1%E6%81%AF",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "车辆扩展信息 - VehicleExtended"
+        },
+        "SALEEN:车辆联系人": {
+            "printouts": [],
+            "fulltext": "SALEEN:车辆联系人",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E8%BD%A6%E8%BE%86%E8%81%94%E7%B3%BB%E4%BA%BA",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "车辆联系人 - VehicleContact"
+        },
+        "EXEED:车辆联系人": {
+            "printouts": [],
+            "fulltext": "EXEED:车辆联系人",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E8%BD%A6%E8%BE%86%E8%81%94%E7%B3%BB%E4%BA%BA",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "车辆联系人 - VehicleContact"
+        },
+        "EXEED:车辆联系人（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:车辆联系人（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E8%BD%A6%E8%BE%86%E8%81%94%E7%B3%BB%E4%BA%BA%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "车辆联系人（DMS） - VehicleLinkMan"
+        },
+        "EXEED:车辆售后档案": {
+            "printouts": [],
+            "fulltext": "EXEED:车辆售后档案",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E8%BD%A6%E8%BE%86%E5%94%AE%E5%90%8E%E6%A1%A3%E6%A1%88",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "车辆售后档案 - VehicleSold"
+        },
+        "SALEEN:车辆售后档案": {
+            "printouts": [],
+            "fulltext": "SALEEN:车辆售后档案",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E8%BD%A6%E8%BE%86%E5%94%AE%E5%90%8E%E6%A1%A3%E6%A1%88",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "车辆售后档案 - VehicleSold"
+        },
+        "EXEED:车辆售后档案（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:车辆售后档案（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E8%BD%A6%E8%BE%86%E5%94%AE%E5%90%8E%E6%A1%A3%E6%A1%88%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "车辆售后档案（DMS） - VehicleSold"
+        },
+        "SALEEN:车辆售后档案扩展信息": {
+            "printouts": [],
+            "fulltext": "SALEEN:车辆售后档案扩展信息",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E8%BD%A6%E8%BE%86%E5%94%AE%E5%90%8E%E6%A1%A3%E6%A1%88%E6%89%A9%E5%B1%95%E4%BF%A1%E6%81%AF",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "车辆售后档案扩展信息 - VehicleSoldExtended"
+        },
+        "EXEED:车辆售后档案扩展信息": {
+            "printouts": [],
+            "fulltext": "EXEED:车辆售后档案扩展信息",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E8%BD%A6%E8%BE%86%E5%94%AE%E5%90%8E%E6%A1%A3%E6%A1%88%E6%89%A9%E5%B1%95%E4%BF%A1%E6%81%AF",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "车辆售后档案扩展信息 - VehicleSoldExtended"
+        },
+        "EXEED:车辆售后档案扩展信息（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:车辆售后档案扩展信息（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E8%BD%A6%E8%BE%86%E5%94%AE%E5%90%8E%E6%A1%A3%E6%A1%88%E6%89%A9%E5%B1%95%E4%BF%A1%E6%81%AF%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "车辆售后档案扩展信息（DMS） - VehicleBaseEpandInfo"
+        },
+        "EXEED:车辆售后档案履历": {
+            "printouts": [],
+            "fulltext": "EXEED:车辆售后档案履历",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E8%BD%A6%E8%BE%86%E5%94%AE%E5%90%8E%E6%A1%A3%E6%A1%88%E5%B1%A5%E5%8E%86",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "车辆售后档案履历 - VehicleSoldHistory"
+        },
+        "SALEEN:车辆售后档案履历": {
+            "printouts": [],
+            "fulltext": "SALEEN:车辆售后档案履历",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E8%BD%A6%E8%BE%86%E5%94%AE%E5%90%8E%E6%A1%A3%E6%A1%88%E5%B1%A5%E5%8E%86",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "车辆售后档案履历 - VehicleSoldHistory"
+        },
+        "EXEED:产品": {
+            "printouts": [],
+            "fulltext": "EXEED:产品",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E4%BA%A7%E5%93%81",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "产品 - Product"
+        },
+        "SALEEN:产品": {
+            "printouts": [],
+            "fulltext": "SALEEN:产品",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E4%BA%A7%E5%93%81",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "产品 - Product"
+        },
+        "EXEED:产品（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:产品（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E4%BA%A7%E5%93%81%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "产品（DMS） - Product"
+        },
+        "EXEED:产品分类": {
+            "printouts": [],
+            "fulltext": "EXEED:产品分类",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E4%BA%A7%E5%93%81%E5%88%86%E7%B1%BB",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "产品分类 - ProductCategory"
+        },
+        "SALEEN:产品分类": {
+            "printouts": [],
+            "fulltext": "SALEEN:产品分类",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E4%BA%A7%E5%93%81%E5%88%86%E7%B1%BB",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "产品分类 - ProductCategory"
+        },
+        "EXEED:产品分类（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:产品分类（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E4%BA%A7%E5%93%81%E5%88%86%E7%B1%BB%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "产品分类（DMS） - ProductCategory"
+        },
+        "SALEEN:产品分类横表": {
+            "printouts": [],
+            "fulltext": "SALEEN:产品分类横表",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E4%BA%A7%E5%93%81%E5%88%86%E7%B1%BB%E6%A8%AA%E8%A1%A8",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "产品分类横表 - ProductCategoryView"
+        },
+        "EXEED:产品分类横表": {
+            "printouts": [],
+            "fulltext": "EXEED:产品分类横表",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E4%BA%A7%E5%93%81%E5%88%86%E7%B1%BB%E6%A8%AA%E8%A1%A8",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "产品分类横表 - ProductCategoryView"
+        },
+        "EXEED:产品分类横表（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:产品分类横表（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E4%BA%A7%E5%93%81%E5%88%86%E7%B1%BB%E6%A8%AA%E8%A1%A8%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "产品分类横表（DMS） - ProductCategoryView"
+        },
+        "EXEED:产品与产品分类关系": {
+            "printouts": [],
+            "fulltext": "EXEED:产品与产品分类关系",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E4%BA%A7%E5%93%81%E4%B8%8E%E4%BA%A7%E5%93%81%E5%88%86%E7%B1%BB%E5%85%B3%E7%B3%BB",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "产品与产品分类关系 - ProductProductCategory"
+        },
+        "SALEEN:产品与产品分类关系": {
+            "printouts": [],
+            "fulltext": "SALEEN:产品与产品分类关系",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E4%BA%A7%E5%93%81%E4%B8%8E%E4%BA%A7%E5%93%81%E5%88%86%E7%B1%BB%E5%85%B3%E7%B3%BB",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "产品与产品分类关系 - ProductProductCategory"
+        },
+        "EXEED:产品与产品分类关系（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:产品与产品分类关系（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E4%BA%A7%E5%93%81%E4%B8%8E%E4%BA%A7%E5%93%81%E5%88%86%E7%B1%BB%E5%85%B3%E7%B3%BB%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "产品与产品分类关系（DMS） - ProductProductCategory"
+        },
+        "EXEED:车主变更申请单": {
+            "printouts": [],
+            "fulltext": "EXEED:车主变更申请单",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E8%BD%A6%E4%B8%BB%E5%8F%98%E6%9B%B4%E7%94%B3%E8%AF%B7%E5%8D%95",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "车主变更申请单 - VehicleOwnerChange"
+        },
+        "EXEED:单车服务卡": {
+            "printouts": [],
+            "fulltext": "EXEED:单车服务卡",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E5%8D%95%E8%BD%A6%E6%9C%8D%E5%8A%A1%E5%8D%A1",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "单车服务卡 - VehicleServiceCard"
+        },
+        "EXEED:单车服务卡保养条款": {
+            "printouts": [],
+            "fulltext": "EXEED:单车服务卡保养条款",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E5%8D%95%E8%BD%A6%E6%9C%8D%E5%8A%A1%E5%8D%A1%E4%BF%9D%E5%85%BB%E6%9D%A1%E6%AC%BE",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "单车服务卡保养条款 - VehicleServiceCardDetail"
+        },
+        "EXEED:单车服务卡付费配件清单": {
+            "printouts": [],
+            "fulltext": "EXEED:单车服务卡付费配件清单",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E5%8D%95%E8%BD%A6%E6%9C%8D%E5%8A%A1%E5%8D%A1%E4%BB%98%E8%B4%B9%E9%85%8D%E4%BB%B6%E6%B8%85%E5%8D%95",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "单车服务卡付费配件清单 - VehicleServiceCardPartList"
+        },
+        "EXEED:单车服务卡延保条款清单": {
+            "printouts": [],
+            "fulltext": "EXEED:单车服务卡延保条款清单",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E5%8D%95%E8%BD%A6%E6%9C%8D%E5%8A%A1%E5%8D%A1%E5%BB%B6%E4%BF%9D%E6%9D%A1%E6%AC%BE%E6%B8%85%E5%8D%95",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "单车服务卡延保条款清单 - VehicleServiceCardExtensionPolicy"
+        },
+        "EXEED:多级审核配置": {
+            "printouts": [],
+            "fulltext": "EXEED:多级审核配置",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E5%A4%9A%E7%BA%A7%E5%AE%A1%E6%A0%B8%E9%85%8D%E7%BD%AE",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "多级审核配置 - MultiLevelApproveCategory"
+        },
+        "SALEEN:大客户": {
+            "printouts": [],
+            "fulltext": "SALEEN:大客户",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E5%A4%A7%E5%AE%A2%E6%88%B7",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "大客户 - KeyAccount"
+        },
+        "SALEEN:大客户合同": {
+            "printouts": [],
+            "fulltext": "SALEEN:大客户合同",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E5%A4%A7%E5%AE%A2%E6%88%B7%E5%90%88%E5%90%8C",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "大客户合同 - KeyAccountContract"
+        },
+        "SALEEN:大客户合同跟踪清单": {
+            "printouts": [],
+            "fulltext": "SALEEN:大客户合同跟踪清单",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E5%A4%A7%E5%AE%A2%E6%88%B7%E5%90%88%E5%90%8C%E8%B7%9F%E8%B8%AA%E6%B8%85%E5%8D%95",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "大客户合同跟踪清单 - KeyAccountContractTrackDetail"
+        },
+        "SALEEN:大客户合同清单": {
+            "printouts": [],
+            "fulltext": "SALEEN:大客户合同清单",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E5%A4%A7%E5%AE%A2%E6%88%B7%E5%90%88%E5%90%8C%E6%B8%85%E5%8D%95",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "大客户合同清单 - KeyAccountContractDetail"
+        },
+        "SALEEN:电商销售订单": {
+            "printouts": [],
+            "fulltext": "SALEEN:电商销售订单",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E7%94%B5%E5%95%86%E9%94%80%E5%94%AE%E8%AE%A2%E5%8D%95",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "电商销售订单 - ECommerceSaleOrder"
+        },
+        "SALEEN:电商销售订单履历": {
+            "printouts": [],
+            "fulltext": "SALEEN:电商销售订单履历",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E7%94%B5%E5%95%86%E9%94%80%E5%94%AE%E8%AE%A2%E5%8D%95%E5%B1%A5%E5%8E%86",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "电商销售订单履历 - ECommerceSaleOrderHistory"
+        },
+        "SALEEN:电商预订单": {
+            "printouts": [],
+            "fulltext": "SALEEN:电商预订单",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E7%94%B5%E5%95%86%E9%A2%84%E8%AE%A2%E5%8D%95",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "电商预订单 - ECommerceSaleOrderPre"
+        },
+        "EXEED:二级网点关系": {
+            "printouts": [],
+            "fulltext": "EXEED:二级网点关系",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E4%BA%8C%E7%BA%A7%E7%BD%91%E7%82%B9%E5%85%B3%E7%B3%BB",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "二级网点关系 - SubNetworkNodeRelation"
+        },
+        "EXEED:分公司服务策略": {
+            "printouts": [],
+            "fulltext": "EXEED:分公司服务策略",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E5%88%86%E5%85%AC%E5%8F%B8%E6%9C%8D%E5%8A%A1%E7%AD%96%E7%95%A5",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "分公司服务策略 - BranchServiceCategory"
+        },
+        "EXEED:服务活动": {
+            "printouts": [],
+            "fulltext": "EXEED:服务活动",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%9C%8D%E5%8A%A1%E6%B4%BB%E5%8A%A8",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "服务活动 - ServiceActivity"
+        },
+        "EXEED:服务活动（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:服务活动（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%9C%8D%E5%8A%A1%E6%B4%BB%E5%8A%A8%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "服务活动（DMS） - ServiceActivity"
+        },
+        "EXEED:服务活动经销商配额清单": {
+            "printouts": [],
+            "fulltext": "EXEED:服务活动经销商配额清单",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%9C%8D%E5%8A%A1%E6%B4%BB%E5%8A%A8%E7%BB%8F%E9%94%80%E5%95%86%E9%85%8D%E9%A2%9D%E6%B8%85%E5%8D%95",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "服务活动经销商配额清单 - ServiceActivityDealerQuotaList"
+        },
+        "EXEED:服务活动经销商配额清单（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:服务活动经销商配额清单（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%9C%8D%E5%8A%A1%E6%B4%BB%E5%8A%A8%E7%BB%8F%E9%94%80%E5%95%86%E9%85%8D%E9%A2%9D%E6%B8%85%E5%8D%95%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "服务活动经销商配额清单（DMS） - ServiceActivityDealerQuotaList"
+        },
+        "EXEED:服务活动条件清单": {
+            "printouts": [],
+            "fulltext": "EXEED:服务活动条件清单",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%9C%8D%E5%8A%A1%E6%B4%BB%E5%8A%A8%E6%9D%A1%E4%BB%B6%E6%B8%85%E5%8D%95",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "服务活动条件清单 - ServiceActivityConditionList"
+        },
+        "EXEED:服务活动条件清单（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:服务活动条件清单（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%9C%8D%E5%8A%A1%E6%B4%BB%E5%8A%A8%E6%9D%A1%E4%BB%B6%E6%B8%85%E5%8D%95%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "服务活动条件清单（DMS） - ServiceActivityConditionList"
+        },
+        "EXEED:服务活动条件清单多值清单": {
+            "printouts": [],
+            "fulltext": "EXEED:服务活动条件清单多值清单",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%9C%8D%E5%8A%A1%E6%B4%BB%E5%8A%A8%E6%9D%A1%E4%BB%B6%E6%B8%85%E5%8D%95%E5%A4%9A%E5%80%BC%E6%B8%85%E5%8D%95",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "服务活动条件清单多值清单 - ConditionValueList"
+        },
+        "EXEED:服务活动条件清单多值清单（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:服务活动条件清单多值清单（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%9C%8D%E5%8A%A1%E6%B4%BB%E5%8A%A8%E6%9D%A1%E4%BB%B6%E6%B8%85%E5%8D%95%E5%A4%9A%E5%80%BC%E6%B8%85%E5%8D%95%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "服务活动条件清单多值清单（DMS） - ConditionValueList"
+        },
+        "EXEED:服务活动维修材料清单": {
+            "printouts": [],
+            "fulltext": "EXEED:服务活动维修材料清单",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%9C%8D%E5%8A%A1%E6%B4%BB%E5%8A%A8%E7%BB%B4%E4%BF%AE%E6%9D%90%E6%96%99%E6%B8%85%E5%8D%95",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "服务活动维修材料清单 - ServiceActivityPartList"
+        },
+        "EXEED:服务活动维修材料清单（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:服务活动维修材料清单（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%9C%8D%E5%8A%A1%E6%B4%BB%E5%8A%A8%E7%BB%B4%E4%BF%AE%E6%9D%90%E6%96%99%E6%B8%85%E5%8D%95%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "服务活动维修材料清单（DMS） - ServiceActivityPartList"
+        },
+        "EXEED:服务活动维修项目清单": {
+            "printouts": [],
+            "fulltext": "EXEED:服务活动维修项目清单",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%9C%8D%E5%8A%A1%E6%B4%BB%E5%8A%A8%E7%BB%B4%E4%BF%AE%E9%A1%B9%E7%9B%AE%E6%B8%85%E5%8D%95",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "服务活动维修项目清单 - ServiceActivityWorkItemList"
+        },
+        "EXEED:服务活动维修项目清单（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:服务活动维修项目清单（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%9C%8D%E5%8A%A1%E6%B4%BB%E5%8A%A8%E7%BB%B4%E4%BF%AE%E9%A1%B9%E7%9B%AE%E6%B8%85%E5%8D%95%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "服务活动维修项目清单（DMS） - ServiceActivityWorkItemList"
+        },
+        "EXEED:服务活动指定车辆清单": {
+            "printouts": [],
+            "fulltext": "EXEED:服务活动指定车辆清单",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%9C%8D%E5%8A%A1%E6%B4%BB%E5%8A%A8%E6%8C%87%E5%AE%9A%E8%BD%A6%E8%BE%86%E6%B8%85%E5%8D%95",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "服务活动指定车辆清单 - ServiceActivityVehicleList"
+        },
+        "EXEED:服务活动指定车辆清单（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:服务活动指定车辆清单（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%9C%8D%E5%8A%A1%E6%B4%BB%E5%8A%A8%E6%8C%87%E5%AE%9A%E8%BD%A6%E8%BE%86%E6%B8%85%E5%8D%95%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "服务活动指定车辆清单（DMS） - ServiceActivityVehicleList"
+        },
+        "EXEED:管内车辆": {
+            "printouts": [],
+            "fulltext": "EXEED:管内车辆",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%AE%A1%E5%86%85%E8%BD%A6%E8%BE%86",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "管内车辆 - DealerVehicleSold"
+        },
+        "EXEED:故障代码": {
+            "printouts": [],
+            "fulltext": "EXEED:故障代码",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%85%E9%9A%9C%E4%BB%A3%E7%A0%81",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "故障代码 - FaultItem"
+        },
+        "EXEED:故障代码（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:故障代码（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%85%E9%9A%9C%E4%BB%A3%E7%A0%81%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "故障代码（DMS） - FaultItem"
+        },
+        "EXEED:故障分类": {
+            "printouts": [],
+            "fulltext": "EXEED:故障分类",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%85%E9%9A%9C%E5%88%86%E7%B1%BB",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "故障分类 - FaultCategory"
+        },
+        "EXEED:故障分类（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:故障分类（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%85%E9%9A%9C%E5%88%86%E7%B1%BB%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "故障分类（DMS） - FaultCategory"
+        },
+        "EXEED:故障分类类型": {
+            "printouts": [],
+            "fulltext": "EXEED:故障分类类型",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%85%E9%9A%9C%E5%88%86%E7%B1%BB%E7%B1%BB%E5%9E%8B",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "故障分类类型 - FaultCategoryType"
+        },
+        "EXEED:故障分类类型（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:故障分类类型（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%85%E9%9A%9C%E5%88%86%E7%B1%BB%E7%B1%BB%E5%9E%8B%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "故障分类类型（DMS） - FaultCategoryType"
+        },
+        "EXEED:故障模式": {
+            "printouts": [],
+            "fulltext": "EXEED:故障模式",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%85%E9%9A%9C%E6%A8%A1%E5%BC%8F",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "故障模式 - FaultMode"
+        },
+        "EXEED:故障模式（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:故障模式（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%85%E9%9A%9C%E6%A8%A1%E5%BC%8F%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "故障模式（DMS） - FaultMode"
+        },
+        "SALEEN:计划变更规则": {
+            "printouts": [],
+            "fulltext": "SALEEN:计划变更规则",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E8%AE%A1%E5%88%92%E5%8F%98%E6%9B%B4%E8%A7%84%E5%88%99",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "计划变更规则 - PlanModificationRule"
+        },
+        "SALEEN:计划变更规则清单": {
+            "printouts": [],
+            "fulltext": "SALEEN:计划变更规则清单",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E8%AE%A1%E5%88%92%E5%8F%98%E6%9B%B4%E8%A7%84%E5%88%99%E6%B8%85%E5%8D%95",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "计划变更规则清单 - PlanModificationRuleDetail"
+        },
+        "SALEEN:计划提报周期": {
+            "printouts": [],
+            "fulltext": "SALEEN:计划提报周期",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E8%AE%A1%E5%88%92%E6%8F%90%E6%8A%A5%E5%91%A8%E6%9C%9F",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "计划提报周期 - PlanSubmissionRule"
+        },
+        "SALEEN:经销商": {
+            "printouts": [],
+            "fulltext": "SALEEN:经销商",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E7%BB%8F%E9%94%80%E5%95%86",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "经销商 - Dealer"
+        },
+        "EXEED:经销商": {
+            "printouts": [],
+            "fulltext": "EXEED:经销商",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%8F%E9%94%80%E5%95%86",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "经销商 - Dealer"
+        },
+        "EXEED:经销商（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:经销商（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%8F%E9%94%80%E5%95%86%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "经销商（DMS） - Dealer"
+        },
+        "EXEED:经销商订单提报日期规则": {
+            "printouts": [],
+            "fulltext": "EXEED:经销商订单提报日期规则",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%8F%E9%94%80%E5%95%86%E8%AE%A2%E5%8D%95%E6%8F%90%E6%8A%A5%E6%97%A5%E6%9C%9F%E8%A7%84%E5%88%99",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "经销商订单提报日期规则 - DealerOrderSubmitRule"
+        },
+        "EXEED:经销商雇员": {
+            "printouts": [],
+            "fulltext": "EXEED:经销商雇员",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%8F%E9%94%80%E5%95%86%E9%9B%87%E5%91%98",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "经销商雇员 - Employee"
+        },
+        "EXEED:经销商旧件库存": {
+            "printouts": [],
+            "fulltext": "EXEED:经销商旧件库存",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%8F%E9%94%80%E5%95%86%E6%97%A7%E4%BB%B6%E5%BA%93%E5%AD%98",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "经销商旧件库存 - DealerUsedPartStock"
+        },
+        "EXEED:经销商库区库位": {
+            "printouts": [],
+            "fulltext": "EXEED:经销商库区库位",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%8F%E9%94%80%E5%95%86%E5%BA%93%E5%8C%BA%E5%BA%93%E4%BD%8D",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "经销商库区库位 - WarehouseArea"
+        },
+        "EXEED:经销商配件仓库": {
+            "printouts": [],
+            "fulltext": "EXEED:经销商配件仓库",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%8F%E9%94%80%E5%95%86%E9%85%8D%E4%BB%B6%E4%BB%93%E5%BA%93",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "经销商配件仓库 - DealerPartWarehouse"
+        },
+        "EXEED:经销商配件仓库（DCS）": {
+            "printouts": [],
+            "fulltext": "EXEED:经销商配件仓库（DCS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%8F%E9%94%80%E5%95%86%E9%85%8D%E4%BB%B6%E4%BB%93%E5%BA%93%EF%BC%88DCS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "经销商配件仓库（DCS） - DealerPartWarehouse"
+        },
+        "EXEED:经销商配件出库单": {
+            "printouts": [],
+            "fulltext": "EXEED:经销商配件出库单",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%8F%E9%94%80%E5%95%86%E9%85%8D%E4%BB%B6%E5%87%BA%E5%BA%93%E5%8D%95",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "经销商配件出库单 - PartOut"
+        },
+        "EXEED:经销商配件出库单清单": {
+            "printouts": [],
+            "fulltext": "EXEED:经销商配件出库单清单",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%8F%E9%94%80%E5%95%86%E9%85%8D%E4%BB%B6%E5%87%BA%E5%BA%93%E5%8D%95%E6%B8%85%E5%8D%95",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "经销商配件出库单清单 - PartOutDetail"
+        },
+        "EXEED:经销商配件出库计划单": {
+            "printouts": [],
+            "fulltext": "EXEED:经销商配件出库计划单",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%8F%E9%94%80%E5%95%86%E9%85%8D%E4%BB%B6%E5%87%BA%E5%BA%93%E8%AE%A1%E5%88%92%E5%8D%95",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "经销商配件出库计划单 - PartOutPlan"
+        },
+        "EXEED:经销商配件出库计划单清单": {
+            "printouts": [],
+            "fulltext": "EXEED:经销商配件出库计划单清单",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%8F%E9%94%80%E5%95%86%E9%85%8D%E4%BB%B6%E5%87%BA%E5%BA%93%E8%AE%A1%E5%88%92%E5%8D%95%E6%B8%85%E5%8D%95",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "经销商配件出库计划单清单 - PartOutPlanDetail"
+        },
+        "EXEED:经销商配件到货索赔单": {
+            "printouts": [],
+            "fulltext": "EXEED:经销商配件到货索赔单",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%8F%E9%94%80%E5%95%86%E9%85%8D%E4%BB%B6%E5%88%B0%E8%B4%A7%E7%B4%A2%E8%B5%94%E5%8D%95",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "经销商配件到货索赔单 - DealerPartArriveClaim"
+        },
+        "EXEED:经销商配件到货索赔单清单": {
+            "printouts": [],
+            "fulltext": "EXEED:经销商配件到货索赔单清单",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%8F%E9%94%80%E5%95%86%E9%85%8D%E4%BB%B6%E5%88%B0%E8%B4%A7%E7%B4%A2%E8%B5%94%E5%8D%95%E6%B8%85%E5%8D%95",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "经销商配件到货索赔单清单 - DealerPartArriveClaimDetail"
+        },
+        "EXEED:经销商配件发货仓库关系": {
+            "printouts": [],
+            "fulltext": "EXEED:经销商配件发货仓库关系",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%8F%E9%94%80%E5%95%86%E9%85%8D%E4%BB%B6%E5%8F%91%E8%B4%A7%E4%BB%93%E5%BA%93%E5%85%B3%E7%B3%BB",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "经销商配件发货仓库关系 - DealerWarehouseLink"
+        },
+        "EXEED:经销商配件加价率关系": {
+            "printouts": [],
+            "fulltext": "EXEED:经销商配件加价率关系",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%8F%E9%94%80%E5%95%86%E9%85%8D%E4%BB%B6%E5%8A%A0%E4%BB%B7%E7%8E%87%E5%85%B3%E7%B3%BB",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "经销商配件加价率关系 - DealerRaisingRateLink"
+        },
+        "EXEED:经销商配件库存": {
+            "printouts": [],
+            "fulltext": "EXEED:经销商配件库存",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%8F%E9%94%80%E5%95%86%E9%85%8D%E4%BB%B6%E5%BA%93%E5%AD%98",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "经销商配件库存 - PartStock"
+        },
+        "EXEED:经销商配件库存日结": {
+            "printouts": [],
+            "fulltext": "EXEED:经销商配件库存日结",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%8F%E9%94%80%E5%95%86%E9%85%8D%E4%BB%B6%E5%BA%93%E5%AD%98%E6%97%A5%E7%BB%93",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "经销商配件库存日结 - PartStockDailySettle"
+        },
+        "EXEED:经销商配件入库单": {
+            "printouts": [],
+            "fulltext": "EXEED:经销商配件入库单",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%8F%E9%94%80%E5%95%86%E9%85%8D%E4%BB%B6%E5%85%A5%E5%BA%93%E5%8D%95",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "经销商配件入库单 - PartIn"
+        },
+        "EXEED:经销商配件入库单清单": {
+            "printouts": [],
+            "fulltext": "EXEED:经销商配件入库单清单",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%8F%E9%94%80%E5%95%86%E9%85%8D%E4%BB%B6%E5%85%A5%E5%BA%93%E5%8D%95%E6%B8%85%E5%8D%95",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "经销商配件入库单清单 - PartInDetail"
+        },
+        "EXEED:经销商配件入库计划单": {
+            "printouts": [],
+            "fulltext": "EXEED:经销商配件入库计划单",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%8F%E9%94%80%E5%95%86%E9%85%8D%E4%BB%B6%E5%85%A5%E5%BA%93%E8%AE%A1%E5%88%92%E5%8D%95",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "经销商配件入库计划单 - PartInPlan"
+        },
+        "EXEED:经销商配件入库计划单清单": {
+            "printouts": [],
+            "fulltext": "EXEED:经销商配件入库计划单清单",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%8F%E9%94%80%E5%95%86%E9%85%8D%E4%BB%B6%E5%85%A5%E5%BA%93%E8%AE%A1%E5%88%92%E5%8D%95%E6%B8%85%E5%8D%95",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "经销商配件入库计划单清单 - PartInPlanDetail"
+        },
+        "EXEED:经销商配件套餐包": {
+            "printouts": [],
+            "fulltext": "EXEED:经销商配件套餐包",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%8F%E9%94%80%E5%95%86%E9%85%8D%E4%BB%B6%E5%A5%97%E9%A4%90%E5%8C%85",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "经销商配件套餐包 - DealerPartPackage"
+        },
+        "EXEED:经销商配件套餐包清单": {
+            "printouts": [],
+            "fulltext": "EXEED:经销商配件套餐包清单",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%8F%E9%94%80%E5%95%86%E9%85%8D%E4%BB%B6%E5%A5%97%E9%A4%90%E5%8C%85%E6%B8%85%E5%8D%95",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "经销商配件套餐包清单 - DealerPartPackageDetail"
+        },
+        "SALEEN:经销商销售经营权限": {
+            "printouts": [],
+            "fulltext": "SALEEN:经销商销售经营权限",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E7%BB%8F%E9%94%80%E5%95%86%E9%94%80%E5%94%AE%E7%BB%8F%E8%90%A5%E6%9D%83%E9%99%90",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "经销商销售经营权限 - DealerSalesBusinessPermit"
+        },
+        "SALEEN:经销商月度计划": {
+            "printouts": [],
+            "fulltext": "SALEEN:经销商月度计划",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E7%BB%8F%E9%94%80%E5%95%86%E6%9C%88%E5%BA%A6%E8%AE%A1%E5%88%92",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "经销商月度计划 - DealerMonthlyPlan"
+        },
+        "SALEEN:经销商月度计划清单": {
+            "printouts": [],
+            "fulltext": "SALEEN:经销商月度计划清单",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E7%BB%8F%E9%94%80%E5%95%86%E6%9C%88%E5%BA%A6%E8%AE%A1%E5%88%92%E6%B8%85%E5%8D%95",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "经销商月度计划清单 - DealerMonthlyPlanDeatil"
+        },
+        "SALEEN:经销商月度销售目标": {
+            "printouts": [],
+            "fulltext": "SALEEN:经销商月度销售目标",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E7%BB%8F%E9%94%80%E5%95%86%E6%9C%88%E5%BA%A6%E9%94%80%E5%94%AE%E7%9B%AE%E6%A0%87",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "经销商月度销售目标 - DealerMonthlySalesTarget"
+        },
+        "SALEEN:经销商月度销售目标清单": {
+            "printouts": [],
+            "fulltext": "SALEEN:经销商月度销售目标清单",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E7%BB%8F%E9%94%80%E5%95%86%E6%9C%88%E5%BA%A6%E9%94%80%E5%94%AE%E7%9B%AE%E6%A0%87%E6%B8%85%E5%8D%95",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "经销商月度销售目标清单 - DealerMonthlySalesTargetDetail"
+        },
+        "SALEEN:经销商营销信息": {
+            "printouts": [],
+            "fulltext": "SALEEN:经销商营销信息",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E7%BB%8F%E9%94%80%E5%95%86%E8%90%A5%E9%94%80%E4%BF%A1%E6%81%AF",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "经销商营销信息 - DealerSalesInfo"
+        },
+        "EXEED:经销商整车仓库": {
+            "printouts": [],
+            "fulltext": "EXEED:经销商整车仓库",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%8F%E9%94%80%E5%95%86%E6%95%B4%E8%BD%A6%E4%BB%93%E5%BA%93",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "经销商整车仓库 - DealerPartWarehouse"
+        },
+        "SALEEN:经销商整车库存": {
+            "printouts": [],
+            "fulltext": "SALEEN:经销商整车库存",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E7%BB%8F%E9%94%80%E5%95%86%E6%95%B4%E8%BD%A6%E5%BA%93%E5%AD%98",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "经销商整车库存 - DealerVehicleStock"
+        },
+        "EXEED:经销商整车库存": {
+            "printouts": [],
+            "fulltext": "EXEED:经销商整车库存",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%8F%E9%94%80%E5%95%86%E6%95%B4%E8%BD%A6%E5%BA%93%E5%AD%98",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "经销商整车库存 - DealerVehicleStock"
+        },
+        "EXEED:扣补款单": {
+            "printouts": [],
+            "fulltext": "EXEED:扣补款单",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%89%A3%E8%A1%A5%E6%AC%BE%E5%8D%95",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "扣补款单 - ExpenseAdjustmentBill"
+        },
+        "SALEEN:客户档案": {
+            "printouts": [],
+            "fulltext": "SALEEN:客户档案",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E5%AE%A2%E6%88%B7%E6%A1%A3%E6%A1%88",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "客户档案 - Customer"
+        },
+        "EXEED:客户档案": {
+            "printouts": [],
+            "fulltext": "EXEED:客户档案",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E5%AE%A2%E6%88%B7%E6%A1%A3%E6%A1%88",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "客户档案 - Customer"
+        },
+        "SALEEN:客户档案扩展信息": {
+            "printouts": [],
+            "fulltext": "SALEEN:客户档案扩展信息",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E5%AE%A2%E6%88%B7%E6%A1%A3%E6%A1%88%E6%89%A9%E5%B1%95%E4%BF%A1%E6%81%AF",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "客户档案扩展信息 - CustomerExtended"
+        },
+        "EXEED:客户档案扩展信息": {
+            "printouts": [],
+            "fulltext": "EXEED:客户档案扩展信息",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E5%AE%A2%E6%88%B7%E6%A1%A3%E6%A1%88%E6%89%A9%E5%B1%95%E4%BF%A1%E6%81%AF",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "客户档案扩展信息 - CustomerExtended"
+        },
+        "SALEEN:客户档案与车辆关系": {
+            "printouts": [],
+            "fulltext": "SALEEN:客户档案与车辆关系",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E5%AE%A2%E6%88%B7%E6%A1%A3%E6%A1%88%E4%B8%8E%E8%BD%A6%E8%BE%86%E5%85%B3%E7%B3%BB",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "客户档案与车辆关系 - CustomerVehicle"
+        },
+        "EXEED:客户档案与车辆关系": {
+            "printouts": [],
+            "fulltext": "EXEED:客户档案与车辆关系",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E5%AE%A2%E6%88%B7%E6%A1%A3%E6%A1%88%E4%B8%8E%E8%BD%A6%E8%BE%86%E5%85%B3%E7%B3%BB",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "客户档案与车辆关系 - CustomerVehicle"
+        },
+        "SALEEN:客户售后档案": {
+            "printouts": [],
+            "fulltext": "SALEEN:客户售后档案",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E5%AE%A2%E6%88%B7%E5%94%AE%E5%90%8E%E6%A1%A3%E6%A1%88",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "客户售后档案 - CustomerSold"
+        },
+        "EXEED:客户售后档案": {
+            "printouts": [],
+            "fulltext": "EXEED:客户售后档案",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E5%AE%A2%E6%88%B7%E5%94%AE%E5%90%8E%E6%A1%A3%E6%A1%88",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "客户售后档案 - CustomerSold"
+        },
+        "EXEED:客户售后档案（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:客户售后档案（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E5%AE%A2%E6%88%B7%E5%94%AE%E5%90%8E%E6%A1%A3%E6%A1%88%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "客户售后档案（DMS） - CustomerSold"
+        },
+        "SALEEN:客户售后档案扩展信息": {
+            "printouts": [],
+            "fulltext": "SALEEN:客户售后档案扩展信息",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E5%AE%A2%E6%88%B7%E5%94%AE%E5%90%8E%E6%A1%A3%E6%A1%88%E6%89%A9%E5%B1%95%E4%BF%A1%E6%81%AF",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "客户售后档案扩展信息 - CustomerSoldExtended"
+        },
+        "EXEED:客户售后档案扩展信息": {
+            "printouts": [],
+            "fulltext": "EXEED:客户售后档案扩展信息",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E5%AE%A2%E6%88%B7%E5%94%AE%E5%90%8E%E6%A1%A3%E6%A1%88%E6%89%A9%E5%B1%95%E4%BF%A1%E6%81%AF",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "客户售后档案扩展信息 - CustomerSoldExtended"
+        },
+        "EXEED:客户售后档案扩展信息（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:客户售后档案扩展信息（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E5%AE%A2%E6%88%B7%E5%94%AE%E5%90%8E%E6%A1%A3%E6%A1%88%E6%89%A9%E5%B1%95%E4%BF%A1%E6%81%AF%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "客户售后档案扩展信息（DMS） - CustomerSoldExtended"
+        },
+        "EXEED:客户售后档案与车辆关系": {
+            "printouts": [],
+            "fulltext": "EXEED:客户售后档案与车辆关系",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E5%AE%A2%E6%88%B7%E5%94%AE%E5%90%8E%E6%A1%A3%E6%A1%88%E4%B8%8E%E8%BD%A6%E8%BE%86%E5%85%B3%E7%B3%BB",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "客户售后档案与车辆关系 - CustomerVehicleSold"
+        },
+        "SALEEN:客户售后档案与车辆关系": {
+            "printouts": [],
+            "fulltext": "SALEEN:客户售后档案与车辆关系",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E5%AE%A2%E6%88%B7%E5%94%AE%E5%90%8E%E6%A1%A3%E6%A1%88%E4%B8%8E%E8%BD%A6%E8%BE%86%E5%85%B3%E7%B3%BB",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "客户售后档案与车辆关系 - CustomerVehicleSold"
+        },
+        "EXEED:客户售后档案与车辆关系（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:客户售后档案与车辆关系（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E5%AE%A2%E6%88%B7%E5%94%AE%E5%90%8E%E6%A1%A3%E6%A1%88%E4%B8%8E%E8%BD%A6%E8%BE%86%E5%85%B3%E7%B3%BB%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "客户售后档案与车辆关系（DMS） - CustomerVehicleSold"
+        },
+        "SALEEN:客户意向信息": {
+            "printouts": [],
+            "fulltext": "SALEEN:客户意向信息",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E5%AE%A2%E6%88%B7%E6%84%8F%E5%90%91%E4%BF%A1%E6%81%AF",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "客户意向信息 - CustomerIntention"
+        },
+        "EXEED:客户意向信息": {
+            "printouts": [],
+            "fulltext": "EXEED:客户意向信息",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E5%AE%A2%E6%88%B7%E6%84%8F%E5%90%91%E4%BF%A1%E6%81%AF",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "客户意向信息 - CustomerIntention"
+        },
+        "SALEEN:扩展信息模板": {
+            "printouts": [],
+            "fulltext": "SALEEN:扩展信息模板",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E6%89%A9%E5%B1%95%E4%BF%A1%E6%81%AF%E6%A8%A1%E6%9D%BF",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "扩展信息模板 - ExtendedInfoTemplate"
+        },
+        "EXEED:扩展信息模板": {
+            "printouts": [],
+            "fulltext": "EXEED:扩展信息模板",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%89%A9%E5%B1%95%E4%BF%A1%E6%81%AF%E6%A8%A1%E6%9D%BF",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "扩展信息模板 - ExtendedInfoTemplate"
+        },
+        "EXEED:扩展信息模板（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:扩展信息模板（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%89%A9%E5%B1%95%E4%BF%A1%E6%81%AF%E6%A8%A1%E6%9D%BF%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "扩展信息模板（DMS） - ExtendedInfoTemplate"
+        },
+        "EXEED:年度销售目标": {
+            "printouts": [],
+            "fulltext": "EXEED:年度销售目标",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E5%B9%B4%E5%BA%A6%E9%94%80%E5%94%AE%E7%9B%AE%E6%A0%87",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "年度销售目标 - VehicleMaintenanceStandard"
+        },
+        "SALEEN:年度销售目标": {
+            "printouts": [],
+            "fulltext": "SALEEN:年度销售目标",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E5%B9%B4%E5%BA%A6%E9%94%80%E5%94%AE%E7%9B%AE%E6%A0%87",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "年度销售目标 - AnnualSalesTarget"
+        },
+        "SALEEN:年度销售目标清单": {
+            "printouts": [],
+            "fulltext": "SALEEN:年度销售目标清单",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E5%B9%B4%E5%BA%A6%E9%94%80%E5%94%AE%E7%9B%AE%E6%A0%87%E6%B8%85%E5%8D%95",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "年度销售目标清单 - AnnualSalesTargetDetail"
+        },
+        "EXEED:配件保修分类标准": {
+            "printouts": [],
+            "fulltext": "EXEED:配件保修分类标准",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E4%BF%9D%E4%BF%AE%E5%88%86%E7%B1%BB%E6%A0%87%E5%87%86",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件保修分类标准 - PartWarrantyKind"
+        },
+        "EXEED:配件保修分类标准（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:配件保修分类标准（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E4%BF%9D%E4%BF%AE%E5%88%86%E7%B1%BB%E6%A0%87%E5%87%86%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件保修分类标准（DMS） - PartWarrantyKind"
+        },
+        "EXEED:配件保修政策": {
+            "printouts": [],
+            "fulltext": "EXEED:配件保修政策",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E4%BF%9D%E4%BF%AE%E6%94%BF%E7%AD%96",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件保修政策 - PartWarrantyStandard"
+        },
+        "EXEED:配件保修政策（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:配件保修政策（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E4%BF%9D%E4%BF%AE%E6%94%BF%E7%AD%96%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件保修政策（DMS） - PartWarrantyStandard"
+        },
+        "EXEED:配件保修政策条款": {
+            "printouts": [],
+            "fulltext": "EXEED:配件保修政策条款",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E4%BF%9D%E4%BF%AE%E6%94%BF%E7%AD%96%E6%9D%A1%E6%AC%BE",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件保修政策条款 - PartWarrantyStandardItem"
+        },
+        "EXEED:配件保修政策条款（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:配件保修政策条款（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E4%BF%9D%E4%BF%AE%E6%94%BF%E7%AD%96%E6%9D%A1%E6%AC%BE%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件保修政策条款（DMS） - PartWarrantyStandardItem"
+        },
+        "EXEED:配件保修政策条款车辆清单": {
+            "printouts": [],
+            "fulltext": "EXEED:配件保修政策条款车辆清单",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E4%BF%9D%E4%BF%AE%E6%94%BF%E7%AD%96%E6%9D%A1%E6%AC%BE%E8%BD%A6%E8%BE%86%E6%B8%85%E5%8D%95",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件保修政策条款车辆清单 - VehiclePartWarrantyStdItem"
+        },
+        "EXEED:配件保修政策条款车辆清单（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:配件保修政策条款车辆清单（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E4%BF%9D%E4%BF%AE%E6%94%BF%E7%AD%96%E6%9D%A1%E6%AC%BE%E8%BD%A6%E8%BE%86%E6%B8%85%E5%8D%95%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件保修政策条款车辆清单（DMS） - VehiclePartWarrantyStandardItem"
+        },
+        "EXEED:配件保修政策条款车型清单": {
+            "printouts": [],
+            "fulltext": "EXEED:配件保修政策条款车型清单",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E4%BF%9D%E4%BF%AE%E6%94%BF%E7%AD%96%E6%9D%A1%E6%AC%BE%E8%BD%A6%E5%9E%8B%E6%B8%85%E5%8D%95",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件保修政策条款车型清单 - VehiclePartWarrantyStandard"
+        },
+        "EXEED:配件保修政策条款车型清单（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:配件保修政策条款车型清单（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E4%BF%9D%E4%BF%AE%E6%94%BF%E7%AD%96%E6%9D%A1%E6%AC%BE%E8%BD%A6%E5%9E%8B%E6%B8%85%E5%8D%95%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件保修政策条款车型清单（DMS） - VehiclePartWarrantyStandard"
+        },
+        "EXEED:配件成本调整单": {
+            "printouts": [],
+            "fulltext": "EXEED:配件成本调整单",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E6%88%90%E6%9C%AC%E8%B0%83%E6%95%B4%E5%8D%95",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件成本调整单 - PartCostAdjustmentBill"
+        },
+        "EXEED:配件成本调整单清单": {
+            "printouts": [],
+            "fulltext": "EXEED:配件成本调整单清单",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E6%88%90%E6%9C%AC%E8%B0%83%E6%95%B4%E5%8D%95%E6%B8%85%E5%8D%95",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件成本调整单清单 - PartCostAdjustmentDetail"
+        },
+        "EXEED:配件仓库": {
+            "printouts": [],
+            "fulltext": "EXEED:配件仓库",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E4%BB%93%E5%BA%93",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件仓库 - Warehouse"
+        },
+        "EXEED:配件调拨单": {
+            "printouts": [],
+            "fulltext": "EXEED:配件调拨单",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E8%B0%83%E6%8B%A8%E5%8D%95",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件调拨单 - PartTransferOrder"
+        },
+        "EXEED:配件调拨单清单": {
+            "printouts": [],
+            "fulltext": "EXEED:配件调拨单清单",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E8%B0%83%E6%8B%A8%E5%8D%95%E6%B8%85%E5%8D%95",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件调拨单清单 - PartTransferOrderDetail"
+        },
+        "EXEED:配件定位存储信息": {
+            "printouts": [],
+            "fulltext": "EXEED:配件定位存储信息",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E5%AE%9A%E4%BD%8D%E5%AD%98%E5%82%A8%E4%BF%A1%E6%81%AF",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件定位存储信息 - PartFixedStock"
+        },
+        "EXEED:配件发运单": {
+            "printouts": [],
+            "fulltext": "EXEED:配件发运单",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E5%8F%91%E8%BF%90%E5%8D%95",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件发运单 - PartShipment"
+        },
+        "EXEED:配件发运单清单": {
+            "printouts": [],
+            "fulltext": "EXEED:配件发运单清单",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E5%8F%91%E8%BF%90%E5%8D%95%E6%B8%85%E5%8D%95",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件发运单清单 - PartShipmentDetail"
+        },
+        "EXEED:配件管理费率等级": {
+            "printouts": [],
+            "fulltext": "EXEED:配件管理费率等级",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E7%AE%A1%E7%90%86%E8%B4%B9%E7%8E%87%E7%AD%89%E7%BA%A7",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件管理费率等级 - PartManagementFeeGrand"
+        },
+        "EXEED:配件管理费率等级履历": {
+            "printouts": [],
+            "fulltext": "EXEED:配件管理费率等级履历",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E7%AE%A1%E7%90%86%E8%B4%B9%E7%8E%87%E7%AD%89%E7%BA%A7%E5%B1%A5%E5%8E%86",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件管理费率等级履历 - PartManagementFeeGrandHis"
+        },
+        "EXEED:配件管理费率等级清单": {
+            "printouts": [],
+            "fulltext": "EXEED:配件管理费率等级清单",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E7%AE%A1%E7%90%86%E8%B4%B9%E7%8E%87%E7%AD%89%E7%BA%A7%E6%B8%85%E5%8D%95",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件管理费率等级清单 - PartManagementFeeGrandDetail"
+        },
+        "EXEED:配件管理费率等级清单履历": {
+            "printouts": [],
+            "fulltext": "EXEED:配件管理费率等级清单履历",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E7%AE%A1%E7%90%86%E8%B4%B9%E7%8E%87%E7%AD%89%E7%BA%A7%E6%B8%85%E5%8D%95%E5%B1%A5%E5%8E%86",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件管理费率等级清单履历 - PartManagementFeeGrandDetailHis"
+        },
+        "EXEED:配件价格": {
+            "printouts": [],
+            "fulltext": "EXEED:配件价格",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E4%BB%B7%E6%A0%BC",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件价格 - PartPrice"
+        },
+        "EXEED:配件价格（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:配件价格（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E4%BB%B7%E6%A0%BC%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件价格（DMS） - PartPrice"
+        },
+        "EXEED:配件价格履历": {
+            "printouts": [],
+            "fulltext": "EXEED:配件价格履历",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E4%BB%B7%E6%A0%BC%E5%B1%A5%E5%8E%86",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件价格履历 - PartPriceHistory"
+        },
+        "EXEED:配件交接单": {
+            "printouts": [],
+            "fulltext": "EXEED:配件交接单",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E4%BA%A4%E6%8E%A5%E5%8D%95",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件交接单 - PartHandOver"
+        },
+        "EXEED:配件库存": {
+            "printouts": [],
+            "fulltext": "EXEED:配件库存",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E5%BA%93%E5%AD%98",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件库存 - PartStock"
+        },
+        "EXEED:配件库存成本": {
+            "printouts": [],
+            "fulltext": "EXEED:配件库存成本",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E5%BA%93%E5%AD%98%E6%88%90%E6%9C%AC",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件库存成本 - PartStockCost"
+        },
+        "EXEED:配件内部领用单": {
+            "printouts": [],
+            "fulltext": "EXEED:配件内部领用单",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E5%86%85%E9%83%A8%E9%A2%86%E7%94%A8%E5%8D%95",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件内部领用单 - PartInternalRequisition"
+        },
+        "EXEED:配件内部领用单清单": {
+            "printouts": [],
+            "fulltext": "EXEED:配件内部领用单清单",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E5%86%85%E9%83%A8%E9%A2%86%E7%94%A8%E5%8D%95%E6%B8%85%E5%8D%95",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件内部领用单清单 - PartRequisitionDetail"
+        },
+        "EXEED:配件盘点单": {
+            "printouts": [],
+            "fulltext": "EXEED:配件盘点单",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E7%9B%98%E7%82%B9%E5%8D%95",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件盘点单 - PartInventory"
+        },
+        "EXEED:配件盘点单清单": {
+            "printouts": [],
+            "fulltext": "EXEED:配件盘点单清单",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E7%9B%98%E7%82%B9%E5%8D%95%E6%B8%85%E5%8D%95",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件盘点单清单 - PartInventoryDetail"
+        },
+        "EXEED:配件售后信息": {
+            "printouts": [],
+            "fulltext": "EXEED:配件售后信息",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E5%94%AE%E5%90%8E%E4%BF%A1%E6%81%AF",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件售后信息 - PartSaledInfo"
+        },
+        "EXEED:配件替代件信息": {
+            "printouts": [],
+            "fulltext": "EXEED:配件替代件信息",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E6%9B%BF%E4%BB%A3%E4%BB%B6%E4%BF%A1%E6%81%AF",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件替代件信息 - PartReplacement"
+        },
+        "EXEED:配件替代件信息（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:配件替代件信息（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E6%9B%BF%E4%BB%A3%E4%BB%B6%E4%BF%A1%E6%81%AF%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件替代件信息（DMS） - PartReplacement"
+        },
+        "EXEED:配件替代件信息履历": {
+            "printouts": [],
+            "fulltext": "EXEED:配件替代件信息履历",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E6%9B%BF%E4%BB%A3%E4%BB%B6%E4%BF%A1%E6%81%AF%E5%B1%A5%E5%8E%86",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件替代件信息履历 - PartReplacementHistory"
+        },
+        "EXEED:配件销售订单": {
+            "printouts": [],
+            "fulltext": "EXEED:配件销售订单",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E9%94%80%E5%94%AE%E8%AE%A2%E5%8D%95",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件销售订单 - PartSaleOrder"
+        },
+        "EXEED:配件销售订单类型不可提报配件清单": {
+            "printouts": [],
+            "fulltext": "EXEED:配件销售订单类型不可提报配件清单",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E9%94%80%E5%94%AE%E8%AE%A2%E5%8D%95%E7%B1%BB%E5%9E%8B%E4%B8%8D%E5%8F%AF%E6%8F%90%E6%8A%A5%E9%85%8D%E4%BB%B6%E6%B8%85%E5%8D%95",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件销售订单类型不可提报配件清单 - SaleOrderTypeNoSubmitPartLink"
+        },
+        "EXEED:配件销售订单类型凭证关系": {
+            "printouts": [],
+            "fulltext": "EXEED:配件销售订单类型凭证关系",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E9%94%80%E5%94%AE%E8%AE%A2%E5%8D%95%E7%B1%BB%E5%9E%8B%E5%87%AD%E8%AF%81%E5%85%B3%E7%B3%BB",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件销售订单类型凭证关系 - SaleOrderTypeCreditLink"
+        },
+        "EXEED:配件销售订单清单": {
+            "printouts": [],
+            "fulltext": "EXEED:配件销售订单清单",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E9%94%80%E5%94%AE%E8%AE%A2%E5%8D%95%E6%B8%85%E5%8D%95",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件销售订单清单 - PartSaleOrderDetail"
+        },
+        "EXEED:配件销售组织": {
+            "printouts": [],
+            "fulltext": "EXEED:配件销售组织",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E9%94%80%E5%94%AE%E7%BB%84%E7%BB%87",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件销售组织 - PartSaleOrganization"
+        },
+        "EXEED:配件信息": {
+            "printouts": [],
+            "fulltext": "EXEED:配件信息",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E4%BF%A1%E6%81%AF",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件信息 - Part"
+        },
+        "EXEED:配件信息（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:配件信息（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E4%BF%A1%E6%81%AF%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件信息（DMS） - Part"
+        },
+        "EXEED:配件信息履历": {
+            "printouts": [],
+            "fulltext": "EXEED:配件信息履历",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E4%BF%A1%E6%81%AF%E5%B1%A5%E5%8E%86",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件信息履历 - PartHistory"
+        },
+        "EXEED:配件信息履历（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:配件信息履历（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E4%BF%A1%E6%81%AF%E5%B1%A5%E5%8E%86%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件信息履历（DMS） - PartHistory"
+        },
+        "EXEED:配件移库单": {
+            "printouts": [],
+            "fulltext": "EXEED:配件移库单",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E7%A7%BB%E5%BA%93%E5%8D%95",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件移库单 - PartShiftOrder"
+        },
+        "EXEED:配件移库单清单": {
+            "printouts": [],
+            "fulltext": "EXEED:配件移库单清单",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E7%A7%BB%E5%BA%93%E5%8D%95%E6%B8%85%E5%8D%95",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件移库单清单 - PartShiftOrderDetail"
+        },
+        "EXEED:配件资金类型": {
+            "printouts": [],
+            "fulltext": "EXEED:配件资金类型",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E9%85%8D%E4%BB%B6%E8%B5%84%E9%87%91%E7%B1%BB%E5%9E%8B",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "配件资金类型 - PartFundsType"
+        },
+        "EXEED:企业": {
+            "printouts": [],
+            "fulltext": "EXEED:企业",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E4%BC%81%E4%B8%9A",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "企业 - Company"
+        },
+        "SALEEN:企业": {
+            "printouts": [],
+            "fulltext": "SALEEN:企业",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E4%BC%81%E4%B8%9A",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "企业 - Company"
+        },
+        "EXEED:企业（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:企业（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E4%BC%81%E4%B8%9A%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "企业（DMS） - Company"
+        },
+        "EXEED:企业开票信息（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:企业开票信息（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E4%BC%81%E4%B8%9A%E5%BC%80%E7%A5%A8%E4%BF%A1%E6%81%AF%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "企业开票信息（DMS） - CompanyInvoiceInfo"
+        },
+        "EXEED:企业类型": {
+            "printouts": [],
+            "fulltext": "EXEED:企业类型",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E4%BC%81%E4%B8%9A%E7%B1%BB%E5%9E%8B",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "企业类型 - CorpType"
+        },
+        "EXEED:企业类型（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:企业类型（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E4%BC%81%E4%B8%9A%E7%B1%BB%E5%9E%8B%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "企业类型（DMS） - CorpType"
+        },
+        "SALEEN:企业收货地址": {
+            "printouts": [],
+            "fulltext": "SALEEN:企业收货地址",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E4%BC%81%E4%B8%9A%E6%94%B6%E8%B4%A7%E5%9C%B0%E5%9D%80",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "企业收货地址 - CompanyAddress"
+        },
+        "EXEED:人员工单操作权限": {
+            "printouts": [],
+            "fulltext": "EXEED:人员工单操作权限",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E4%BA%BA%E5%91%98%E5%B7%A5%E5%8D%95%E6%93%8D%E4%BD%9C%E6%9D%83%E9%99%90",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "人员工单操作权限 - PersonContractOperAuthority"
+        },
+        "SALEEN:人员信息": {
+            "printouts": [],
+            "fulltext": "SALEEN:人员信息",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E4%BA%BA%E5%91%98%E4%BF%A1%E6%81%AF",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "人员信息 - Personel"
+        },
+        "EXEED:人员信息": {
+            "printouts": [],
+            "fulltext": "EXEED:人员信息",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E4%BA%BA%E5%91%98%E4%BF%A1%E6%81%AF",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "人员信息 - Personnel"
+        },
+        "EXEED:人员信息（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:人员信息（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E4%BA%BA%E5%91%98%E4%BF%A1%E6%81%AF%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "人员信息（DMS） - Personnel"
+        },
+        "EXEED:人员折扣": {
+            "printouts": [],
+            "fulltext": "EXEED:人员折扣",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E4%BA%BA%E5%91%98%E6%8A%98%E6%89%A3",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "人员折扣 - PersonDiscount"
+        },
+        "SALEEN:市场部": {
+            "printouts": [],
+            "fulltext": "SALEEN:市场部",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E5%B8%82%E5%9C%BA%E9%83%A8",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "市场部 - Market"
+        },
+        "SALEEN:市场部经销商关系": {
+            "printouts": [],
+            "fulltext": "SALEEN:市场部经销商关系",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E5%B8%82%E5%9C%BA%E9%83%A8%E7%BB%8F%E9%94%80%E5%95%86%E5%85%B3%E7%B3%BB",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "市场部经销商关系 - DealerMarketDptRelation"
+        },
+        "SALEEN:生产工厂": {
+            "printouts": [],
+            "fulltext": "SALEEN:生产工厂",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E7%94%9F%E4%BA%A7%E5%B7%A5%E5%8E%82",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "生产工厂 - Manufacturer"
+        },
+        "EXEED:生产工厂": {
+            "printouts": [],
+            "fulltext": "EXEED:生产工厂",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%94%9F%E4%BA%A7%E5%B7%A5%E5%8E%82",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "生产工厂 - Manufacturer"
+        },
+        "SALEEN:售后车辆信息": {
+            "printouts": [],
+            "fulltext": "SALEEN:售后车辆信息",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E5%94%AE%E5%90%8E%E8%BD%A6%E8%BE%86%E4%BF%A1%E6%81%AF",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "售后车辆信息 - VehicleSaledInfo"
+        },
+        "EXEED:索赔申请单": {
+            "printouts": [],
+            "fulltext": "EXEED:索赔申请单",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%B4%A2%E8%B5%94%E7%94%B3%E8%AF%B7%E5%8D%95",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "索赔申请单 - ApplyReport"
+        },
+        "EXEED:索赔申请单材料清单": {
+            "printouts": [],
+            "fulltext": "EXEED:索赔申请单材料清单",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%B4%A2%E8%B5%94%E7%94%B3%E8%AF%B7%E5%8D%95%E6%9D%90%E6%96%99%E6%B8%85%E5%8D%95",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "索赔申请单材料清单 - ApplyReportMaterial"
+        },
+        "EXEED:索赔申请单审核结果清单": {
+            "printouts": [],
+            "fulltext": "EXEED:索赔申请单审核结果清单",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%B4%A2%E8%B5%94%E7%94%B3%E8%AF%B7%E5%8D%95%E5%AE%A1%E6%A0%B8%E7%BB%93%E6%9E%9C%E6%B8%85%E5%8D%95",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "索赔申请单审核结果清单 - ApplyReportApproveResult"
+        },
+        "EXEED:索赔申请单项目清单": {
+            "printouts": [],
+            "fulltext": "EXEED:索赔申请单项目清单",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%B4%A2%E8%B5%94%E7%94%B3%E8%AF%B7%E5%8D%95%E9%A1%B9%E7%9B%AE%E6%B8%85%E5%8D%95",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "索赔申请单项目清单 - ApplyReportWorkItem"
+        },
+        "EXEED:索赔申诉单": {
+            "printouts": [],
+            "fulltext": "EXEED:索赔申诉单",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%B4%A2%E8%B5%94%E7%94%B3%E8%AF%89%E5%8D%95",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "索赔申诉单 - ClaimComplainBill"
+        },
+        "SALEEN:省市区县": {
+            "printouts": [],
+            "fulltext": "SALEEN:省市区县",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E7%9C%81%E5%B8%82%E5%8C%BA%E5%8E%BF",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "省市区县 - Area"
+        },
+        "EXEED:省市区县": {
+            "printouts": [],
+            "fulltext": "EXEED:省市区县",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%9C%81%E5%B8%82%E5%8C%BA%E5%8E%BF",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "省市区县 - Area"
+        },
+        "EXEED:省市区县（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:省市区县（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%9C%81%E5%B8%82%E5%8C%BA%E5%8E%BF%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "省市区县（DMS） - Area"
+        },
+        "EXEED:省市区县横表": {
+            "printouts": [],
+            "fulltext": "EXEED:省市区县横表",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%9C%81%E5%B8%82%E5%8C%BA%E5%8E%BF%E6%A8%AA%E8%A1%A8",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "省市区县横表 - AreaTransposed"
+        },
+        "SALEEN:省市区县横表": {
+            "printouts": [],
+            "fulltext": "SALEEN:省市区县横表",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E7%9C%81%E5%B8%82%E5%8C%BA%E5%8E%BF%E6%A8%AA%E8%A1%A8",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "省市区县横表 - AreaTransposed"
+        },
+        "EXEED:省市区县横表（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:省市区县横表（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%9C%81%E5%B8%82%E5%8C%BA%E5%8E%BF%E6%A8%AA%E8%A1%A8%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "省市区县横表（DMS） - AreaTransposed"
+        },
+        "EXEED:外出索赔申请单": {
+            "printouts": [],
+            "fulltext": "EXEED:外出索赔申请单",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E5%A4%96%E5%87%BA%E7%B4%A2%E8%B5%94%E7%94%B3%E8%AF%B7%E5%8D%95",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "外出索赔申请单 - OutClaimApply"
+        },
+        "EXEED:外出索赔申请单清单": {
+            "printouts": [],
+            "fulltext": "EXEED:外出索赔申请单清单",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E5%A4%96%E5%87%BA%E7%B4%A2%E8%B5%94%E7%94%B3%E8%AF%B7%E5%8D%95%E6%B8%85%E5%8D%95",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "外出索赔申请单清单 - OutClaimApplyDetail"
+        },
+        "EXEED:外出索赔项目类别": {
+            "printouts": [],
+            "fulltext": "EXEED:外出索赔项目类别",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E5%A4%96%E5%87%BA%E7%B4%A2%E8%B5%94%E9%A1%B9%E7%9B%AE%E7%B1%BB%E5%88%AB",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "外出索赔项目类别 - OutClaimItemCategory"
+        },
+        "EXEED:维修班组": {
+            "printouts": [],
+            "fulltext": "EXEED:维修班组",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E7%8F%AD%E7%BB%84",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修班组 - RepairTeam"
+        },
+        "EXEED:维修班组人员清单": {
+            "printouts": [],
+            "fulltext": "EXEED:维修班组人员清单",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E7%8F%AD%E7%BB%84%E4%BA%BA%E5%91%98%E6%B8%85%E5%8D%95",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修班组人员清单 - RepairTeamMember"
+        },
+        "EXEED:维修合同（DCS）": {
+            "printouts": [],
+            "fulltext": "EXEED:维修合同（DCS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E5%90%88%E5%90%8C%EF%BC%88DCS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修合同（DCS） - RepairOrder"
+        },
+        "EXEED:维修合同（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:维修合同（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E5%90%88%E5%90%8C%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修合同（DMS） - RepairOrder"
+        },
+        "EXEED:维修合同材料清单（DCS）": {
+            "printouts": [],
+            "fulltext": "EXEED:维修合同材料清单（DCS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E5%90%88%E5%90%8C%E6%9D%90%E6%96%99%E6%B8%85%E5%8D%95%EF%BC%88DCS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修合同材料清单（DCS） - RepairOrderMaterial"
+        },
+        "EXEED:维修合同材料清单（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:维修合同材料清单（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E5%90%88%E5%90%8C%E6%9D%90%E6%96%99%E6%B8%85%E5%8D%95%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修合同材料清单（DMS） - RepairOrderMaterial"
+        },
+        "EXEED:维修合同调整单（DCS）": {
+            "printouts": [],
+            "fulltext": "EXEED:维修合同调整单（DCS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E5%90%88%E5%90%8C%E8%B0%83%E6%95%B4%E5%8D%95%EF%BC%88DCS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修合同调整单（DCS） - RepairOrderAdjust"
+        },
+        "EXEED:维修合同调整单（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:维修合同调整单（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E5%90%88%E5%90%8C%E8%B0%83%E6%95%B4%E5%8D%95%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修合同调整单（DMS） - RepairOrderAdjust"
+        },
+        "EXEED:维修合同调整单材料清单（DCS）": {
+            "printouts": [],
+            "fulltext": "EXEED:维修合同调整单材料清单（DCS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E5%90%88%E5%90%8C%E8%B0%83%E6%95%B4%E5%8D%95%E6%9D%90%E6%96%99%E6%B8%85%E5%8D%95%EF%BC%88DCS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修合同调整单材料清单（DCS） - RepairOrderAdjustMaterial"
+        },
+        "EXEED:维修合同调整单材料清单（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:维修合同调整单材料清单（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E5%90%88%E5%90%8C%E8%B0%83%E6%95%B4%E5%8D%95%E6%9D%90%E6%96%99%E6%B8%85%E5%8D%95%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修合同调整单材料清单（DMS） - RepairOrderAdjustMaterial"
+        },
+        "EXEED:维修合同调整单项目清单（DCS）": {
+            "printouts": [],
+            "fulltext": "EXEED:维修合同调整单项目清单（DCS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E5%90%88%E5%90%8C%E8%B0%83%E6%95%B4%E5%8D%95%E9%A1%B9%E7%9B%AE%E6%B8%85%E5%8D%95%EF%BC%88DCS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修合同调整单项目清单（DCS） - RepairOrderAdjustItem"
+        },
+        "EXEED:维修合同调整单项目清单（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:维修合同调整单项目清单（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E5%90%88%E5%90%8C%E8%B0%83%E6%95%B4%E5%8D%95%E9%A1%B9%E7%9B%AE%E6%B8%85%E5%8D%95%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修合同调整单项目清单（DMS） - RepairOrderAdjustItem"
+        },
+        "EXEED:维修合同项目清单（DCS）": {
+            "printouts": [],
+            "fulltext": "EXEED:维修合同项目清单（DCS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E5%90%88%E5%90%8C%E9%A1%B9%E7%9B%AE%E6%B8%85%E5%8D%95%EF%BC%88DCS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修合同项目清单（DCS） - RepairOrderItem"
+        },
+        "EXEED:维修合同项目清单（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:维修合同项目清单（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E5%90%88%E5%90%8C%E9%A1%B9%E7%9B%AE%E6%B8%85%E5%8D%95%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修合同项目清单（DMS） - RepairOrderItem"
+        },
+        "EXEED:维修结算单": {
+            "printouts": [],
+            "fulltext": "EXEED:维修结算单",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E7%BB%93%E7%AE%97%E5%8D%95",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修结算单 - RepairAccountingOrder"
+        },
+        "EXEED:维修结算单材料清单": {
+            "printouts": [],
+            "fulltext": "EXEED:维修结算单材料清单",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E7%BB%93%E7%AE%97%E5%8D%95%E6%9D%90%E6%96%99%E6%B8%85%E5%8D%95",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修结算单材料清单 - RepairAccMaterialDetail"
+        },
+        "EXEED:维修结算单抵用券清单": {
+            "printouts": [],
+            "fulltext": "EXEED:维修结算单抵用券清单",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E7%BB%93%E7%AE%97%E5%8D%95%E6%8A%B5%E7%94%A8%E5%88%B8%E6%B8%85%E5%8D%95",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修结算单抵用券清单 - RepairAccountingOrderVoucher"
+        },
+        "EXEED:维修结算单项目清单": {
+            "printouts": [],
+            "fulltext": "EXEED:维修结算单项目清单",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E7%BB%93%E7%AE%97%E5%8D%95%E9%A1%B9%E7%9B%AE%E6%B8%85%E5%8D%95",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修结算单项目清单 - RepairAccountingItemDetail"
+        },
+        "EXEED:维修领退料单": {
+            "printouts": [],
+            "fulltext": "EXEED:维修领退料单",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E9%A2%86%E9%80%80%E6%96%99%E5%8D%95",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修领退料单 - RepairRequisitionOrder"
+        },
+        "EXEED:维修领退料单清单": {
+            "printouts": [],
+            "fulltext": "EXEED:维修领退料单清单",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E9%A2%86%E9%80%80%E6%96%99%E5%8D%95%E6%B8%85%E5%8D%95",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修领退料单清单 - RepairRequisitionDetail"
+        },
+        "EXEED:维修模板（DCS）": {
+            "printouts": [],
+            "fulltext": "EXEED:维修模板（DCS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E6%A8%A1%E6%9D%BF%EF%BC%88DCS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修模板（DCS） - RepairTemplate"
+        },
+        "EXEED:维修模板（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:维修模板（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E6%A8%A1%E6%9D%BF%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修模板（DMS） - RepairTemplate"
+        },
+        "EXEED:维修模板材料清单（DCS）": {
+            "printouts": [],
+            "fulltext": "EXEED:维修模板材料清单（DCS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E6%A8%A1%E6%9D%BF%E6%9D%90%E6%96%99%E6%B8%85%E5%8D%95%EF%BC%88DCS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修模板材料清单（DCS） - RepairTemplateMaterial"
+        },
+        "EXEED:维修模板材料清单（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:维修模板材料清单（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E6%A8%A1%E6%9D%BF%E6%9D%90%E6%96%99%E6%B8%85%E5%8D%95%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修模板材料清单（DMS） - RepairTemplateMaterial"
+        },
+        "EXEED:维修模板适用车型（DCS）": {
+            "printouts": [],
+            "fulltext": "EXEED:维修模板适用车型（DCS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E6%A8%A1%E6%9D%BF%E9%80%82%E7%94%A8%E8%BD%A6%E5%9E%8B%EF%BC%88DCS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修模板适用车型（DCS） - RepairTemplateVehicleCategory"
+        },
+        "EXEED:维修模板适用车型（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:维修模板适用车型（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E6%A8%A1%E6%9D%BF%E9%80%82%E7%94%A8%E8%BD%A6%E5%9E%8B%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修模板适用车型（DMS） - RepairTemplateVehicleCategory"
+        },
+        "EXEED:维修模板项目清单（DCS）": {
+            "printouts": [],
+            "fulltext": "EXEED:维修模板项目清单（DCS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E6%A8%A1%E6%9D%BF%E9%A1%B9%E7%9B%AE%E6%B8%85%E5%8D%95%EF%BC%88DCS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修模板项目清单（DCS） - RepairTemplateItem"
+        },
+        "EXEED:维修模板项目清单（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:维修模板项目清单（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E6%A8%A1%E6%9D%BF%E9%A1%B9%E7%9B%AE%E6%B8%85%E5%8D%95%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修模板项目清单（DMS） - RepairTemplateItem"
+        },
+        "EXEED:维修模式": {
+            "printouts": [],
+            "fulltext": "EXEED:维修模式",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E6%A8%A1%E5%BC%8F",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修模式 - RepairMode"
+        },
+        "EXEED:维修模式（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:维修模式（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E6%A8%A1%E5%BC%8F%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修模式（DMS） - RepairMode"
+        },
+        "EXEED:维修索赔单": {
+            "printouts": [],
+            "fulltext": "EXEED:维修索赔单",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E7%B4%A2%E8%B5%94%E5%8D%95",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修索赔单 - ClaimBill"
+        },
+        "EXEED:维修索赔单材料清单": {
+            "printouts": [],
+            "fulltext": "EXEED:维修索赔单材料清单",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E7%B4%A2%E8%B5%94%E5%8D%95%E6%9D%90%E6%96%99%E6%B8%85%E5%8D%95",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修索赔单材料清单 - ClaimBillMaterial"
+        },
+        "EXEED:维修索赔单审核结果清单": {
+            "printouts": [],
+            "fulltext": "EXEED:维修索赔单审核结果清单",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E7%B4%A2%E8%B5%94%E5%8D%95%E5%AE%A1%E6%A0%B8%E7%BB%93%E6%9E%9C%E6%B8%85%E5%8D%95",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修索赔单审核结果清单 - ClaimBillApproveResult"
+        },
+        "EXEED:维修索赔单项目清单": {
+            "printouts": [],
+            "fulltext": "EXEED:维修索赔单项目清单",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E7%B4%A2%E8%B5%94%E5%8D%95%E9%A1%B9%E7%9B%AE%E6%B8%85%E5%8D%95",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修索赔单项目清单 - ClaimBillItem"
+        },
+        "EXEED:维修索赔需申请项目清单": {
+            "printouts": [],
+            "fulltext": "EXEED:维修索赔需申请项目清单",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E7%B4%A2%E8%B5%94%E9%9C%80%E7%94%B3%E8%AF%B7%E9%A1%B9%E7%9B%AE%E6%B8%85%E5%8D%95",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修索赔需申请项目清单 - RepairClaimNeedAppItem"
+        },
+        "EXEED:维修项目": {
+            "printouts": [],
+            "fulltext": "EXEED:维修项目",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E9%A1%B9%E7%9B%AE",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修项目 - WorkItem"
+        },
+        "EXEED:维修项目（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:维修项目（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E9%A1%B9%E7%9B%AE%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修项目（DMS） - WorkItem"
+        },
+        "EXEED:维修项目产品分类关系": {
+            "printouts": [],
+            "fulltext": "EXEED:维修项目产品分类关系",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E9%A1%B9%E7%9B%AE%E4%BA%A7%E5%93%81%E5%88%86%E7%B1%BB%E5%85%B3%E7%B3%BB",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修项目产品分类关系 - WorkItemProductCategory"
+        },
+        "EXEED:维修项目产品分类关系（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:维修项目产品分类关系（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E9%A1%B9%E7%9B%AE%E4%BA%A7%E5%93%81%E5%88%86%E7%B1%BB%E5%85%B3%E7%B3%BB%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修项目产品分类关系（DMS） - WorkItemProductCategory"
+        },
+        "EXEED:维修项目产品分类关系履历": {
+            "printouts": [],
+            "fulltext": "EXEED:维修项目产品分类关系履历",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E9%A1%B9%E7%9B%AE%E4%BA%A7%E5%93%81%E5%88%86%E7%B1%BB%E5%85%B3%E7%B3%BB%E5%B1%A5%E5%8E%86",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修项目产品分类关系履历 - WorkItemProductCatHis"
+        },
+        "EXEED:维修项目产品分类关系履历（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:维修项目产品分类关系履历（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E9%A1%B9%E7%9B%AE%E4%BA%A7%E5%93%81%E5%88%86%E7%B1%BB%E5%85%B3%E7%B3%BB%E5%B1%A5%E5%8E%86%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修项目产品分类关系履历（DMS） - WorkItemProductCatHis"
+        },
+        "EXEED:维修项目分类": {
+            "printouts": [],
+            "fulltext": "EXEED:维修项目分类",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修项目分类 - WorkItemCategory"
+        },
+        "EXEED:维修项目分类（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:维修项目分类（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修项目分类（DMS） - WorkItemCategory"
+        },
+        "EXEED:维修项目分类类型": {
+            "printouts": [],
+            "fulltext": "EXEED:维修项目分类类型",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E7%B1%BB%E5%9E%8B",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修项目分类类型 - WorkItemCategoryType"
+        },
+        "EXEED:维修项目分类类型（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:维修项目分类类型（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E7%B1%BB%E5%9E%8B%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修项目分类类型（DMS） - WorkItemCategoryType"
+        },
+        "EXEED:维修项目辅助项目清单": {
+            "printouts": [],
+            "fulltext": "EXEED:维修项目辅助项目清单",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E9%A1%B9%E7%9B%AE%E8%BE%85%E5%8A%A9%E9%A1%B9%E7%9B%AE%E6%B8%85%E5%8D%95",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修项目辅助项目清单 - WorkItemAssistItem"
+        },
+        "EXEED:维修项目辅助项目清单（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:维修项目辅助项目清单（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E9%A1%B9%E7%9B%AE%E8%BE%85%E5%8A%A9%E9%A1%B9%E7%9B%AE%E6%B8%85%E5%8D%95%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修项目辅助项目清单（DMS） - WorkItemAssistItem"
+        },
+        "EXEED:维修预检单": {
+            "printouts": [],
+            "fulltext": "EXEED:维修预检单",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E9%A2%84%E6%A3%80%E5%8D%95",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修预检单 - RingVehicleInspection"
+        },
+        "EXEED:维修预约单": {
+            "printouts": [],
+            "fulltext": "EXEED:维修预约单",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E9%A2%84%E7%BA%A6%E5%8D%95",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修预约单 - RepairAppointment"
+        },
+        "EXEED:维修预约单材料清单": {
+            "printouts": [],
+            "fulltext": "EXEED:维修预约单材料清单",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E7%BB%B4%E4%BF%AE%E9%A2%84%E7%BA%A6%E5%8D%95%E6%9D%90%E6%96%99%E6%B8%85%E5%8D%95",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "维修预约单材料清单 - RepairTemplateMaterial"
+        },
+        "SALEEN:营销分公司": {
+            "printouts": [],
+            "fulltext": "SALEEN:营销分公司",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E8%90%A5%E9%94%80%E5%88%86%E5%85%AC%E5%8F%B8",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "营销分公司 - Company"
+        },
+        "EXEED:整车保修政策": {
+            "printouts": [],
+            "fulltext": "EXEED:整车保修政策",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%B4%E8%BD%A6%E4%BF%9D%E4%BF%AE%E6%94%BF%E7%AD%96",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "整车保修政策 - WarrantyPolicy"
+        },
+        "EXEED:整车保修政策（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:整车保修政策（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%B4%E8%BD%A6%E4%BF%9D%E4%BF%AE%E6%94%BF%E7%AD%96%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "整车保修政策（DMS） - VehicleRepairStandard"
+        },
+        "EXEED:整车保修政策适用范围清单": {
+            "printouts": [],
+            "fulltext": "EXEED:整车保修政策适用范围清单",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%B4%E8%BD%A6%E4%BF%9D%E4%BF%AE%E6%94%BF%E7%AD%96%E9%80%82%E7%94%A8%E8%8C%83%E5%9B%B4%E6%B8%85%E5%8D%95",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "整车保修政策适用范围清单 - WarrantyPolicySpecialVehicle"
+        },
+        "EXEED:整车保修政策适用范围清单（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:整车保修政策适用范围清单（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%B4%E8%BD%A6%E4%BF%9D%E4%BF%AE%E6%94%BF%E7%AD%96%E9%80%82%E7%94%A8%E8%8C%83%E5%9B%B4%E6%B8%85%E5%8D%95%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "整车保修政策适用范围清单（DMS） - WarrantyPolicySpecialVehicle"
+        },
+        "EXEED:整车保修政策条款": {
+            "printouts": [],
+            "fulltext": "EXEED:整车保修政策条款",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%B4%E8%BD%A6%E4%BF%9D%E4%BF%AE%E6%94%BF%E7%AD%96%E6%9D%A1%E6%AC%BE",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "整车保修政策条款 - WarrantyPolicyDetail"
+        },
+        "EXEED:整车保修政策条款（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:整车保修政策条款（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%B4%E8%BD%A6%E4%BF%9D%E4%BF%AE%E6%94%BF%E7%AD%96%E6%9D%A1%E6%AC%BE%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "整车保修政策条款（DMS） - WarrantyPolicyDetail"
+        },
+        "EXEED:整车保修政策装车件条款清单": {
+            "printouts": [],
+            "fulltext": "EXEED:整车保修政策装车件条款清单",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%B4%E8%BD%A6%E4%BF%9D%E4%BF%AE%E6%94%BF%E7%AD%96%E8%A3%85%E8%BD%A6%E4%BB%B6%E6%9D%A1%E6%AC%BE%E6%B8%85%E5%8D%95",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "整车保修政策装车件条款清单 - WarrantyPolicyPartDetail"
+        },
+        "EXEED:整车保修政策装车件条款清单（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:整车保修政策装车件条款清单（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%B4%E8%BD%A6%E4%BF%9D%E4%BF%AE%E6%94%BF%E7%AD%96%E8%A3%85%E8%BD%A6%E4%BB%B6%E6%9D%A1%E6%AC%BE%E6%B8%85%E5%8D%95%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "整车保修政策装车件条款清单（DMS） - WarrantyPolicyPartDetail"
+        },
+        "EXEED:整车保养政策": {
+            "printouts": [],
+            "fulltext": "EXEED:整车保养政策",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%B4%E8%BD%A6%E4%BF%9D%E5%85%BB%E6%94%BF%E7%AD%96",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "整车保养政策 - VehicleMaintenanceStandard"
+        },
+        "EXEED:整车保养政策（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:整车保养政策（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%B4%E8%BD%A6%E4%BF%9D%E5%85%BB%E6%94%BF%E7%AD%96%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "整车保养政策（DMS） - VehicleMaintenanceStandard"
+        },
+        "EXEED:整车保养政策车型车辆清单": {
+            "printouts": [],
+            "fulltext": "EXEED:整车保养政策车型车辆清单",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%B4%E8%BD%A6%E4%BF%9D%E5%85%BB%E6%94%BF%E7%AD%96%E8%BD%A6%E5%9E%8B%E8%BD%A6%E8%BE%86%E6%B8%85%E5%8D%95",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "整车保养政策车型车辆清单 - VehicleMaintenanceStandardVehicle"
+        },
+        "EXEED:整车保养政策车型车辆清单（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:整车保养政策车型车辆清单（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%B4%E8%BD%A6%E4%BF%9D%E5%85%BB%E6%94%BF%E7%AD%96%E8%BD%A6%E5%9E%8B%E8%BD%A6%E8%BE%86%E6%B8%85%E5%8D%95%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "整车保养政策车型车辆清单（DMS） - VehicleMaintenanceStandardVehicle"
+        },
+        "EXEED:整车保养政策条款": {
+            "printouts": [],
+            "fulltext": "EXEED:整车保养政策条款",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%B4%E8%BD%A6%E4%BF%9D%E5%85%BB%E6%94%BF%E7%AD%96%E6%9D%A1%E6%AC%BE",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "整车保养政策条款 - VehicleMaintenanceStandardItem"
+        },
+        "EXEED:整车保养政策条款（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:整车保养政策条款（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%B4%E8%BD%A6%E4%BF%9D%E5%85%BB%E6%94%BF%E7%AD%96%E6%9D%A1%E6%AC%BE%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "整车保养政策条款（DMS） - VehicleMaintenanceStandardItem"
+        },
+        "EXEED:整车保养政策条款材料清单": {
+            "printouts": [],
+            "fulltext": "EXEED:整车保养政策条款材料清单",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%B4%E8%BD%A6%E4%BF%9D%E5%85%BB%E6%94%BF%E7%AD%96%E6%9D%A1%E6%AC%BE%E6%9D%90%E6%96%99%E6%B8%85%E5%8D%95",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "整车保养政策条款材料清单 - VehicleMaintenanceStandardMaterialDetail"
+        },
+        "EXEED:整车保养政策条款材料清单（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:整车保养政策条款材料清单（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%B4%E8%BD%A6%E4%BF%9D%E5%85%BB%E6%94%BF%E7%AD%96%E6%9D%A1%E6%AC%BE%E6%9D%90%E6%96%99%E6%B8%85%E5%8D%95%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "整车保养政策条款材料清单（DMS） - VehicleMaintenanceStandardMaterialDetail"
+        },
+        "EXEED:整车保养政策条款维修项目清单": {
+            "printouts": [],
+            "fulltext": "EXEED:整车保养政策条款维修项目清单",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%B4%E8%BD%A6%E4%BF%9D%E5%85%BB%E6%94%BF%E7%AD%96%E6%9D%A1%E6%AC%BE%E7%BB%B4%E4%BF%AE%E9%A1%B9%E7%9B%AE%E6%B8%85%E5%8D%95",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "整车保养政策条款维修项目清单 - VehicleMaintenanceStandardItemDetail"
+        },
+        "EXEED:整车保养政策条款维修项目清单（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:整车保养政策条款维修项目清单（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%B4%E8%BD%A6%E4%BF%9D%E5%85%BB%E6%94%BF%E7%AD%96%E6%9D%A1%E6%AC%BE%E7%BB%B4%E4%BF%AE%E9%A1%B9%E7%9B%AE%E6%B8%85%E5%8D%95%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "整车保养政策条款维修项目清单（DMS） - VehicleMaintenanceStandardItemDetail"
+        },
+        "SALEEN:整车仓库": {
+            "printouts": [],
+            "fulltext": "SALEEN:整车仓库",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E6%95%B4%E8%BD%A6%E4%BB%93%E5%BA%93",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "整车仓库 - VehicleWarehouse"
+        },
+        "SALEEN:整车返利账户": {
+            "printouts": [],
+            "fulltext": "SALEEN:整车返利账户",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E6%95%B4%E8%BD%A6%E8%BF%94%E5%88%A9%E8%B4%A6%E6%88%B7",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "整车返利账户 - VehicleRebateAccount"
+        },
+        "SALEEN:整车库存变更履历": {
+            "printouts": [],
+            "fulltext": "SALEEN:整车库存变更履历",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E6%95%B4%E8%BD%A6%E5%BA%93%E5%AD%98%E5%8F%98%E6%9B%B4%E5%B1%A5%E5%8E%86",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "整车库存变更履历 - VehicleStockHistory"
+        },
+        "SALEEN:整车库存信息": {
+            "printouts": [],
+            "fulltext": "SALEEN:整车库存信息",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E6%95%B4%E8%BD%A6%E5%BA%93%E5%AD%98%E4%BF%A1%E6%81%AF",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "整车库存信息 - VehicleStock"
+        },
+        "EXEED:整车库道信息": {
+            "printouts": [],
+            "fulltext": "EXEED:整车库道信息",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%B4%E8%BD%A6%E5%BA%93%E9%81%93%E4%BF%A1%E6%81%AF",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "整车库道信息 - VehicleWarehouseBin"
+        },
+        "SALEEN:整车客户账户": {
+            "printouts": [],
+            "fulltext": "SALEEN:整车客户账户",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E6%95%B4%E8%BD%A6%E5%AE%A2%E6%88%B7%E8%B4%A6%E6%88%B7",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "整车客户账户 - VehicleCustomerAccount"
+        },
+        "SALEEN:整车库区信息": {
+            "printouts": [],
+            "fulltext": "SALEEN:整车库区信息",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E6%95%B4%E8%BD%A6%E5%BA%93%E5%8C%BA%E4%BF%A1%E6%81%AF",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "整车库区信息 - VehicleWarehouseArea"
+        },
+        "EXEED:整车库位信息": {
+            "printouts": [],
+            "fulltext": "EXEED:整车库位信息",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%B4%E8%BD%A6%E5%BA%93%E4%BD%8D%E4%BF%A1%E6%81%AF",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "整车库位信息 - VehicleWarehouseBin"
+        },
+        "SALEEN:整车库位信息": {
+            "printouts": [],
+            "fulltext": "SALEEN:整车库位信息",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E6%95%B4%E8%BD%A6%E5%BA%93%E4%BD%8D%E4%BF%A1%E6%81%AF",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "整车库位信息 - VehicleWarehouseBin"
+        },
+        "SALEEN:整车零售合同": {
+            "printouts": [],
+            "fulltext": "SALEEN:整车零售合同",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E6%95%B4%E8%BD%A6%E9%9B%B6%E5%94%AE%E5%90%88%E5%90%8C",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "整车零售合同 - RetailContract"
+        },
+        "SALEEN:整车零售合同增值业务清单": {
+            "printouts": [],
+            "fulltext": "SALEEN:整车零售合同增值业务清单",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E6%95%B4%E8%BD%A6%E9%9B%B6%E5%94%AE%E5%90%88%E5%90%8C%E5%A2%9E%E5%80%BC%E4%B8%9A%E5%8A%A1%E6%B8%85%E5%8D%95",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "整车零售合同增值业务清单 - RetailContractValueAdded"
+        },
+        "SALEEN:整车MES销售类型": {
+            "printouts": [],
+            "fulltext": "SALEEN:整车MES销售类型",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E6%95%B4%E8%BD%A6MES%E9%94%80%E5%94%AE%E7%B1%BB%E5%9E%8B",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "整车MES销售类型 - MESSalesType"
+        },
+        "SALEEN:整车批售订单": {
+            "printouts": [],
+            "fulltext": "SALEEN:整车批售订单",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E6%95%B4%E8%BD%A6%E6%89%B9%E5%94%AE%E8%AE%A2%E5%8D%95",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "整车批售订单 - VehicleWholeSaleOrder"
+        },
+        "SALEEN:整车批售订单清单": {
+            "printouts": [],
+            "fulltext": "SALEEN:整车批售订单清单",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E6%95%B4%E8%BD%A6%E6%89%B9%E5%94%AE%E8%AE%A2%E5%8D%95%E6%B8%85%E5%8D%95",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "整车批售订单清单 - VehicleWholeSaleOrderDetail"
+        },
+        "SALEEN:整车销售类型": {
+            "printouts": [],
+            "fulltext": "SALEEN:整车销售类型",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E6%95%B4%E8%BD%A6%E9%94%80%E5%94%AE%E7%B1%BB%E5%9E%8B",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "整车销售类型 - VehicleSalesType"
+        },
+        "EXEED:整车销售类型": {
+            "printouts": [],
+            "fulltext": "EXEED:整车销售类型",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%B4%E8%BD%A6%E9%94%80%E5%94%AE%E7%B1%BB%E5%9E%8B",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "整车销售类型 - VehicleSalesType"
+        },
+        "EXEED:整车销售组织": {
+            "printouts": [],
+            "fulltext": "EXEED:整车销售组织",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%B4%E8%BD%A6%E9%94%80%E5%94%AE%E7%BB%84%E7%BB%87",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "整车销售组织 - VehicleSalesOrganization"
+        },
+        "SALEEN:整车销售组织": {
+            "printouts": [],
+            "fulltext": "SALEEN:整车销售组织",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E6%95%B4%E8%BD%A6%E9%94%80%E5%94%AE%E7%BB%84%E7%BB%87",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "整车销售组织 - VehicleSalesOrganization"
+        },
+        "EXEED:整车销售组织（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:整车销售组织（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E6%95%B4%E8%BD%A6%E9%94%80%E5%94%AE%E7%BB%84%E7%BB%87%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "整车销售组织（DMS） - VehicleSalesOrganization"
+        },
+        "SALEEN:整车资金类型": {
+            "printouts": [],
+            "fulltext": "SALEEN:整车资金类型",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E6%95%B4%E8%BD%A6%E8%B5%84%E9%87%91%E7%B1%BB%E5%9E%8B",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "整车资金类型 - VehicleFundsType"
+        },
+        "EXEED:自定义辅料": {
+            "printouts": [],
+            "fulltext": "EXEED:自定义辅料",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E8%87%AA%E5%AE%9A%E4%B9%89%E8%BE%85%E6%96%99",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "自定义辅料 - UserDefinedAssistPart"
+        },
+        "EXEED:自定义辅料（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:自定义辅料（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E8%87%AA%E5%AE%9A%E4%B9%89%E8%BE%85%E6%96%99%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "自定义辅料（DMS） - UserDefinedAssistPart"
+        },
+        "EXEED:质量反馈车辆清单": {
+            "printouts": [],
+            "fulltext": "EXEED:质量反馈车辆清单",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E8%B4%A8%E9%87%8F%E5%8F%8D%E9%A6%88%E8%BD%A6%E8%BE%86%E6%B8%85%E5%8D%95",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "质量反馈车辆清单 - MarketQualityVehicleDetail"
+        },
+        "EXEED:质量反馈单": {
+            "printouts": [],
+            "fulltext": "EXEED:质量反馈单",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E8%B4%A8%E9%87%8F%E5%8F%8D%E9%A6%88%E5%8D%95",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "质量反馈单 - MarketQuality"
+        },
+        "EXEED:主料与辅料关系": {
+            "printouts": [],
+            "fulltext": "EXEED:主料与辅料关系",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E4%B8%BB%E6%96%99%E4%B8%8E%E8%BE%85%E6%96%99%E5%85%B3%E7%B3%BB",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "主料与辅料关系 - PartAssistPart"
+        },
+        "EXEED:主料与辅料关系（DMS）": {
+            "printouts": [],
+            "fulltext": "EXEED:主料与辅料关系（DMS）",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E4%B8%BB%E6%96%99%E4%B8%8E%E8%BE%85%E6%96%99%E5%85%B3%E7%B3%BB%EF%BC%88DMS%EF%BC%89",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "主料与辅料关系（DMS） - PartAssistPart"
+        },
+        "EXEED:责任单位": {
+            "printouts": [],
+            "fulltext": "EXEED:责任单位",
+            "fullurl": "https://wiki.sdtdev.net/EXEED:%E8%B4%A3%E4%BB%BB%E5%8D%95%E4%BD%8D",
+            "namespace": 3102,
+            "exists": "1",
+            "displaytitle": "责任单位 - DutyUnit"
+        },
+        "SALEEN:责任单位": {
+            "printouts": [],
+            "fulltext": "SALEEN:责任单位",
+            "fullurl": "https://wiki.sdtdev.net/SALEEN:%E8%B4%A3%E4%BB%BB%E5%8D%95%E4%BD%8D",
+            "namespace": 3108,
+            "exists": "1",
+            "displaytitle": "责任单位 - DutyUnit"
+        }
+    },
+    "serializer": "SMW\\Serializers\\QueryResultSerializer",
+    "version": 2,
+    "rows": 310
+}

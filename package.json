@@ -7,6 +7,7 @@
   "scripts": {
     "start": "node ./src/index",
     "spider-enums": "node ./src/spider/enums.js",
+    "spider-boes": "node ./src/spider/boes.js",
     "test": "jest"
   },
   "author": "",
